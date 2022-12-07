@@ -1,6 +1,6 @@
 {
   "name": "@quickchat.vn/fuselage-root",
-  "private": true,
+  "private": false,
   "version": "0.31.22",
   "workspaces": [
     "packages/*",
