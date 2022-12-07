@@ -39,5 +39,18 @@
     "node": "14.17.6",
     "yarn": "1.22.11"
   },
-  "packageManager": "yarn@3.2.4"
+  "packageManager": "yarn@3.2.4",
+  "description": "<p align=\"center\">   <a href=\"https://quickchat.vn\" title=\"QuickSales.Vn\">     <img src=\"https://github.com/QuickSales/QuickSales.Vn.Artwork/raw/master/Logos/2020/png/logo-horizontal-red.png\" alt=\"QuickSales.Vn\" />   </a> </p>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuickSales/fuselage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuickSales/fuselage/issues"
+  },
+  "homepage": "https://github.com/QuickSales/fuselage#readme"
 }
