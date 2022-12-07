@@ -3,7 +3,7 @@
   "version": "0.31.22",
   "description": "Memoized and SSR-compatible facade of CSS.supports API",
   "author": {
-    "name": "Rocket.Chat",
+    "name": "QuickSales.Vn",
     "url": "https://rocket.chat/"
   },
   "homepage": "https://github.com/QuickSales/fuselage#readme",

@@ -110,7 +110,7 @@ jobs:
       - build-and-test
     environment:
       name: github-pages
-      url: "https://rocketchat.github.io/Rocket.Chat.Fuselage/fuselage/${{ needs.build-and-test.outputs.branch-name }}"
+      url: "https://rocketchat.github.io/QuickSales.Vn.Fuselage/fuselage/${{ needs.build-and-test.outputs.branch-name }}"
     steps:
       - uses: actions/checkout@v2
         with:

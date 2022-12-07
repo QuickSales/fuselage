@@ -32,7 +32,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### Features
 
-- **logo:** Rocket.Chat logo package ([#535](https://github.com/QuickSales/fuselage/issues/535)) ([94522e6](https://github.com/QuickSales/fuselage/commit/94522e6b74d02f88f56e9ac898ca26b9d1e42fbd))
+- **logo:** QuickSales.Vn logo package ([#535](https://github.com/QuickSales/fuselage/issues/535)) ([94522e6](https://github.com/QuickSales/fuselage/commit/94522e6b74d02f88f56e9ac898ca26b9d1e42fbd))
 
 # [0.29.0](https://github.com/QuickSales/fuselage/compare/v0.28.0...v0.29.0) (2021-08-31)
 

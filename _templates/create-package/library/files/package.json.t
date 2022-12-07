@@ -6,7 +6,7 @@ to: packages/<%=package%>/package.json
   "version": "<%=version%>",
   "description": "<%=description%>",
   "author": {
-    "name": "Rocket.Chat",
+    "name": "QuickSales.Vn",
     "url": "https://rocket.chat/"
   },
   "homepage": "https://github.com/QuickSales/fuselage#readme",

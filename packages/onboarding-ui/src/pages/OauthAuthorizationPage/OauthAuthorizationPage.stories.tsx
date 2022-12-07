@@ -13,7 +13,7 @@ export default {
     layout: 'fullscreen',
   },
   args: {
-    clientName: 'Rocket.Chat',
+    clientName: 'QuickSales.Vn',
     error: {
       message: '',
       onGoBack: () => console.log('Back'),

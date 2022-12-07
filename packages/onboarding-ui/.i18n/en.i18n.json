@@ -27,7 +27,7 @@
     },
     "emailConfirmed": {
       "title": "Email Confirmed!",
-      "subtitle": "You can return to your Rocket.Chat application – we have launched your workspace already."
+      "subtitle": "You can return to your QuickSales.Vn application – we have launched your workspace already."
     },
     "checkYourEmail": {
       "title": "Check your email",
@@ -79,7 +79,7 @@
     },
     "oauthAuthorizationPage": {
       "title": "Authorization",
-      "allowLogin": "Do you wish to allow <1>{{name}}</1> to login with your Rocket.Chat Cloud Account?",
+      "allowLogin": "Do you wish to allow <1>{{name}}</1> to login with your QuickSales.Vn Cloud Account?",
       "buttons": {
         "authorize": "Authorize",
         "goBack": "Go Back"
@@ -105,7 +105,7 @@
     },
     "createCloudWorkspace": {
       "title": "Launch new workspace and <1>30-day trial</1>",
-      "tryGold": "Try Rocket.Chat Gold Edition for 30 days. No credit card required.",
+      "tryGold": "Try QuickSales.Vn Gold Edition for 30 days. No credit card required.",
       "auditing": "Message audit panel / Audit logs",
       "numberOfIntegrations": "Apps and integrations",
       "ldap": "LDAP enhanced sync",
@@ -144,7 +144,7 @@
           "placeholder": "Create password"
         },
         "keepPosted": {
-          "label": "Keep me posted about Rocket.Chat updates"
+          "label": "Keep me posted about QuickSales.Vn updates"
         }
       }
     },

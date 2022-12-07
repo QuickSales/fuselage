@@ -2,9 +2,9 @@
   "name": "@rocket.chat/css-in-js",
   "version": "0.31.22",
   "description": "Toolset to transpile and use CSS on runtime",
-  "homepage": "https://rocketchat.github.io/Rocket.Chat.Fuselage/",
+  "homepage": "https://rocketchat.github.io/QuickSales.Vn.Fuselage/",
   "author": {
-    "name": "Rocket.Chat",
+    "name": "QuickSales.Vn",
     "url": "https://rocket.chat/"
   },
   "license": "MIT",

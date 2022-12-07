@@ -1,14 +1,14 @@
 <!--header-->
 
 <p align="center">
-  <a href="https://rocket.chat" title="Rocket.Chat">
-    <img src="https://github.com/QuickSales/Rocket.Chat.Artwork/raw/master/Logos/2020/png/logo-horizontal-red.png" alt="Rocket.Chat" />
+  <a href="https://rocket.chat" title="QuickSales.Vn">
+    <img src="https://github.com/QuickSales/QuickSales.Vn.Artwork/raw/master/Logos/2020/png/logo-horizontal-red.png" alt="QuickSales.Vn" />
   </a>
 </p>
 
 # `@rocket.chat/fuselage`
 
-> Rocket.Chat's React Components Library
+> QuickSales.Vn's React Components Library
 
 ---
 
@@ -115,7 +115,7 @@ yarn storybook
 
 ### Usage
 
-Note: If you are using Next.js for development and wish to use Rocket.Chat Fuselage components, you need to dynamically import the component. More on this can be found [here](https://dev.to/vvo/how-to-solve-window-is-not-defined-errors-in-react-and-next-js-5f97#3-third-solution-dynamic-loading).
+Note: If you are using Next.js for development and wish to use QuickSales.Vn Fuselage components, you need to dynamically import the component. More on this can be found [here](https://dev.to/vvo/how-to-solve-window-is-not-defined-errors-in-react-and-next-js-5f97#3-third-solution-dynamic-loading).
 
 Usage Example:
 

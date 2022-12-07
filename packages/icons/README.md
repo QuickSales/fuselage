@@ -1,14 +1,14 @@
 <!--header-->
 
 <p align="center">
-  <a href="https://rocket.chat" title="Rocket.Chat">
-    <img src="https://github.com/QuickSales/Rocket.Chat.Artwork/raw/master/Logos/2020/png/logo-horizontal-red.png" alt="Rocket.Chat" />
+  <a href="https://rocket.chat" title="QuickSales.Vn">
+    <img src="https://github.com/QuickSales/QuickSales.Vn.Artwork/raw/master/Logos/2020/png/logo-horizontal-red.png" alt="QuickSales.Vn" />
   </a>
 </p>
 
 # `@rocket.chat/icons`
 
-> Rocket.Chat's Icons
+> QuickSales.Vn's Icons
 
 ---
 
@@ -45,7 +45,7 @@ Feel free to check the [issues](https://github.com/QuickSales/fuselage/issues).
 
 ### Adding new icons
 
-All the icons should be designed by Rocket.Chat's design crew, following some conventions:
+All the icons should be designed by QuickSales.Vn's design crew, following some conventions:
 
 - The view box must have the dimensions of 32x32 units;
 - Any horizontal assimetry must follow the left-to-right direction.

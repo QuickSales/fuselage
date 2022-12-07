@@ -2,9 +2,9 @@
   "name": "@rocket.chat/mp3-encoder",
   "version": "0.31.22",
   "description": "A LAME encoder to be used in web workers",
-  "homepage": "https://rocketchat.github.io/Rocket.Chat.Fuselage/",
+  "homepage": "https://rocketchat.github.io/QuickSales.Vn.Fuselage/",
   "author": {
-    "name": "Rocket.Chat",
+    "name": "QuickSales.Vn",
     "url": "https://rocket.chat/"
   },
   "license": "MIT",

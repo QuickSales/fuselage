@@ -1,14 +1,14 @@
 <!--header-->
 
 <p align="center">
-  <a href="https://rocket.chat" title="Rocket.Chat">
-    <img src="https://github.com/QuickSales/Rocket.Chat.Artwork/raw/master/Logos/2020/png/logo-horizontal-red.png" alt="Rocket.Chat" />
+  <a href="https://rocket.chat" title="QuickSales.Vn">
+    <img src="https://github.com/QuickSales/QuickSales.Vn.Artwork/raw/master/Logos/2020/png/logo-horizontal-red.png" alt="QuickSales.Vn" />
   </a>
 </p>
 
 # `@rocket.chat/prettier-config`
 
-> Prettier configuration for Rocket.Chat repositories
+> Prettier configuration for QuickSales.Vn repositories
 
 ---
 

@@ -1,14 +1,14 @@
 <!--header-->
 
 <p align="center">
-  <a href="https://rocket.chat" title="Rocket.Chat">
-    <img src="https://github.com/QuickSales/Rocket.Chat.Artwork/raw/master/Logos/2020/png/logo-horizontal-red.png" alt="Rocket.Chat" />
+  <a href="https://rocket.chat" title="QuickSales.Vn">
+    <img src="https://github.com/QuickSales/QuickSales.Vn.Artwork/raw/master/Logos/2020/png/logo-horizontal-red.png" alt="QuickSales.Vn" />
   </a>
 </p>
 
 # `@rocket.chat/message-parser`
 
-> Rocket.Chat parser for messages
+> QuickSales.Vn parser for messages
 
 ---
 
@@ -20,7 +20,7 @@
 
 ## Description
 
-Rocket.Chat grammar with the purpose of parsing the messages of the rocket chat, converting text to an AST tree.
+QuickSales.Vn grammar with the purpose of parsing the messages of the rocket chat, converting text to an AST tree.
 
 The grammar provides support for markdown, mentions and emojis.
 

@@ -53,7 +53,7 @@ const OauthAuthorizationPage = ({
               >
                 Do you wish to allow
                 <strong>{{ name }}</strong>
-                to login with your Rocket.Chat Cloud Account?
+                to login with your QuickSales.Vn Cloud Account?
               </Trans>
 
               <Box mbs='x24'>

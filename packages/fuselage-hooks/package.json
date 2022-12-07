@@ -1,10 +1,10 @@
 {
   "name": "@rocket.chat/fuselage-hooks",
   "version": "0.31.22",
-  "description": "React hooks for Fuselage, Rocket.Chat's design system and UI toolkit",
-  "homepage": "https://rocketchat.github.io/Rocket.Chat.Fuselage/",
+  "description": "React hooks for Fuselage, QuickSales.Vn's design system and UI toolkit",
+  "homepage": "https://rocketchat.github.io/QuickSales.Vn.Fuselage/",
   "author": {
-    "name": "Rocket.Chat",
+    "name": "QuickSales.Vn",
     "url": "https://rocket.chat/"
   },
   "license": "MIT",

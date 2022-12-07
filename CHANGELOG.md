@@ -2,106 +2,106 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-### [0.31.22](https://github.com/QuickSales/Rocket.Chat.Fuselage/compare/v0.31.21...v0.31.22) (2022-12-02)
+### [0.31.22](https://github.com/QuickSales/QuickSales.Vn.Fuselage/compare/v0.31.21...v0.31.22) (2022-12-02)
 
 ### Features
 
-- **fuselage:** add message names wrapper and update system message ([#889](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/889)) ([97dd401](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/97dd401f566fc497d7e759d70cc34a77409af527))
-- **fuselage:** Featured Tag variant ([#922](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/922)) ([0bb5c90](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/0bb5c90b910bc0d1fe7657001041cf530b4bc89c))
-- **fuselage:** Update Banner Component style ([#905](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/905)) ([15b4f96](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/15b4f96844464716b7dff1265ca67862cea31861))
+- **fuselage:** add message names wrapper and update system message ([#889](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/889)) ([97dd401](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/97dd401f566fc497d7e759d70cc34a77409af527))
+- **fuselage:** Featured Tag variant ([#922](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/922)) ([0bb5c90](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/0bb5c90b910bc0d1fe7657001041cf530b4bc89c))
+- **fuselage:** Update Banner Component style ([#905](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/905)) ([15b4f96](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/15b4f96844464716b7dff1265ca67862cea31861))
 
 ### Bug Fixes
 
-- **fuselage-hooks:** fix storage not reacting if there are multiple in same page ([#911](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/911)) ([e1d0a4a](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/e1d0a4a911bc88eb788b5598d9852c6ea0e59c1a))
-- **fuselage:** Adding heading tag styles to messages ([#904](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/904)) ([ade27ba](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/ade27baad3c02dcefc8aaddce1cbe9a40b31357c))
-- **fuselage:** Avatar border and Tag alignment ([#892](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/892)) ([02975fc](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/02975fca7ab5432b8eec82031c70e0fbd770ca6d))
-- **fuselage:** Elevation token ([#920](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/920)) ([47a63d4](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/47a63d48b96776425326635ac06f82ba74708737))
-- **fuselage:** Message palette colors ([#896](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/896)) ([5a22d8b](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/5a22d8b2d8828cdc631c5a15218fb36cb51b67fd))
-- **fuselage:** Revert Banner Elevation ([#926](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/926)) ([3c0d7f9](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/3c0d7f928da14f1efd8533726a23f76c48d99947))
-- **fuselage:** Update Banner Styles ([#912](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/912)) ([4858258](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/48582580addd3f65117064fbc2a0a345ede9b6e2))
-- **message-parser:** Add file path structure to URL reference markdown ([#901](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/901)) ([91239b6](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/91239b6cd381d62a37ae6d80819aaabec50bdc25))
-- **message-parser:** Escaping only necessary characters ([#899](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/899)) ([29dd497](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/29dd4970f73ab8f14467864f778cbb5d311c1fea))
-- **message-parser:** Phone pattern ([#900](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/900)) ([6062700](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/6062700bcd42b1fd2bc41aca5dc496923cc509e5))
-- **message-parser:** User mention with @ character ([#894](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/894)) ([aa9bc06](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/aa9bc06e06b2fc1a5335896078e9b51ae2382c96))
+- **fuselage-hooks:** fix storage not reacting if there are multiple in same page ([#911](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/911)) ([e1d0a4a](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/e1d0a4a911bc88eb788b5598d9852c6ea0e59c1a))
+- **fuselage:** Adding heading tag styles to messages ([#904](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/904)) ([ade27ba](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/ade27baad3c02dcefc8aaddce1cbe9a40b31357c))
+- **fuselage:** Avatar border and Tag alignment ([#892](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/892)) ([02975fc](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/02975fca7ab5432b8eec82031c70e0fbd770ca6d))
+- **fuselage:** Elevation token ([#920](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/920)) ([47a63d4](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/47a63d48b96776425326635ac06f82ba74708737))
+- **fuselage:** Message palette colors ([#896](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/896)) ([5a22d8b](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/5a22d8b2d8828cdc631c5a15218fb36cb51b67fd))
+- **fuselage:** Revert Banner Elevation ([#926](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/926)) ([3c0d7f9](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/3c0d7f928da14f1efd8533726a23f76c48d99947))
+- **fuselage:** Update Banner Styles ([#912](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/912)) ([4858258](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/48582580addd3f65117064fbc2a0a345ede9b6e2))
+- **message-parser:** Add file path structure to URL reference markdown ([#901](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/901)) ([91239b6](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/91239b6cd381d62a37ae6d80819aaabec50bdc25))
+- **message-parser:** Escaping only necessary characters ([#899](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/899)) ([29dd497](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/29dd4970f73ab8f14467864f778cbb5d311c1fea))
+- **message-parser:** Phone pattern ([#900](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/900)) ([6062700](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/6062700bcd42b1fd2bc41aca5dc496923cc509e5))
+- **message-parser:** User mention with @ character ([#894](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/894)) ([aa9bc06](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/aa9bc06e06b2fc1a5335896078e9b51ae2382c96))
 
-### [0.31.21](https://github.com/QuickSales/Rocket.Chat.Fuselage/compare/v0.31.20...v0.31.21) (2022-10-31)
+### [0.31.21](https://github.com/QuickSales/QuickSales.Vn.Fuselage/compare/v0.31.20...v0.31.21) (2022-10-31)
 
 ### Features
 
-- **fuselage:** Empty `Badge` and small variants ([#876](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/876)) ([16bff6d](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/16bff6d4a89dede5284c0c8dbf3706fddae682e8))
-- **icons:** Add spanner icon ([#880](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/880)) ([a16a786](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/a16a78648d18d91192f08ffeb0f6bac5a27db111))
-- **message-parser:** Enabling Emphasis elements (bold, strike and italic) inside link label ([#864](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/864)) ([7e521bb](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/7e521bbc4a257fac3bea292f40220419c411fdc6))
+- **fuselage:** Empty `Badge` and small variants ([#876](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/876)) ([16bff6d](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/16bff6d4a89dede5284c0c8dbf3706fddae682e8))
+- **icons:** Add spanner icon ([#880](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/880)) ([a16a786](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/a16a78648d18d91192f08ffeb0f6bac5a27db111))
+- **message-parser:** Enabling Emphasis elements (bold, strike and italic) inside link label ([#864](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/864)) ([7e521bb](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/7e521bbc4a257fac3bea292f40220419c411fdc6))
 
-### [0.31.20](https://github.com/QuickSales/Rocket.Chat.Fuselage/compare/v0.31.19...v0.31.20) (2022-10-21)
-
-### Features
-
-- **fuselage:** Callout Custom Icon [#881](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/881) ([3dadd68](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/3dadd6878eef22eb496c4054b6a0af5c5ad2222d))
-
-### Bug Fixes
-
-- **fuselage:** add message generic preview cover image ([#863](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/863)) ([f1f19f0](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/f1f19f0980854e5eeb39903551873fc7d1e6a331))
-- **fuselage:** Message Toolbox margin [#882](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/882) ([c7516c1](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/c7516c18d968394eba747bab828e397f97123509))
-- **fuselage:** Palette classes ([#873](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/873)) ([6a3f3ff](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/6a3f3ff8557b4463481516c7128dee924007ea70))
-- **fuselage:** Tag not receiving props properly ([#865](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/865)) ([5e5f25d](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/5e5f25d6f5decca320a1f24b8dcb6b10adc0f18e))
-- **fuselage:** Token colors usage ([#875](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/875)) ([b7527f4](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/b7527f472e79f8783e8c595f8cf77d8368fb56cb))
-- **layout:** Design adjustments ([#867](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/867)) ([99eabc9](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/99eabc9a8e41d5877cac17c9a591f41d350590e1))
-
-### [0.31.19](https://github.com/QuickSales/Rocket.Chat.Fuselage/compare/v0.31.18...v0.31.19) (2022-10-07)
+### [0.31.20](https://github.com/QuickSales/QuickSales.Vn.Fuselage/compare/v0.31.19...v0.31.20) (2022-10-21)
 
 ### Features
 
-- Add link property to banner component ([#849](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/849)) ([dc71a45](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/dc71a45cf8c5d9945a54e765c3c8632c7feb8c5d))
-- **fuselage:** Adds wordbreak in Box Component ([#853](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/853)) ([21b298c](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/21b298c62490ef065847552ef9b2d5c4bd6dd624))
-- **fuselage:** Modal Hero Image ([#860](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/860)) ([ce85b97](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/ce85b97cd8bf8a3afd61f37116de30d9ca31df71))
-- **fuselage:** Vertical Divider ([#840](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/840)) ([d418221](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/d418221570008dd24e14ce5c142268fe5ff9f309))
-- **message-parser:** Add Matrix Protocol username pattern to User Mention ([#847](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/847)) ([702c1ee](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/702c1ee55f5988ff0955f68871fece34e1346bf2))
-- Slider component ([#826](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/826)) ([4828145](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/482814527d4245137fa73bc8c332b857cd52bbd4))
+- **fuselage:** Callout Custom Icon [#881](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/881) ([3dadd68](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/3dadd6878eef22eb496c4054b6a0af5c5ad2222d))
 
 ### Bug Fixes
 
-- build-storybook layout ([83c7e4b](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/83c7e4bdfe447f94a3ecbecadb5275c995074e11))
-- **fuselage:** Callout Component Style Update ([#862](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/862)) ([50c7d94](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/50c7d94f8ff2c176608db1cc10b3851886c91de9))
-- **fuselage:** Reaction list not wrapping ([#843](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/843)) ([609bf2d](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/609bf2d6f3a81f000ad42860a49af20a411abe58))
-- **fuselage:** Sidebar spacings ([#837](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/837)) ([39d8028](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/39d80282e795722847dd2a56752b9fe2af73b80b))
-- **fuselage:** Tabs divider and state colors ([8d72150](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/8d72150b9aa07a838ff9e14c8783efae7f5fca75))
-- **message-parser:** Link broken ([#807](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/807)) ([62a1582](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/62a1582e86226c2633d7a2d6deb030ec72483829))
-- **message-parser:** Message parser issues ([#852](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/852)) ([7ece520](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/7ece520410913a633f95cbdf13a2bdde62ae3b6c)), closes [#858](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/858) [#855](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/855) [#853](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/853) [#861](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/861)
-- **message-parser:** tests for urls followed by a line break and spaces ([#848](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/848)) ([228d42f](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/228d42f842d41fc453e929279a970803129e7c8e))
-- **message-parser:** Update emoticon to output :fearful: emoji ([#851](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/851)) ([6089b25](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/6089b25f24eda6675df6e3f5528e37cb498ee31c))
+- **fuselage:** add message generic preview cover image ([#863](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/863)) ([f1f19f0](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/f1f19f0980854e5eeb39903551873fc7d1e6a331))
+- **fuselage:** Message Toolbox margin [#882](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/882) ([c7516c1](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/c7516c18d968394eba747bab828e397f97123509))
+- **fuselage:** Palette classes ([#873](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/873)) ([6a3f3ff](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/6a3f3ff8557b4463481516c7128dee924007ea70))
+- **fuselage:** Tag not receiving props properly ([#865](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/865)) ([5e5f25d](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/5e5f25d6f5decca320a1f24b8dcb6b10adc0f18e))
+- **fuselage:** Token colors usage ([#875](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/875)) ([b7527f4](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/b7527f472e79f8783e8c595f8cf77d8368fb56cb))
+- **layout:** Design adjustments ([#867](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/867)) ([99eabc9](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/99eabc9a8e41d5877cac17c9a591f41d350590e1))
 
-### [0.31.18](https://github.com/QuickSales/Rocket.Chat.Fuselage/compare/v0.31.17...v0.31.18) (2022-09-01)
-
-### Bug Fixes
-
-- **fuselage:** `StatusBullet` styles ([#841](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/841)) ([1963f2e](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/1963f2e0c79758e9e260fbde7a2ece78083f20d9))
-
-### [0.31.17](https://github.com/QuickSales/Rocket.Chat.Fuselage/compare/v0.31.16...v0.31.17) (2022-08-31)
+### [0.31.19](https://github.com/QuickSales/QuickSales.Vn.Fuselage/compare/v0.31.18...v0.31.19) (2022-10-07)
 
 ### Features
 
-- **monorepo:** Layout package ([#802](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/802)) ([fc1efc0](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/fc1efc0c957fa5e735f175dd3c59c62461841d53))
-- **ui-kit:** video_conf block ([#831](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/831)) ([70080e2](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/70080e2ae2d32da7c2dac91062808e2239de861f))
-- **uikit-playground:** Uikit Playground ([#793](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/793)) ([8cf78e7](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/8cf78e7861dc4009e5cd14216db6467df07c7fc7))
+- Add link property to banner component ([#849](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/849)) ([dc71a45](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/dc71a45cf8c5d9945a54e765c3c8632c7feb8c5d))
+- **fuselage:** Adds wordbreak in Box Component ([#853](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/853)) ([21b298c](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/21b298c62490ef065847552ef9b2d5c4bd6dd624))
+- **fuselage:** Modal Hero Image ([#860](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/860)) ([ce85b97](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/ce85b97cd8bf8a3afd61f37116de30d9ca31df71))
+- **fuselage:** Vertical Divider ([#840](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/840)) ([d418221](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/d418221570008dd24e14ce5c142268fe5ff9f309))
+- **message-parser:** Add Matrix Protocol username pattern to User Mention ([#847](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/847)) ([702c1ee](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/702c1ee55f5988ff0955f68871fece34e1346bf2))
+- Slider component ([#826](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/826)) ([4828145](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/482814527d4245137fa73bc8c332b857cd52bbd4))
 
 ### Bug Fixes
 
-- bump-next ([5a52dc6](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/5a52dc6ad460cf42f29c8a6775ecae34c3190806))
-- **fuselage:** `StatusBullet` not using the stylesheets ([#833](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/833)) ([b927cbe](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/b927cbe3471e09327340ba027319c929c3e96535))
-- **fuselage:** Message roles size ([#788](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/788)) ([ce6273b](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/ce6273be1a9b47421ff9362919ff0e75bb7bf0ce))
-- **fuselage:** misaligned sidebar image ([#798](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/798)) ([d5d552c](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/d5d552c5570ddec2979d1d26e9c91cef45527aa3))
-- **fuselage:** Modal improves ([#776](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/776)) ([7660993](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/7660993f0575961afcae023b0daf5b556da6dc1a))
-- **fuselage:** Sidebar colors ([#810](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/810)) ([112f9e2](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/112f9e25dcb99d1dccb904d045aab5bac7f7cd47))
-- **fuselage:** Tooltip border-radius ([37610c1](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/37610c1934e2772e3faa6a8001496166db0f81e7))
-- **fuselage:** update optionTitle component styles ([#790](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/790)) ([3a2cbb3](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/3a2cbb3e0ab6d28888c2186a5723d3d20f08d04b))
-- Layout imports ([b52cc67](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/b52cc671ac8166fb09738ea5d7a61159c517878d))
-- **layout:** Layout peerDependencies ([b6b5bdc](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/b6b5bdcac20b9fb211d870ce92c356975809f560))
-- **message-parser:** Fix payload generation for custom protocols ([#799](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/799)) ([7451b58](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/7451b584d36726b447eee1513394ee1d70564735))
-- **message-rewrite:** Remove emojis inside links ([#800](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/800)) ([670a5f2](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/670a5f2def524d81b213d4b4e06dfe9685392fd8))
-- onboarding ui imports ([3322b10](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/3322b1022dc4d4962a2687f8ed0d0defef92e55b))
-- Privacy policy broken link on New Account Form ([#834](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/834)) ([530d056](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/530d056ba19eded027f6218407211aeae73c17ac))
-- Remove italic style from system messages ([#830](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/830)) ([96df38b](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/96df38b5a1e1c5a8ef8a2a5e43cb979195b06180))
-- **ui-kit:** export VideoConferenceBlock ([66b247d](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/66b247d2c748156bad0c0f43e189c48efb5d21b1))
+- build-storybook layout ([83c7e4b](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/83c7e4bdfe447f94a3ecbecadb5275c995074e11))
+- **fuselage:** Callout Component Style Update ([#862](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/862)) ([50c7d94](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/50c7d94f8ff2c176608db1cc10b3851886c91de9))
+- **fuselage:** Reaction list not wrapping ([#843](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/843)) ([609bf2d](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/609bf2d6f3a81f000ad42860a49af20a411abe58))
+- **fuselage:** Sidebar spacings ([#837](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/837)) ([39d8028](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/39d80282e795722847dd2a56752b9fe2af73b80b))
+- **fuselage:** Tabs divider and state colors ([8d72150](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/8d72150b9aa07a838ff9e14c8783efae7f5fca75))
+- **message-parser:** Link broken ([#807](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/807)) ([62a1582](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/62a1582e86226c2633d7a2d6deb030ec72483829))
+- **message-parser:** Message parser issues ([#852](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/852)) ([7ece520](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/7ece520410913a633f95cbdf13a2bdde62ae3b6c)), closes [#858](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/858) [#855](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/855) [#853](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/853) [#861](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/861)
+- **message-parser:** tests for urls followed by a line break and spaces ([#848](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/848)) ([228d42f](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/228d42f842d41fc453e929279a970803129e7c8e))
+- **message-parser:** Update emoticon to output :fearful: emoji ([#851](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/851)) ([6089b25](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/6089b25f24eda6675df6e3f5528e37cb498ee31c))
+
+### [0.31.18](https://github.com/QuickSales/QuickSales.Vn.Fuselage/compare/v0.31.17...v0.31.18) (2022-09-01)
+
+### Bug Fixes
+
+- **fuselage:** `StatusBullet` styles ([#841](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/841)) ([1963f2e](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/1963f2e0c79758e9e260fbde7a2ece78083f20d9))
+
+### [0.31.17](https://github.com/QuickSales/QuickSales.Vn.Fuselage/compare/v0.31.16...v0.31.17) (2022-08-31)
+
+### Features
+
+- **monorepo:** Layout package ([#802](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/802)) ([fc1efc0](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/fc1efc0c957fa5e735f175dd3c59c62461841d53))
+- **ui-kit:** video_conf block ([#831](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/831)) ([70080e2](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/70080e2ae2d32da7c2dac91062808e2239de861f))
+- **uikit-playground:** Uikit Playground ([#793](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/793)) ([8cf78e7](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/8cf78e7861dc4009e5cd14216db6467df07c7fc7))
+
+### Bug Fixes
+
+- bump-next ([5a52dc6](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/5a52dc6ad460cf42f29c8a6775ecae34c3190806))
+- **fuselage:** `StatusBullet` not using the stylesheets ([#833](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/833)) ([b927cbe](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/b927cbe3471e09327340ba027319c929c3e96535))
+- **fuselage:** Message roles size ([#788](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/788)) ([ce6273b](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/ce6273be1a9b47421ff9362919ff0e75bb7bf0ce))
+- **fuselage:** misaligned sidebar image ([#798](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/798)) ([d5d552c](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/d5d552c5570ddec2979d1d26e9c91cef45527aa3))
+- **fuselage:** Modal improves ([#776](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/776)) ([7660993](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/7660993f0575961afcae023b0daf5b556da6dc1a))
+- **fuselage:** Sidebar colors ([#810](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/810)) ([112f9e2](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/112f9e25dcb99d1dccb904d045aab5bac7f7cd47))
+- **fuselage:** Tooltip border-radius ([37610c1](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/37610c1934e2772e3faa6a8001496166db0f81e7))
+- **fuselage:** update optionTitle component styles ([#790](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/790)) ([3a2cbb3](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/3a2cbb3e0ab6d28888c2186a5723d3d20f08d04b))
+- Layout imports ([b52cc67](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/b52cc671ac8166fb09738ea5d7a61159c517878d))
+- **layout:** Layout peerDependencies ([b6b5bdc](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/b6b5bdcac20b9fb211d870ce92c356975809f560))
+- **message-parser:** Fix payload generation for custom protocols ([#799](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/799)) ([7451b58](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/7451b584d36726b447eee1513394ee1d70564735))
+- **message-rewrite:** Remove emojis inside links ([#800](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/800)) ([670a5f2](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/670a5f2def524d81b213d4b4e06dfe9685392fd8))
+- onboarding ui imports ([3322b10](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/3322b1022dc4d4962a2687f8ed0d0defef92e55b))
+- Privacy policy broken link on New Account Form ([#834](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/834)) ([530d056](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/530d056ba19eded027f6218407211aeae73c17ac))
+- Remove italic style from system messages ([#830](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/830)) ([96df38b](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/96df38b5a1e1c5a8ef8a2a5e43cb979195b06180))
+- **ui-kit:** export VideoConferenceBlock ([66b247d](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/66b247d2c748156bad0c0f43e189c48efb5d21b1))
 
 ### [0.31.16](https://github.com/QuickSales/fuselage/compare/v0.31.15...v0.31.16) (2022-07-21)
 
@@ -109,56 +109,56 @@ All notable changes to this project will be documented in this file. See [standa
 
 - **fuselage:** Multiselect show ([#785](https://github.com/QuickSales/fuselage/issues/785)) ([3bb025e](https://github.com/QuickSales/fuselage/commit/3bb025e276b3db3250f09a7337ab329c3c957fdb))
 
-### [0.31.15](https://github.com/QuickSales/Rocket.Chat.Fuselage/compare/v0.31.14...v0.31.15) (2022-07-20)
+### [0.31.15](https://github.com/QuickSales/QuickSales.Vn.Fuselage/compare/v0.31.14...v0.31.15) (2022-07-20)
 
 ### Features
 
-- **fuselage-hooks:** `usePosition` listening to components size changes ([#782](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/782)) ([79fdb3e](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/79fdb3e57e20ee63bb059ef18845737b7dad7c7e))
-- **fuselage-ui-kit:** add URL option to the overflow component ([#737](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/737)) ([a250c04](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/a250c04d468aaaa6d1e9144d590278e8764d7a22))
-- **fuselage:** Add message status indicator text component ([#757](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/757)) ([9dcd759](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/9dcd759e6dad20bd11860302be8d2652e9a71ac2))
-- **icons:** Updated contact and globe icons ([#767](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/767)) ([57eecb5](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/57eecb547bd0656a3dda82eb2f1ff77786143f78))
+- **fuselage-hooks:** `usePosition` listening to components size changes ([#782](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/782)) ([79fdb3e](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/79fdb3e57e20ee63bb059ef18845737b7dad7c7e))
+- **fuselage-ui-kit:** add URL option to the overflow component ([#737](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/737)) ([a250c04](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/a250c04d468aaaa6d1e9144d590278e8764d7a22))
+- **fuselage:** Add message status indicator text component ([#757](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/757)) ([9dcd759](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/9dcd759e6dad20bd11860302be8d2652e9a71ac2))
+- **icons:** Updated contact and globe icons ([#767](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/767)) ([57eecb5](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/57eecb547bd0656a3dda82eb2f1ff77786143f78))
 
 ### Bug Fixes
 
-- adjusting message system font-size ([#778](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/778)) ([de2ada3](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/de2ada37894975639d32cb8f173d24895fd05ddf))
-- **fuselage:** Add default type prop to button ([#760](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/760)) ([bc8c615](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/bc8c615562d24cddf44f89c8899bf1c92f8ca216))
-- **fuselage:** Export message status text component ([#773](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/773)) ([bed0de7](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/bed0de717f67c94b59069ca0b91d3fc4dfa2be0c))
-- **fuselage:** IconButton default size: square ([#770](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/770)) ([5396ddd](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/5396ddd5e00d8cf82d75004a7b31b2f4aa8c7ee6))
-- **fuselage:** Select/MultiSelect options visibility ([#759](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/759)) ([e121ad0](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/e121ad06ef05b1093052ea9780f36d402623656a))
-- IconButton disabled color and background ([#762](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/762)) ([49c082c](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/49c082c32995ca102bec03acc192fe7272eedb0c))
-- message metrics item icon size ([#774](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/774)) ([e1100e5](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/e1100e5c2d5e7897540b834968f228b21d217db1))
-- **message-parser:** Emoji skin tone detection ([#764](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/764)) ([1bb3526](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/1bb3526d0cfc69a0f416e7acb0101328d5a499b8))
-- Tag states ([#763](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/763)) ([57f3e93](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/57f3e938025c8dc4f6e846fb0cb38374fd1a2fa5))
+- adjusting message system font-size ([#778](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/778)) ([de2ada3](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/de2ada37894975639d32cb8f173d24895fd05ddf))
+- **fuselage:** Add default type prop to button ([#760](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/760)) ([bc8c615](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/bc8c615562d24cddf44f89c8899bf1c92f8ca216))
+- **fuselage:** Export message status text component ([#773](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/773)) ([bed0de7](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/bed0de717f67c94b59069ca0b91d3fc4dfa2be0c))
+- **fuselage:** IconButton default size: square ([#770](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/770)) ([5396ddd](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/5396ddd5e00d8cf82d75004a7b31b2f4aa8c7ee6))
+- **fuselage:** Select/MultiSelect options visibility ([#759](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/759)) ([e121ad0](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/e121ad06ef05b1093052ea9780f36d402623656a))
+- IconButton disabled color and background ([#762](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/762)) ([49c082c](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/49c082c32995ca102bec03acc192fe7272eedb0c))
+- message metrics item icon size ([#774](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/774)) ([e1100e5](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/e1100e5c2d5e7897540b834968f228b21d217db1))
+- **message-parser:** Emoji skin tone detection ([#764](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/764)) ([1bb3526](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/1bb3526d0cfc69a0f416e7acb0101328d5a499b8))
+- Tag states ([#763](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/763)) ([57f3e93](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/57f3e938025c8dc4f6e846fb0cb38374fd1a2fa5))
 
-### [0.31.14](https://github.com/QuickSales/Rocket.Chat.Fuselage/compare/v0.31.13...v0.31.14) (2022-06-27)
+### [0.31.14](https://github.com/QuickSales/QuickSales.Vn.Fuselage/compare/v0.31.13...v0.31.14) (2022-06-27)
 
 ### Features
 
-- **fuselage-tokens:** New color palette ([#691](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/691)) ([4c137e3](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/4c137e32ba23958e664e3d76e044a1e2692ba372))
-- **fuselage-ui-kit:** allow dispatchment of actions from input elements ([#747](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/747)) ([844043d](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/844043db58ac511604aefc57290a43d62e769d9d))
-- **icons:** New icons ([#755](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/755)) ([8a12c8d](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/8a12c8d67396340b29872a59cf0050cbbd23280d))
-- **message-parser:** Parser options ([#739](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/739)) ([fbaee98](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/fbaee98c80864bf399de3bd1b2da9756429e5c98))
+- **fuselage-tokens:** New color palette ([#691](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/691)) ([4c137e3](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/4c137e32ba23958e664e3d76e044a1e2692ba372))
+- **fuselage-ui-kit:** allow dispatchment of actions from input elements ([#747](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/747)) ([844043d](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/844043db58ac511604aefc57290a43d62e769d9d))
+- **icons:** New icons ([#755](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/755)) ([8a12c8d](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/8a12c8d67396340b29872a59cf0050cbbd23280d))
+- **message-parser:** Parser options ([#739](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/739)) ([fbaee98](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/fbaee98c80864bf399de3bd1b2da9756429e5c98))
 
 ### Bug Fixes
 
-- Button disabled color ([#752](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/752)) ([dab7d28](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/dab7d283f640320b332d9798ad5ceedfa9140b58))
-- colors and button flags ([#750](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/750)) ([9c0c0c1](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/9c0c0c1b23e3f98f2fd8715e0043050dfd17a00f))
-- **deps,mp3-encoder:** Bump `lamejs` version ([#732](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/732)) ([efc9bde](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/efc9bdef44ea728d1efdb19dc3b0bea659c66a1d))
-- **fuselage:** IconButton hover color ([#754](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/754)) ([ca9b3e1](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/ca9b3e1b5efa27c503139353f28244d1d8e262e2))
-- **fuselage:** kebab menu click not working properly ([#740](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/740)) ([8e5b4af](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/8e5b4afbb0954d2e6ca36fbd8bf2580bc64d53ab))
-- **fuselage:** Surface values using css var ([#748](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/748)) ([17012f8](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/17012f8f2fa7c9bb05c47c369f7309a672f423a1))
-- IconButton type ([#751](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/751)) ([c1b4e1c](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/c1b4e1cc23d9172685843857fa1f449e42daccff))
-- **message-parser:** Expand emoji detection ([#753](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/753)) ([005e135](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/005e1359ebfe7baf28f7b6f250d3b86b51ebde24))
-- **message-parser:** Relative URL being displayed as plain text ([#736](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/736)) ([3ccd090](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/3ccd0907c7bc6bef5581e66f8b0b15bd4f3d46de))
-- **usePosition:** change style when target dont fit screen ([41c5c37](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/41c5c37cd556c3874f3f7092823484edc641a082))
+- Button disabled color ([#752](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/752)) ([dab7d28](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/dab7d283f640320b332d9798ad5ceedfa9140b58))
+- colors and button flags ([#750](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/750)) ([9c0c0c1](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/9c0c0c1b23e3f98f2fd8715e0043050dfd17a00f))
+- **deps,mp3-encoder:** Bump `lamejs` version ([#732](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/732)) ([efc9bde](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/efc9bdef44ea728d1efdb19dc3b0bea659c66a1d))
+- **fuselage:** IconButton hover color ([#754](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/754)) ([ca9b3e1](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/ca9b3e1b5efa27c503139353f28244d1d8e262e2))
+- **fuselage:** kebab menu click not working properly ([#740](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/740)) ([8e5b4af](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/8e5b4afbb0954d2e6ca36fbd8bf2580bc64d53ab))
+- **fuselage:** Surface values using css var ([#748](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/748)) ([17012f8](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/17012f8f2fa7c9bb05c47c369f7309a672f423a1))
+- IconButton type ([#751](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/751)) ([c1b4e1c](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/c1b4e1cc23d9172685843857fa1f449e42daccff))
+- **message-parser:** Expand emoji detection ([#753](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/753)) ([005e135](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/005e1359ebfe7baf28f7b6f250d3b86b51ebde24))
+- **message-parser:** Relative URL being displayed as plain text ([#736](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/736)) ([3ccd090](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/3ccd0907c7bc6bef5581e66f8b0b15bd4f3d46de))
+- **usePosition:** change style when target dont fit screen ([41c5c37](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/41c5c37cd556c3874f3f7092823484edc641a082))
 
-### [0.31.13](https://github.com/QuickSales/Rocket.Chat.Fuselage/compare/v0.31.12...v0.31.13) (2022-05-31)
+### [0.31.13](https://github.com/QuickSales/QuickSales.Vn.Fuselage/compare/v0.31.12...v0.31.13) (2022-05-31)
 
 ### Bug Fixes
 
-- **deps,mp3-encoder:** Yarn resolution of `lamejs` ([#731](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/731)) ([c6c4e21](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/c6c4e2111f7d902c7c3d1cd51ad44b97fa27cadf))
-- **fuselage:** Adjusting sequential messages padding ([#730](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/730)) ([f04e65a](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/f04e65a659714f19bf21cddaa14a39321503388d))
-- **fuselage:** Message negative margins ([#733](https://github.com/QuickSales/Rocket.Chat.Fuselage/issues/733)) ([5518b00](https://github.com/QuickSales/Rocket.Chat.Fuselage/commit/5518b005c522d1ccac5c37c0edf42223ec01511b))
+- **deps,mp3-encoder:** Yarn resolution of `lamejs` ([#731](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/731)) ([c6c4e21](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/c6c4e2111f7d902c7c3d1cd51ad44b97fa27cadf))
+- **fuselage:** Adjusting sequential messages padding ([#730](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/730)) ([f04e65a](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/f04e65a659714f19bf21cddaa14a39321503388d))
+- **fuselage:** Message negative margins ([#733](https://github.com/QuickSales/QuickSales.Vn.Fuselage/issues/733)) ([5518b00](https://github.com/QuickSales/QuickSales.Vn.Fuselage/commit/5518b005c522d1ccac5c37c0edf42223ec01511b))
 
 ### [0.31.12](https://github.com/QuickSales/fuselage/compare/v0.31.11...v0.31.12) (2022-05-23)
 
@@ -366,7 +366,7 @@ All notable changes to this project will be documented in this file. See [standa
 ### Features
 
 - **icons:** Update/Add icons (phone-in&out, dialpad, phone-disabled) ([#533](https://github.com/QuickSales/fuselage/issues/533)) ([2f3ae02](https://github.com/QuickSales/fuselage/commit/2f3ae02a6fc92d92e99e5be56a63670dda494e00))
-- **logo:** Rocket.Chat logo package ([#535](https://github.com/QuickSales/fuselage/issues/535)) ([94522e6](https://github.com/QuickSales/fuselage/commit/94522e6b74d02f88f56e9ac898ca26b9d1e42fbd))
+- **logo:** QuickSales.Vn logo package ([#535](https://github.com/QuickSales/fuselage/issues/535)) ([94522e6](https://github.com/QuickSales/fuselage/commit/94522e6b74d02f88f56e9ac898ca26b9d1e42fbd))
 
 # [0.29.0](https://github.com/QuickSales/fuselage/compare/v0.28.0...v0.29.0) (2021-08-31)
 
@@ -667,7 +667,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 ## [0.15.1](https://github.com/QuickSales/fuselage/compare/v0.15.0...v0.15.1) (2020-09-22)
 
-**Note:** Version bump only for package Rocket.Chat.Fuselage
+**Note:** Version bump only for package QuickSales.Vn.Fuselage
 
 # [0.15.0](https://github.com/QuickSales/fuselage/compare/v0.14.1...v0.15.0) (2020-09-17)
 
@@ -682,7 +682,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 ## [0.14.1](https://github.com/QuickSales/fuselage/compare/v0.14.0...v0.14.1) (2020-08-22)
 
-**Note:** Version bump only for package Rocket.Chat.Fuselage
+**Note:** Version bump only for package QuickSales.Vn.Fuselage
 
 # [0.14.0](https://github.com/QuickSales/fuselage/compare/v0.13.2...v0.14.0) (2020-08-18)
 
@@ -888,7 +888,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 # [0.2.0](https://github.com/QuickSales/fuselage/compare/v0.2.0-alpha.30...v0.2.0) (2020-02-13)
 
-**Note:** Version bump only for package Rocket.Chat.Fuselage
+**Note:** Version bump only for package QuickSales.Vn.Fuselage
 
 # [0.2.0-alpha.30](https://github.com/QuickSales/fuselage/compare/v0.2.0-alpha.29...v0.2.0-alpha.30) (2020-02-12)
 
@@ -898,7 +898,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 # [0.2.0-alpha.29](https://github.com/QuickSales/fuselage/compare/v0.2.0-alpha.28...v0.2.0-alpha.29) (2020-02-10)
 
-**Note:** Version bump only for package Rocket.Chat.Fuselage
+**Note:** Version bump only for package QuickSales.Vn.Fuselage
 
 # [0.2.0-alpha.28](https://github.com/QuickSales/fuselage/compare/v0.2.0-alpha.27...v0.2.0-alpha.28) (2020-02-10)
 
@@ -921,11 +921,11 @@ All notable changes to this project will be documented in this file. See [standa
 
 # [0.2.0-alpha.25](https://github.com/QuickSales/fuselage/compare/v0.2.0-alpha.24...v0.2.0-alpha.25) (2020-02-10)
 
-**Note:** Version bump only for package Rocket.Chat.Fuselage
+**Note:** Version bump only for package QuickSales.Vn.Fuselage
 
 # [0.2.0-alpha.24](https://github.com/QuickSales/fuselage/compare/v0.2.0-alpha.23...v0.2.0-alpha.24) (2020-02-09)
 
-**Note:** Version bump only for package Rocket.Chat.Fuselage
+**Note:** Version bump only for package QuickSales.Vn.Fuselage
 
 # [0.2.0-alpha.23](https://github.com/QuickSales/fuselage/compare/v0.2.0-alpha.22...v0.2.0-alpha.23) (2020-02-07)
 
@@ -943,7 +943,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 # [0.2.0-alpha.21](https://github.com/QuickSales/fuselage/compare/v0.2.0-alpha.20...v0.2.0-alpha.21) (2020-02-05)
 
-**Note:** Version bump only for package Rocket.Chat.Fuselage
+**Note:** Version bump only for package QuickSales.Vn.Fuselage
 
 # [0.2.0-alpha.20](https://github.com/QuickSales/fuselage/compare/v0.2.0-alpha.19...v0.2.0-alpha.20) (2020-02-01)
 
@@ -1017,7 +1017,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 # [0.2.0-alpha.13](https://github.com/QuickSales/fuselage/compare/v0.2.0-alpha.12...v0.2.0-alpha.13) (2019-10-25)
 
-**Note:** Version bump only for package Rocket.Chat.Fuselage
+**Note:** Version bump only for package QuickSales.Vn.Fuselage
 
 # [0.2.0-alpha.12](https://github.com/QuickSales/fuselage/compare/v0.2.0-alpha.11...v0.2.0-alpha.12) (2019-10-24)
 
@@ -1051,7 +1051,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 # [0.2.0-alpha.8](https://github.com/QuickSales/fuselage/compare/v0.2.0-alpha.7...v0.2.0-alpha.8) (2019-10-16)
 
-**Note:** Version bump only for package Rocket.Chat.Fuselage
+**Note:** Version bump only for package QuickSales.Vn.Fuselage
 
 # [0.2.0-alpha.7](https://github.com/QuickSales/fuselage/compare/v0.2.0-alpha.6...v0.2.0-alpha.7) (2019-10-14)
 
@@ -1062,7 +1062,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 # [0.2.0-alpha.6](https://github.com/QuickSales/fuselage/compare/v0.2.0-alpha.5...v0.2.0-alpha.6) (2019-10-09)
 
-**Note:** Version bump only for package Rocket.Chat.Fuselage
+**Note:** Version bump only for package QuickSales.Vn.Fuselage
 
 # [0.2.0-alpha.5](https://github.com/QuickSales/fuselage/compare/v0.2.0-alpha.4...v0.2.0-alpha.5) (2019-10-02)
 

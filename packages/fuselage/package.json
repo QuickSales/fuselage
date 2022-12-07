@@ -1,9 +1,9 @@
 {
   "name": "@rocket.chat/fuselage",
   "version": "0.31.22",
-  "description": "Rocket.Chat's React Components Library",
+  "description": "QuickSales.Vn's React Components Library",
   "author": {
-    "name": "Rocket.Chat",
+    "name": "QuickSales.Vn",
     "url": "https://rocket.chat/"
   },
   "license": "MIT",
