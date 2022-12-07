@@ -1,2 +1,2 @@
-export { default as RocketChatLogo } from './RocketChatLogo';
-export { default as TaggedRocketChatLogo } from './TaggedRocketChatLogo';
+export { default as QuickSalesLogo } from './QuickSalesLogo';
+export { default as TaggedQuickSalesLogo } from './TaggedQuickSalesLogo';

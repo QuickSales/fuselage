@@ -40,7 +40,7 @@ const Menu: FC<{ isOpen: boolean }> = ({ isOpen }) => {
         </Box>
         <MenuItem name={'Clear Blocks'} />
         <MenuItem name={'Copy Payload'} />
-        <MenuItem name={'Send to RocketChat'} />
+        <MenuItem name={'Send to QuickSales'} />
       </Wrapper>
     </Box>
   );

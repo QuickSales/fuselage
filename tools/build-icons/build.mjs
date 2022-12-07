@@ -28,7 +28,7 @@ export const buildCss = () =>
   Promise.resolve(
     `
       @font-face {
-        font-family: 'RocketChat';
+        font-family: 'QuickSales';
         font-style: normal;
         font-weight: 400;
         font-display: auto;
@@ -39,7 +39,7 @@ export const buildCss = () =>
           url('./font/rocketchat.woff2') format('woff2'),
           url('./font/rocketchat.woff') format('woff'),
           url('./font/rocketchat.ttf') format('truetype'),
-          url('./font/rocketchat.svg#RocketChat') format('svg');
+          url('./font/rocketchat.svg#QuickSales') format('svg');
       }
     `
   )

@@ -9,14 +9,14 @@
     "name": "Rocket.Chat",
     "url": "https://rocket.chat/"
   },
-  "homepage": "https://github.com/RocketChat/fuselage#readme",
+  "homepage": "https://github.com/QuickSales/fuselage#readme",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RocketChat/fuselage.git",
+    "url": "git+https://github.com/QuickSales/fuselage.git",
     "directory": "packages/onboarding-ui"
   },
   "main": "dist/cjs/index.js",
@@ -40,7 +40,7 @@
     "bump-next": "bump-next"
   },
   "bugs": {
-    "url": "https://github.com/RocketChat/fuselage/issues"
+    "url": "https://github.com/QuickSales/fuselage/issues"
   },
   "devDependencies": {
     "@rocket.chat/eslint-config-alt": "workspace:~",

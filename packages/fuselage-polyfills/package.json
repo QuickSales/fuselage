@@ -9,10 +9,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RocketChat/fuselage.git"
+    "url": "git+https://github.com/QuickSales/fuselage.git"
   },
   "bugs": {
-    "url": "https://github.com/RocketChat/fuselage/issues"
+    "url": "https://github.com/QuickSales/fuselage/issues"
   },
   "main": "index.js",
   "publishConfig": {

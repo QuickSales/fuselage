@@ -9,18 +9,18 @@ to: packages/<%=package%>/package.json
     "name": "Rocket.Chat",
     "url": "https://rocket.chat/"
   },
-  "homepage": "https://github.com/RocketChat/fuselage#readme",
+  "homepage": "https://github.com/QuickSales/fuselage#readme",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RocketChat/fuselage.git",
+    "url": "git+https://github.com/QuickSales/fuselage.git",
     "directory": "packages/<%=package%>"
   },
   "bugs": {
-    "url": "https://github.com/RocketChat/fuselage/issues"
+    "url": "https://github.com/QuickSales/fuselage/issues"
   },
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",

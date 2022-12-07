@@ -77,7 +77,7 @@ module.exports = [
       filename: 'messageParser.umd.js',
       library: {
         type: 'umd',
-        name: 'RocketChatMessageParser',
+        name: 'QuickSalesMessageParser',
         umdNamedDefine: true,
       },
       globalObject: 'this',

@@ -1,1 +1,1 @@
-export { default } from './TaggedRocketChatLogo';
+export { default } from './TaggedQuickSalesLogo';

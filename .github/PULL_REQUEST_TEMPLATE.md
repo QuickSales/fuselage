@@ -14,8 +14,8 @@
 
 <!-- Checklist!!! If you're unsure about any of them, don't hesitate to ask. We're here to help! This is simply a reminder of what we are going to look for before merging your code.
 
-- I have read the Contributing Guide - https://github.com/RocketChat/Rocket.Chat/blob/develop/.github/CONTRIBUTING.md#contributing-to-rocketchat doc
-- I have signed the CLA - https://cla-assistant.io/RocketChat/Rocket.Chat
+- I have read the Contributing Guide - https://github.com/QuickSales/Rocket.Chat/blob/develop/.github/CONTRIBUTING.md#contributing-to-rocketchat doc
+- I have signed the CLA - https://cla-assistant.io/QuickSales/Rocket.Chat
 - Lint and unit tests pass locally with my changes
 - I have labeled the PR correctly with the related package
 - I have run visual regression tests (if applicable)

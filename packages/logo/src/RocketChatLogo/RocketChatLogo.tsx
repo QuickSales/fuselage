@@ -2,13 +2,13 @@ import { useUniqueId } from '@rocket.chat/fuselage-hooks';
 import colors from '@rocket.chat/fuselage-tokens/colors.json';
 import type { ReactElement, SVGAttributes } from 'react';
 
-type RocketChatLogoProps = {
+type QuickSalesLogoProps = {
   color?: SVGAttributes<SVGSVGElement>['fill'];
 };
 
-const RocketChatLogo = ({
+const QuickSalesLogo = ({
   color = colors.d400,
-}: RocketChatLogoProps): ReactElement => {
+}: QuickSalesLogoProps): ReactElement => {
   const titleId = useUniqueId();
 
   return (
@@ -40,4 +40,4 @@ const RocketChatLogo = ({
   );
 };
 
-export default RocketChatLogo;
+export default QuickSalesLogo;

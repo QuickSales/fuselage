@@ -1,5 +1,5 @@
 import { Box } from '@rocket.chat/fuselage';
-import { RocketChatLogo } from '@rocket.chat/logo';
+import { QuickSalesLogo } from '@rocket.chat/logo';
 import type { FC } from 'react';
 import React from 'react';
 
@@ -11,7 +11,7 @@ const Logo: FC = () => (
     width='var(--sidebar-width)'
   >
     <Box height='100%' width='80%'>
-      <RocketChatLogo />
+      <QuickSalesLogo />
     </Box>
   </Box>
 );

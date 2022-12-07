@@ -1,17 +1,17 @@
 <p align="center">
   <a href="https://rocket.chat" title="Rocket.Chat">
-    <img src="https://github.com/RocketChat/Rocket.Chat.Artwork/raw/master/Logos/2020/png/logo-horizontal-red.png" alt="Rocket.Chat" />
+    <img src="https://github.com/QuickSales/Rocket.Chat.Artwork/raw/master/Logos/2020/png/logo-horizontal-red.png" alt="Rocket.Chat" />
   </a>
 </p>
 
 <h1 align="center">Fuselage Monorepo</h1>
 
-![LGTM Alerts](https://img.shields.io/lgtm/alerts/github/RocketChat/fuselage?style=flat-square)
-![LGTM Grade](https://img.shields.io/lgtm/grade/javascript/github/RocketChat/fuselage?style=flat-square)
+![LGTM Alerts](https://img.shields.io/lgtm/alerts/github/QuickSales/fuselage?style=flat-square)
+![LGTM Grade](https://img.shields.io/lgtm/grade/javascript/github/QuickSales/fuselage?style=flat-square)
 
-![Issues](https://img.shields.io/github/issues/RocketChat/fuselage?style=flat-square)
-![Pull requests](https://img.shields.io/github/issues-pr/RocketChat/fuselage?style=flat-square)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/RocketChat/fuselage?style=flat-square)
+![Issues](https://img.shields.io/github/issues/QuickSales/fuselage?style=flat-square)
+![Pull requests](https://img.shields.io/github/issues-pr/QuickSales/fuselage?style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/QuickSales/fuselage?style=flat-square)
 
 | Package | Description | Version | Dependencies |
 |---------|-------------|---------|--------------|

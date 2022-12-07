@@ -1,23 +1,23 @@
 import colors from '@rocket.chat/fuselage-tokens/colors.json';
 import type { ReactElement } from 'react';
 
-import RocketChatLogo from '../RocketChatLogo';
-import { LogoContainer, LogoTag } from './TaggedRocketChatLogo.styles';
+import QuickSalesLogo from '../QuickSalesLogo';
+import { LogoContainer, LogoTag } from './TaggedQuickSalesLogo.styles';
 
-type TaggedRocketChatLogoProps = {
+type TaggedQuickSalesLogoProps = {
   tagTitle?: string;
   tagBackground?: string;
   color?: string;
 } & React.HTMLAttributes<HTMLDivElement>;
 
-const TaggedRocketChatLogo = ({
+const TaggedQuickSalesLogo = ({
   tagTitle,
   tagBackground = colors.d400,
   color = colors.white,
   ...props
-}: TaggedRocketChatLogoProps): ReactElement => (
+}: TaggedQuickSalesLogoProps): ReactElement => (
   <LogoContainer {...props}>
-    <RocketChatLogo />
+    <QuickSalesLogo />
     {tagTitle && (
       <LogoTag backgroundColor={tagBackground} color={color}>
         {tagTitle}
@@ -26,4 +26,4 @@ const TaggedRocketChatLogo = ({
   </LogoContainer>
 );
 
-export default TaggedRocketChatLogo;
+export default TaggedQuickSalesLogo;

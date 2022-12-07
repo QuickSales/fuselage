@@ -264,44 +264,44 @@ test.each([
     ],
   ],
   [
-    '[Github link with hash](https://github.com/RocketChat/Rocket.Chat/pull/26751/files#diff-c87b108ecf1ede549f8ede68eca840fbb330180b927df0b8a0b4df5d06cbd89b)',
+    '[Github link with hash](https://github.com/QuickSales/Rocket.Chat/pull/26751/files#diff-c87b108ecf1ede549f8ede68eca840fbb330180b927df0b8a0b4df5d06cbd89b)',
     [
       paragraph([
         link(
-          'https://github.com/RocketChat/Rocket.Chat/pull/26751/files#diff-c87b108ecf1ede549f8ede68eca840fbb330180b927df0b8a0b4df5d06cbd89b',
+          'https://github.com/QuickSales/Rocket.Chat/pull/26751/files#diff-c87b108ecf1ede549f8ede68eca840fbb330180b927df0b8a0b4df5d06cbd89b',
           plain('Github link with hash')
         ),
       ]),
     ],
   ],
   [
-    '[Github link with hash](https://github.com/RocketChat/Rocket.Chat/pull/26751/files#diff)',
+    '[Github link with hash](https://github.com/QuickSales/Rocket.Chat/pull/26751/files#diff)',
     [
       paragraph([
         link(
-          'https://github.com/RocketChat/Rocket.Chat/pull/26751/files#diff',
+          'https://github.com/QuickSales/Rocket.Chat/pull/26751/files#diff',
           plain('Github link with hash')
         ),
       ]),
     ],
   ],
   [
-    '[Github link without hash](https://github.com/RocketChat/Rocket.Chat/pull/26751/files)',
+    '[Github link without hash](https://github.com/QuickSales/Rocket.Chat/pull/26751/files)',
     [
       paragraph([
         link(
-          'https://github.com/RocketChat/Rocket.Chat/pull/26751/files',
+          'https://github.com/QuickSales/Rocket.Chat/pull/26751/files',
           plain('Github link without hash')
         ),
       ]),
     ],
   ],
   [
-    '[Link with special chars](https://github.com/RocketChat/Rocket.Chat*[/]^_`{}~)',
+    '[Link with special chars](https://github.com/QuickSales/Rocket.Chat*[/]^_`{}~)',
     [
       paragraph([
         link(
-          'https://github.com/RocketChat/Rocket.Chat*[/]^_`{}~',
+          'https://github.com/QuickSales/Rocket.Chat*[/]^_`{}~',
           plain('Link with special chars')
         ),
       ]),
