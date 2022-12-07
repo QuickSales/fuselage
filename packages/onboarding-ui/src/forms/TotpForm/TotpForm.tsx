@@ -4,8 +4,8 @@ import {
   NumberInput,
   TextInput,
   Button,
-} from '@rocket.chat/fuselage';
-import { ActionLink, Form } from '@rocket.chat/layout';
+} from '@quickchat.vn/fuselage';
+import { ActionLink, Form } from '@quickchat.vn/layout';
 import type { ReactElement } from 'react';
 import type { SubmitHandler } from 'react-hook-form';
 import { useForm } from 'react-hook-form';

@@ -1,20 +1,20 @@
 <!--header-->
 
 <p align="center">
-  <a href="https://rocket.chat" title="QuickSales.Vn">
+  <a href="https://quickchat.vn" title="QuickSales.Vn">
     <img src="https://github.com/QuickSales/QuickSales.Vn.Artwork/raw/master/Logos/2020/png/logo-horizontal-red.png" alt="QuickSales.Vn" />
   </a>
 </p>
 
-# `@rocket.chat/logo`
+# `@quickchat.vn/logo`
 
 > QuickSales.Vn logo package
 
 ---
 
-[![npm@latest](https://img.shields.io/npm/v/@rocket.chat/logo/latest?style=flat-square)](https://www.npmjs.com/package/@rocket.chat/logo/v/latest) [![npm@next](https://img.shields.io/npm/v/@rocket.chat/logo/next?style=flat-square)](https://www.npmjs.com/package/@rocket.chat/logo/v/next) ![react version](https://img.shields.io/npm/dependency-version/@rocket.chat/logo/peer/react?style=flat-square) ![npm downloads](https://img.shields.io/npm/dw/@rocket.chat/logo?style=flat-square) ![License: MIT](https://img.shields.io/npm/l/@rocket.chat/logo?style=flat-square)
+[![npm@latest](https://img.shields.io/npm/v/@quickchat.vn/logo/latest?style=flat-square)](https://www.npmjs.com/package/@quickchat.vn/logo/v/latest) [![npm@next](https://img.shields.io/npm/v/@quickchat.vn/logo/next?style=flat-square)](https://www.npmjs.com/package/@quickchat.vn/logo/v/next) ![react version](https://img.shields.io/npm/dependency-version/@quickchat.vn/logo/peer/react?style=flat-square) ![npm downloads](https://img.shields.io/npm/dw/@quickchat.vn/logo?style=flat-square) ![License: MIT](https://img.shields.io/npm/l/@quickchat.vn/logo?style=flat-square)
 
-![deps](https://img.shields.io/librariesio/release/npm/@rocket.chat/logo?style=flat-square) ![npm bundle size](https://img.shields.io/bundlephobia/min/@rocket.chat/logo?style=flat-square)
+![deps](https://img.shields.io/librariesio/release/npm/@quickchat.vn/logo?style=flat-square) ![npm bundle size](https://img.shields.io/bundlephobia/min/@quickchat.vn/logo?style=flat-square)
 
 <!--/header-->
 
@@ -32,14 +32,14 @@ npm i react react-dom
 yarn add react react-dom
 ```
 
-Add `@rocket.chat/logo` as a dependency:
+Add `@quickchat.vn/logo` as a dependency:
 
 ```sh
-npm i @rocket.chat/logo
+npm i @quickchat.vn/logo
 
 # or, if you are using yarn:
 
-yarn add @rocket.chat/logo
+yarn add @quickchat.vn/logo
 ```
 
 <!--/install-->

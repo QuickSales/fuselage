@@ -1,6 +1,6 @@
 /* eslint-disable new-cap */
-import { Message, Avatar } from '@rocket.chat/fuselage';
-import type * as UiKit from '@rocket.chat/ui-kit';
+import { Message, Avatar } from '@quickchat.vn/fuselage';
+import type * as UiKit from '@quickchat.vn/ui-kit';
 import { action } from '@storybook/addon-actions';
 import React from 'react';
 

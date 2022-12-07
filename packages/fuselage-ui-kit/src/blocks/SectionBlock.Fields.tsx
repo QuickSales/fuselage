@@ -1,5 +1,5 @@
-import { Grid } from '@rocket.chat/fuselage';
-import * as UiKit from '@rocket.chat/ui-kit';
+import { Grid } from '@quickchat.vn/fuselage';
+import * as UiKit from '@quickchat.vn/ui-kit';
 import type { ReactElement } from 'react';
 import React from 'react';
 

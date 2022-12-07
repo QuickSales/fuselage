@@ -1,4 +1,4 @@
-import type { SelectOption } from '@rocket.chat/fuselage';
+import type { SelectOption } from '@quickchat.vn/fuselage';
 import {
   FieldGroup,
   Field,
@@ -11,8 +11,8 @@ import {
   Select,
   CheckBox,
   Grid,
-} from '@rocket.chat/fuselage';
-import { Form } from '@rocket.chat/layout';
+} from '@quickchat.vn/fuselage';
+import { Form } from '@quickchat.vn/layout';
 import type { ReactElement, FocusEvent } from 'react';
 import type { SubmitHandler, Validate } from 'react-hook-form';
 import { useForm, Controller } from 'react-hook-form';
@@ -207,7 +207,7 @@ const CreateCloudWorkspaceForm = ({
               <Trans i18nKey='component.form.termsAndConditions'>
                 I agree with
                 <a
-                  href='https://rocket.chat/terms'
+                  href='https://quickchat.vn/terms'
                   target='_blank'
                   rel='noopener noreferrer'
                 >
@@ -215,7 +215,7 @@ const CreateCloudWorkspaceForm = ({
                 </a>
                 and
                 <a
-                  href='https://rocket.chat/privacy'
+                  href='https://quickchat.vn/privacy'
                   target='_blank'
                   rel='noopener noreferrer'
                 >

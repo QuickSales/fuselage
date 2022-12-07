@@ -1,5 +1,5 @@
-import { Box, ButtonGroup, Button } from '@rocket.chat/fuselage';
-import { Form, List } from '@rocket.chat/layout';
+import { Box, ButtonGroup, Button } from '@quickchat.vn/fuselage';
+import { Form, List } from '@quickchat.vn/layout';
 import type { ReactElement } from 'react';
 import type { SubmitHandler } from 'react-hook-form';
 import { useForm, FormProvider } from 'react-hook-form';

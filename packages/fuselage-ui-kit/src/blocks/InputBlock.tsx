@@ -1,5 +1,5 @@
-import { Field } from '@rocket.chat/fuselage';
-import * as UiKit from '@rocket.chat/ui-kit';
+import { Field } from '@quickchat.vn/fuselage';
+import * as UiKit from '@quickchat.vn/ui-kit';
 import type { ReactElement } from 'react';
 import React, { memo, useMemo } from 'react';
 

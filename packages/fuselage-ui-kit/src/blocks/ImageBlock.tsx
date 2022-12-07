@@ -1,5 +1,5 @@
-import { Box, Skeleton } from '@rocket.chat/fuselage';
-import * as UiKit from '@rocket.chat/ui-kit';
+import { Box, Skeleton } from '@quickchat.vn/fuselage';
+import * as UiKit from '@quickchat.vn/ui-kit';
 import type { ReactElement } from 'react';
 import React, { memo, useEffect, useState } from 'react';
 

@@ -227,7 +227,7 @@ const parser = new TestParser();
 const parse = uiKitAttachment(parser);
 
 const conditionalParse = uiKitAttachment(parser, {
-  engine: 'rocket.chat',
+  engine: 'quickchat.vn',
 });
 
 describe('divider', () => {
@@ -1361,7 +1361,7 @@ describe('conditional', () => {
       {
         type: 'conditional',
         when: {
-          engine: ['rocket.chat'],
+          engine: ['quickchat.vn'],
         },
         render: [
           {
@@ -1403,7 +1403,7 @@ describe('conditional', () => {
       {
         type: 'conditional',
         when: {
-          engine: ['rocket.chat'],
+          engine: ['quickchat.vn'],
         },
         render: [
           {

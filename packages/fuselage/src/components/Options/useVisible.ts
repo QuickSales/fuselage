@@ -1,7 +1,7 @@
 import {
   useMutableCallback,
   useDebouncedState,
-} from '@rocket.chat/fuselage-hooks';
+} from '@quickchat.vn/fuselage-hooks';
 
 import AnimatedVisibility from '../AnimatedVisibility';
 

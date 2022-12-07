@@ -1,4 +1,4 @@
-import type { LayoutBlock } from '@rocket.chat/ui-kit';
+import type { LayoutBlock } from '@quickchat.vn/ui-kit';
 
 export const previewPlain: readonly LayoutBlock[] = [
   {
@@ -85,7 +85,7 @@ export const previewWithUrl: readonly LayoutBlock[] = [
         },
       ],
     },
-    externalUrl: 'https://rocket.chat',
+    externalUrl: 'https://quickchat.vn',
   },
 ];
 
@@ -116,6 +116,6 @@ export const previewWithImageAndUrl: readonly LayoutBlock[] = [
         },
       ],
     },
-    // externalUrl: "https://rocket.chat",
+    // externalUrl: "https://quickchat.vn",
   },
 ];

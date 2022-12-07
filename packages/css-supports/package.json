@@ -1,10 +1,10 @@
 {
-  "name": "@rocket.chat/css-supports",
+  "name": "@quickchat.vn/css-supports",
   "version": "0.31.22",
   "description": "Memoized and SSR-compatible facade of CSS.supports API",
   "author": {
     "name": "QuickSales.Vn",
-    "url": "https://rocket.chat/"
+    "url": "https://quickchat.vn/"
   },
   "homepage": "https://github.com/QuickSales/fuselage#readme",
   "license": "MIT",
@@ -35,8 +35,8 @@
     "bump-next": "bump-next"
   },
   "devDependencies": {
-    "@rocket.chat/eslint-config-alt": "workspace:~",
-    "@rocket.chat/prettier-config": "workspace:~",
+    "@quickchat.vn/eslint-config-alt": "workspace:~",
+    "@quickchat.vn/prettier-config": "workspace:~",
     "bump": "workspace:~",
     "eslint": "~8.26.0",
     "lint-all": "workspace:~",
@@ -47,10 +47,10 @@
     "typescript": "~4.3.5"
   },
   "dependencies": {
-    "@rocket.chat/memo": "workspace:~"
+    "@quickchat.vn/memo": "workspace:~"
   },
   "eslintConfig": {
-    "extends": "@rocket.chat/eslint-config-alt/typescript"
+    "extends": "@quickchat.vn/eslint-config-alt/typescript"
   },
-  "prettier": "@rocket.chat/prettier-config/fuselage"
+  "prettier": "@quickchat.vn/prettier-config/fuselage"
 }

@@ -1,5 +1,5 @@
-import { css } from '@rocket.chat/css-in-js';
-import { Button, Label } from '@rocket.chat/fuselage';
+import { css } from '@quickchat.vn/css-in-js';
+import { Button, Label } from '@quickchat.vn/fuselage';
 import type { FC, ReactNode } from 'react';
 import React, { useState } from 'react';
 

@@ -73,7 +73,7 @@ jobs:
         with:
           node-version: "14.17.6"
           registry-url: "https://registry.npmjs.org"
-          scope: "@rocket.chat"
+          scope: "@quickchat.vn"
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0

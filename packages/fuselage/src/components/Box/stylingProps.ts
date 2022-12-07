@@ -1,5 +1,5 @@
-import type { cssFn } from '@rocket.chat/css-in-js';
-import { css } from '@rocket.chat/css-in-js';
+import type { cssFn } from '@quickchat.vn/css-in-js';
+import { css } from '@quickchat.vn/css-in-js';
 import type { CSSProperties } from 'react';
 
 import type { Var } from '../../Theme';

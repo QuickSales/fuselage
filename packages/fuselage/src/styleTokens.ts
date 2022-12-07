@@ -1,6 +1,6 @@
-import tokenColors from '@rocket.chat/fuselage-tokens/colors.json';
-import tokenTypography from '@rocket.chat/fuselage-tokens/dist/typography.json';
-import { memoize } from '@rocket.chat/memo';
+import tokenColors from '@quickchat.vn/fuselage-tokens/colors.json';
+import tokenTypography from '@quickchat.vn/fuselage-tokens/dist/typography.json';
+import { memoize } from '@quickchat.vn/memo';
 import invariant from 'invariant';
 
 import {

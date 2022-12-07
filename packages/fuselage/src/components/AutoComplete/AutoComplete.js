@@ -1,7 +1,7 @@
 import {
   useMutableCallback,
   useResizeObserver,
-} from '@rocket.chat/fuselage-hooks';
+} from '@quickchat.vn/fuselage-hooks';
 import React, { useEffect, useRef, useMemo, useState } from 'react';
 
 import AnimatedVisibility from '../AnimatedVisibility';

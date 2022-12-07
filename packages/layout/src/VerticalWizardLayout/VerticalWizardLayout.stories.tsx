@@ -1,4 +1,4 @@
-import { Field, InputBox } from '@rocket.chat/fuselage';
+import { Field, InputBox } from '@quickchat.vn/fuselage';
 import type { Meta, Story } from '@storybook/react';
 
 import Form from '../FormPageLayout';

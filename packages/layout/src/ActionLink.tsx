@@ -1,4 +1,4 @@
-import { Box } from '@rocket.chat/fuselage';
+import { Box } from '@quickchat.vn/fuselage';
 import type {
   MouseEvent,
   ComponentProps,

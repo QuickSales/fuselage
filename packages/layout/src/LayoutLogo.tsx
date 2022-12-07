@@ -1,5 +1,5 @@
-import { Box } from '@rocket.chat/fuselage';
-import { QuickSalesLogo } from '@rocket.chat/logo';
+import { Box } from '@quickchat.vn/fuselage';
+import { QuickSalesLogo } from '@quickchat.vn/logo';
 import type { ReactElement } from 'react';
 
 import { useDarkMode } from './DarkModeProvider';

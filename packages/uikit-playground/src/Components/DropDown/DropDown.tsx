@@ -1,4 +1,4 @@
-import { Box } from '@rocket.chat/fuselage';
+import { Box } from '@quickchat.vn/fuselage';
 import React, { Fragment } from 'react';
 
 import Items from './Items';

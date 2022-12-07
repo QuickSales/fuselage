@@ -1,20 +1,20 @@
 <!--header-->
 
 <p align="center">
-  <a href="https://rocket.chat" title="QuickSales.Vn">
+  <a href="https://quickchat.vn" title="QuickSales.Vn">
     <img src="https://github.com/QuickSales/QuickSales.Vn.Artwork/raw/master/Logos/2020/png/logo-horizontal-red.png" alt="QuickSales.Vn" />
   </a>
 </p>
 
-# `@rocket.chat/prettier-config`
+# `@quickchat.vn/prettier-config`
 
 > Prettier configuration for QuickSales.Vn repositories
 
 ---
 
-[![npm@latest](https://img.shields.io/npm/v/@rocket.chat/prettier-config/latest?style=flat-square)](https://www.npmjs.com/package/@rocket.chat/prettier-config/v/latest) [![npm@next](https://img.shields.io/npm/v/@rocket.chat/prettier-config/next?style=flat-square)](https://www.npmjs.com/package/@rocket.chat/prettier-config/v/next) ![npm downloads](https://img.shields.io/npm/dw/@rocket.chat/prettier-config?style=flat-square) ![License: MIT](https://img.shields.io/npm/l/@rocket.chat/prettier-config?style=flat-square)
+[![npm@latest](https://img.shields.io/npm/v/@quickchat.vn/prettier-config/latest?style=flat-square)](https://www.npmjs.com/package/@quickchat.vn/prettier-config/v/latest) [![npm@next](https://img.shields.io/npm/v/@quickchat.vn/prettier-config/next?style=flat-square)](https://www.npmjs.com/package/@quickchat.vn/prettier-config/v/next) ![npm downloads](https://img.shields.io/npm/dw/@quickchat.vn/prettier-config?style=flat-square) ![License: MIT](https://img.shields.io/npm/l/@quickchat.vn/prettier-config?style=flat-square)
 
-![deps](https://img.shields.io/librariesio/release/npm/@rocket.chat/prettier-config?style=flat-square) ![npm bundle size](https://img.shields.io/bundlephobia/min/@rocket.chat/prettier-config?style=flat-square)
+![deps](https://img.shields.io/librariesio/release/npm/@quickchat.vn/prettier-config?style=flat-square) ![npm bundle size](https://img.shields.io/bundlephobia/min/@quickchat.vn/prettier-config?style=flat-square)
 
 <!--/header-->
 
@@ -32,14 +32,14 @@ npm i -D prettier
 yarn add -D prettier
 ```
 
-Add `@rocket.chat/prettier-config` as a dependency:
+Add `@quickchat.vn/prettier-config` as a dependency:
 
 ```sh
-npm i -D @rocket.chat/prettier-config
+npm i -D @quickchat.vn/prettier-config
 
 # or, if you are using yarn:
 
-yarn add -D @rocket.chat/prettier-config
+yarn add -D @quickchat.vn/prettier-config
 ```
 
 <!--/install(dev)-->

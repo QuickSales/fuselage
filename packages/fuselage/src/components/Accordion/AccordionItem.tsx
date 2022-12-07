@@ -1,4 +1,4 @@
-import { useToggle, useUniqueId } from '@rocket.chat/fuselage-hooks';
+import { useToggle, useUniqueId } from '@quickchat.vn/fuselage-hooks';
 import type { FormEvent, KeyboardEvent, MouseEvent, ReactNode } from 'react';
 import React from 'react';
 

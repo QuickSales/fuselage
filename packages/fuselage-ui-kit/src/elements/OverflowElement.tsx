@@ -1,11 +1,11 @@
-import type { OptionType } from '@rocket.chat/fuselage';
+import type { OptionType } from '@quickchat.vn/fuselage';
 import {
   IconButton,
   PositionAnimated,
   Options,
   useCursor,
-} from '@rocket.chat/fuselage';
-import type * as UiKit from '@rocket.chat/ui-kit';
+} from '@quickchat.vn/fuselage';
+import type * as UiKit from '@quickchat.vn/ui-kit';
 import type { ReactElement } from 'react';
 import React, { useRef, useCallback, useMemo } from 'react';
 

@@ -55,7 +55,7 @@ WithPlaceholder.args = {
 
 export const WithValue: ComponentStory<typeof EmailInput> = Template.bind({});
 WithValue.args = {
-  defaultValue: 'support@rocket.chat',
+  defaultValue: 'support@quickchat.vn',
 };
 
 export const States: ComponentStory<typeof EmailInput> = () => (
@@ -65,10 +65,10 @@ export const States: ComponentStory<typeof EmailInput> = () => (
     xAxis={{
       'default': {},
       'with placeholder': { placeholder: 'Placeholder' },
-      'with value': { value: 'support@rocket.chat' },
+      'with value': { value: 'support@quickchat.vn' },
       'with icon': {
         addon: <Icon name='at' size='x20' />,
-        value: 'support@rocket.chat',
+        value: 'support@quickchat.vn',
       },
     }}
     yAxis={{

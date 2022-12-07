@@ -39,18 +39,18 @@ const Template: ComponentStory<typeof CodeSnippet> = (args) => (
 
 export const Default = Template.bind({});
 Default.args = {
-  children: 'curl -L https://go.rocket.chat/i/docker-compose.yml -O',
+  children: 'curl -L https://go.quickchat.vn/i/docker-compose.yml -O',
 };
 
 export const CopyButton = Template.bind({});
 CopyButton.args = {
-  children: 'curl -L https://go.rocket.chat/i/docker-compose.yml -O',
+  children: 'curl -L https://go.quickchat.vn/i/docker-compose.yml -O',
   onClick: action('click'),
 };
 
 export const CustomButtonName = Template.bind({});
 CustomButtonName.args = {
-  children: 'curl -L https://go.rocket.chat/i/docker-compose.yml -O',
+  children: 'curl -L https://go.quickchat.vn/i/docker-compose.yml -O',
   onClick: action('click'),
   buttonText: 'Custom name',
 };

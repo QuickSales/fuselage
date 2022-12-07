@@ -1,4 +1,4 @@
-import { Box, Icon } from '@rocket.chat/fuselage';
+import { Box, Icon } from '@quickchat.vn/fuselage';
 import type { ComponentProps, ReactElement, ReactNode } from 'react';
 
 const ListItem = ({

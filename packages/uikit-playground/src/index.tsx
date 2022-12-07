@@ -1,4 +1,4 @@
-import '@rocket.chat/icons/dist/rocketchat.css';
+import '@quickchat.vn/icons/dist/rocketchat.css';
 import React from 'react';
 import ReactDOM from 'react-dom';
 

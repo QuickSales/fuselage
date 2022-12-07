@@ -1,20 +1,20 @@
 <!--header-->
 
 <p align="center">
-  <a href="https://rocket.chat" title="QuickSales.Vn">
+  <a href="https://quickchat.vn" title="QuickSales.Vn">
     <img src="https://github.com/QuickSales/QuickSales.Vn.Artwork/raw/master/Logos/2020/png/logo-horizontal-red.png" alt="QuickSales.Vn" />
   </a>
 </p>
 
-# `@rocket.chat/ui-kit`
+# `@quickchat.vn/ui-kit`
 
 > Interactive UI elements for QuickSales.Vn Apps
 
 ---
 
-[![npm@latest](https://img.shields.io/npm/v/@rocket.chat/ui-kit/latest?style=flat-square)](https://www.npmjs.com/package/@rocket.chat/ui-kit/v/latest) [![npm@next](https://img.shields.io/npm/v/@rocket.chat/ui-kit/next?style=flat-square)](https://www.npmjs.com/package/@rocket.chat/ui-kit/v/next) ![npm downloads](https://img.shields.io/npm/dw/@rocket.chat/ui-kit?style=flat-square) ![License: MIT](https://img.shields.io/npm/l/@rocket.chat/ui-kit?style=flat-square)
+[![npm@latest](https://img.shields.io/npm/v/@quickchat.vn/ui-kit/latest?style=flat-square)](https://www.npmjs.com/package/@quickchat.vn/ui-kit/v/latest) [![npm@next](https://img.shields.io/npm/v/@quickchat.vn/ui-kit/next?style=flat-square)](https://www.npmjs.com/package/@quickchat.vn/ui-kit/v/next) ![npm downloads](https://img.shields.io/npm/dw/@quickchat.vn/ui-kit?style=flat-square) ![License: MIT](https://img.shields.io/npm/l/@quickchat.vn/ui-kit?style=flat-square)
 
-![deps](https://img.shields.io/librariesio/release/npm/@rocket.chat/ui-kit?style=flat-square) ![npm bundle size](https://img.shields.io/bundlephobia/min/@rocket.chat/ui-kit?style=flat-square)
+![deps](https://img.shields.io/librariesio/release/npm/@quickchat.vn/ui-kit?style=flat-square) ![npm bundle size](https://img.shields.io/bundlephobia/min/@quickchat.vn/ui-kit?style=flat-square)
 
 <!--/header-->
 
@@ -22,14 +22,14 @@
 
 <!--install-->
 
-Add `@rocket.chat/ui-kit` as a dependency:
+Add `@quickchat.vn/ui-kit` as a dependency:
 
 ```sh
-npm i @rocket.chat/ui-kit
+npm i @quickchat.vn/ui-kit
 
 # or, if you are using yarn:
 
-yarn add @rocket.chat/ui-kit
+yarn add @quickchat.vn/ui-kit
 ```
 
 <!--/install-->

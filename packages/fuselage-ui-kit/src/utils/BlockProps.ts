@@ -1,5 +1,5 @@
-import type { Box } from '@rocket.chat/fuselage';
-import type * as UiKit from '@rocket.chat/ui-kit';
+import type { Box } from '@quickchat.vn/fuselage';
+import type * as UiKit from '@quickchat.vn/ui-kit';
 import type { ComponentProps, ReactElement } from 'react';
 
 export type BlockProps<B extends UiKit.Block> = {

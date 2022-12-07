@@ -1,4 +1,4 @@
-import { css } from '@rocket.chat/css-in-js';
+import { css } from '@quickchat.vn/css-in-js';
 import type { ComponentProps, PropsWithChildren } from 'react';
 import React, { useCallback } from 'react';
 

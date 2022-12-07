@@ -1,4 +1,4 @@
-import { BackgroundLayer } from '@rocket.chat/layout';
+import { BackgroundLayer } from '@quickchat.vn/layout';
 import type { ComponentProps, ReactElement } from 'react';
 
 import type { FormPageLayoutStyleProps } from '../../Types';

@@ -8,8 +8,8 @@ import {
   TextInput,
   Box,
   CheckBox,
-} from '@rocket.chat/fuselage';
-import { Form } from '@rocket.chat/layout';
+} from '@quickchat.vn/fuselage';
+import { Form } from '@quickchat.vn/layout';
 import type { ReactElement } from 'react';
 import { useEffect } from 'react';
 import type { SubmitHandler, Validate } from 'react-hook-form';
@@ -129,7 +129,7 @@ const NewAccountForm = ({
                 <Trans i18nKey='component.form.termsAndConditions'>
                   I agree with
                   <a
-                    href='https://rocket.chat/terms'
+                    href='https://quickchat.vn/terms'
                     target='_blank'
                     rel='noopener noreferrer'
                   >
@@ -137,7 +137,7 @@ const NewAccountForm = ({
                   </a>
                   and
                   <a
-                    href='https://rocket.chat/privacy'
+                    href='https://quickchat.vn/privacy'
                     target='_blank'
                     rel='noopener noreferrer'
                   >

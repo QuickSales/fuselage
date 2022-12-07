@@ -1,11 +1,11 @@
 {
-  "name": "@rocket.chat/fuselage-hooks",
+  "name": "@quickchat.vn/fuselage-hooks",
   "version": "0.31.22",
   "description": "React hooks for Fuselage, QuickSales.Vn's design system and UI toolkit",
   "homepage": "https://rocketchat.github.io/QuickSales.Vn.Fuselage/",
   "author": {
     "name": "QuickSales.Vn",
-    "url": "https://rocket.chat/"
+    "url": "https://quickchat.vn/"
   },
   "license": "MIT",
   "repository": {
@@ -20,7 +20,7 @@
     "react",
     "hooks",
     "fuselage",
-    "rocket.chat"
+    "quickchat.vn"
   ],
   "source": "src/index.ts",
   "main": "dist/index.js",
@@ -42,9 +42,9 @@
     "bump-next": "bump-next"
   },
   "devDependencies": {
-    "@rocket.chat/eslint-config-alt": "workspace:~",
-    "@rocket.chat/fuselage-tokens": "workspace:~",
-    "@rocket.chat/prettier-config": "workspace:~",
+    "@quickchat.vn/eslint-config-alt": "workspace:~",
+    "@quickchat.vn/fuselage-tokens": "workspace:~",
+    "@quickchat.vn/prettier-config": "workspace:~",
     "@rollup/plugin-commonjs": "~21.0.3",
     "@rollup/plugin-json": "~4.1.0",
     "@rollup/plugin-node-resolve": "~13.1.3",
@@ -72,7 +72,7 @@
     "typescript": "~4.3.5"
   },
   "peerDependencies": {
-    "@rocket.chat/fuselage-tokens": "*",
+    "@quickchat.vn/fuselage-tokens": "*",
     "react": "^17.0.2"
   },
   "dependencies": {

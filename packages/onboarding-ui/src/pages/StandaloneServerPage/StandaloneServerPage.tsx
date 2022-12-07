@@ -1,7 +1,7 @@
 import {
   BackgroundLayer,
   FormPageLayout as FormLayout,
-} from '@rocket.chat/layout';
+} from '@quickchat.vn/layout';
 import type { ReactElement } from 'react';
 import type { SubmitHandler } from 'react-hook-form';
 import { Trans } from 'react-i18next';

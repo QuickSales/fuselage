@@ -1,4 +1,4 @@
-import { ToastBar } from '@rocket.chat/fuselage';
+import { ToastBar } from '@quickchat.vn/fuselage';
 import type { ReactElement } from 'react';
 import React, { useEffect } from 'react';
 

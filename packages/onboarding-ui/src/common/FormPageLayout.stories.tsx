@@ -1,4 +1,4 @@
-import { Tile } from '@rocket.chat/fuselage';
+import { Tile } from '@quickchat.vn/fuselage';
 import type { Meta, Story } from '@storybook/react';
 import type { ComponentProps } from 'react';
 

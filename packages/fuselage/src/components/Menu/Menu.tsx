@@ -1,4 +1,4 @@
-import type { Placements } from '@rocket.chat/fuselage-hooks';
+import type { Placements } from '@quickchat.vn/fuselage-hooks';
 import type { ComponentProps, ElementType, ReactNode } from 'react';
 import React, { useRef, useCallback, useEffect } from 'react';
 

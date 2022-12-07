@@ -11,11 +11,11 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [0.30.0](https://github.com/QuickSales/fuselage/compare/v0.29.0...v0.30.0) (2021-10-06)
 
-**Note:** Version bump only for package @rocket.chat/eslint-config-alt
+**Note:** Version bump only for package @quickchat.vn/eslint-config-alt
 
 # [0.29.0](https://github.com/QuickSales/fuselage/compare/v0.28.0...v0.29.0) (2021-08-31)
 
-**Note:** Version bump only for package @rocket.chat/eslint-config-alt
+**Note:** Version bump only for package @quickchat.vn/eslint-config-alt
 
 # [0.28.0](https://github.com/QuickSales/fuselage/compare/v0.27.0...v0.28.0) (2021-07-30)
 
@@ -32,7 +32,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [0.26.0](https://github.com/QuickSales/fuselage/compare/v0.25.0...v0.26.0) (2021-05-28)
 
-**Note:** Version bump only for package @rocket.chat/eslint-config-alt
+**Note:** Version bump only for package @quickchat.vn/eslint-config-alt
 
 # [0.25.0](https://github.com/QuickSales/fuselage/compare/v0.24.0...v0.25.0) (2021-05-19)
 
@@ -42,4 +42,4 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [0.24.0](https://github.com/QuickSales/fuselage/compare/v0.23.0...v0.24.0) (2021-04-28)
 
-**Note:** Version bump only for package @rocket.chat/eslint-config-alt
+**Note:** Version bump only for package @quickchat.vn/eslint-config-alt

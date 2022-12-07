@@ -1,4 +1,4 @@
-import { useMutableCallback } from '@rocket.chat/fuselage-hooks';
+import { useMutableCallback } from '@quickchat.vn/fuselage-hooks';
 import type { FormEvent, Ref } from 'react';
 import React, { useMemo, forwardRef } from 'react';
 

@@ -6,9 +6,9 @@ import {
   EmailInput,
   CheckBox,
   Icon,
-} from '@rocket.chat/fuselage';
-import { useUniqueId, useBreakpoints } from '@rocket.chat/fuselage-hooks';
-import { Form, List, ActionLink } from '@rocket.chat/layout';
+} from '@quickchat.vn/fuselage';
+import { useUniqueId, useBreakpoints } from '@quickchat.vn/fuselage-hooks';
+import { Form, List, ActionLink } from '@quickchat.vn/layout';
 import type { ReactElement } from 'react';
 import type { SubmitHandler, Validate } from 'react-hook-form';
 import { useForm, FormProvider } from 'react-hook-form';
@@ -41,8 +41,8 @@ const RegisterServerForm = ({
   onSubmit,
   onBackButtonClick,
   onClickContinue,
-  termsHref = 'https://rocket.chat/terms',
-  policyHref = 'https://rocket.chat/privacy',
+  termsHref = 'https://quickchat.vn/terms',
+  policyHref = 'https://quickchat.vn/privacy',
 }: RegisterServerFormProps): ReactElement => {
   const { t } = useTranslation();
   const emailField = useUniqueId();

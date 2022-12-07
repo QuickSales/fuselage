@@ -1,4 +1,4 @@
-import { Margins } from '@rocket.chat/fuselage';
+import { Margins } from '@quickchat.vn/fuselage';
 import type { ReactElement, ReactNode } from 'react';
 import React from 'react';
 

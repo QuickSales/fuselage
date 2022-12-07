@@ -1,4 +1,4 @@
-import { Icon } from '@rocket.chat/fuselage';
+import { Icon } from '@quickchat.vn/fuselage';
 import React from 'react';
 
 const ItemsIcon = ({

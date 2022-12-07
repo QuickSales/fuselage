@@ -1,5 +1,5 @@
 {
-  "name": "@rocket.chat/string-helpers",
+  "name": "@quickchat.vn/string-helpers",
   "version": "0.31.22",
   "description": "Helper functions for string manipulation",
   "keywords": [
@@ -8,7 +8,7 @@
   ],
   "author": {
     "name": "QuickSales.Vn",
-    "url": "https://rocket.chat/"
+    "url": "https://quickchat.vn/"
   },
   "homepage": "https://github.com/QuickSales/fuselage#readme",
   "license": "MIT",
@@ -42,8 +42,8 @@
     "url": "https://github.com/QuickSales/fuselage/issues"
   },
   "devDependencies": {
-    "@rocket.chat/eslint-config-alt": "workspace:~",
-    "@rocket.chat/prettier-config": "workspace:~",
+    "@quickchat.vn/eslint-config-alt": "workspace:~",
+    "@quickchat.vn/prettier-config": "workspace:~",
     "@types/jest": "~27.4.1",
     "bump": "workspace:~",
     "eslint": "~8.26.0",
@@ -61,12 +61,12 @@
     "tslib": "^2.3.1"
   },
   "eslintConfig": {
-    "extends": "@rocket.chat/eslint-config-alt/typescript",
+    "extends": "@quickchat.vn/eslint-config-alt/typescript",
     "env": {
       "jest": true
     }
   },
-  "prettier": "@rocket.chat/prettier-config/fuselage",
+  "prettier": "@quickchat.vn/prettier-config/fuselage",
   "jest": {
     "preset": "ts-jest",
     "errorOnDeprecated": true,

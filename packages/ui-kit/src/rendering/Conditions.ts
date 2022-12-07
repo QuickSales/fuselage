@@ -1,3 +1,3 @@
 export type Conditions = {
-  engine?: 'rocket.chat' | 'livechat';
+  engine?: 'quickchat.vn' | 'livechat';
 };

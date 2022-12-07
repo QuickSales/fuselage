@@ -1,5 +1,5 @@
-import colors from '@rocket.chat/fuselage-tokens/colors.json';
-import { List, DarkModeProvider } from '@rocket.chat/layout';
+import colors from '@quickchat.vn/fuselage-tokens/colors.json';
+import { List, DarkModeProvider } from '@quickchat.vn/layout';
 import type { ReactElement } from 'react';
 import { useMemo } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';

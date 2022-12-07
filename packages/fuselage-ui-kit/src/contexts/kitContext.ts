@@ -1,4 +1,4 @@
-import type { InputElementDispatchAction } from '@rocket.chat/ui-kit';
+import type { InputElementDispatchAction } from '@quickchat.vn/ui-kit';
 import { createContext, useContext } from 'react';
 
 type ActionParams = {

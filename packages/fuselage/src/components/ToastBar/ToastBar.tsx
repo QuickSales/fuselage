@@ -1,5 +1,5 @@
-import { css, keyframes } from '@rocket.chat/css-in-js';
-import { useUniqueId } from '@rocket.chat/fuselage-hooks';
+import { css, keyframes } from '@quickchat.vn/css-in-js';
+import { useUniqueId } from '@quickchat.vn/fuselage-hooks';
 import type { ReactNode } from 'react';
 import React from 'react';
 

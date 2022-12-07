@@ -1,4 +1,4 @@
-import { createLogicalPropertiesMiddleware } from '@rocket.chat/stylis-logical-props-middleware';
+import { createLogicalPropertiesMiddleware } from '@quickchat.vn/stylis-logical-props-middleware';
 import type { Middleware } from 'stylis';
 import { compile, middleware, prefixer, serialize, stringify } from 'stylis';
 

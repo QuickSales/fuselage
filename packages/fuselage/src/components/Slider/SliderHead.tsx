@@ -1,4 +1,4 @@
-import { css } from '@rocket.chat/css-in-js';
+import { css } from '@quickchat.vn/css-in-js';
 import type { LabelHTMLAttributes, OutputHTMLAttributes } from 'react';
 import React from 'react';
 import type { SliderState } from 'react-stately';

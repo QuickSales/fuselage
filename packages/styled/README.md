@@ -1,20 +1,20 @@
 <!--header-->
 
 <p align="center">
-  <a href="https://rocket.chat" title="QuickSales.Vn">
+  <a href="https://quickchat.vn" title="QuickSales.Vn">
     <img src="https://github.com/QuickSales/QuickSales.Vn.Artwork/raw/master/Logos/2020/png/logo-horizontal-red.png" alt="QuickSales.Vn" />
   </a>
 </p>
 
-# `@rocket.chat/styled`
+# `@quickchat.vn/styled`
 
 > A simple styled API for React components
 
 ---
 
-[![npm@latest](https://img.shields.io/npm/v/@rocket.chat/styled/latest?style=flat-square)](https://www.npmjs.com/package/@rocket.chat/styled/v/latest) [![npm@next](https://img.shields.io/npm/v/@rocket.chat/styled/next?style=flat-square)](https://www.npmjs.com/package/@rocket.chat/styled/v/next) ![npm downloads](https://img.shields.io/npm/dw/@rocket.chat/styled?style=flat-square) ![License: MIT](https://img.shields.io/npm/l/@rocket.chat/styled?style=flat-square)
+[![npm@latest](https://img.shields.io/npm/v/@quickchat.vn/styled/latest?style=flat-square)](https://www.npmjs.com/package/@quickchat.vn/styled/v/latest) [![npm@next](https://img.shields.io/npm/v/@quickchat.vn/styled/next?style=flat-square)](https://www.npmjs.com/package/@quickchat.vn/styled/v/next) ![npm downloads](https://img.shields.io/npm/dw/@quickchat.vn/styled?style=flat-square) ![License: MIT](https://img.shields.io/npm/l/@quickchat.vn/styled?style=flat-square)
 
-![deps](https://img.shields.io/librariesio/release/npm/@rocket.chat/styled?style=flat-square) ![npm bundle size](https://img.shields.io/bundlephobia/min/@rocket.chat/styled?style=flat-square)
+![deps](https://img.shields.io/librariesio/release/npm/@quickchat.vn/styled?style=flat-square) ![npm bundle size](https://img.shields.io/bundlephobia/min/@quickchat.vn/styled?style=flat-square)
 
 <!--/header-->
 
@@ -22,14 +22,14 @@
 
 <!--install-->
 
-Add `@rocket.chat/styled` as a dependency:
+Add `@quickchat.vn/styled` as a dependency:
 
 ```sh
-npm i @rocket.chat/styled
+npm i @quickchat.vn/styled
 
 # or, if you are using yarn:
 
-yarn add @rocket.chat/styled
+yarn add @quickchat.vn/styled
 ```
 
 <!--/install-->

@@ -1,10 +1,10 @@
-import type { cssFn } from '@rocket.chat/css-in-js';
+import type { cssFn } from '@quickchat.vn/css-in-js';
 import {
   createClassName,
   escapeName,
   transpile,
   attachRules,
-} from '@rocket.chat/css-in-js';
+} from '@quickchat.vn/css-in-js';
 import { useDebugValue, useLayoutEffect, useMemo } from 'react';
 
 export const useStyle = (cssFn: cssFn | undefined, arg: unknown) => {

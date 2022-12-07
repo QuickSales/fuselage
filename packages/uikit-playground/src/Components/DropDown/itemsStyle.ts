@@ -1,4 +1,4 @@
-import { css } from '@rocket.chat/css-in-js';
+import { css } from '@quickchat.vn/css-in-js';
 
 export const itemStyle = (layer: number, hover: boolean) => {
   const style = css`

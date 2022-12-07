@@ -1,6 +1,6 @@
-import { css } from '@rocket.chat/css-in-js';
-import { Box } from '@rocket.chat/fuselage';
-import { useResizeObserver } from '@rocket.chat/fuselage-hooks';
+import { css } from '@quickchat.vn/css-in-js';
+import { Box } from '@quickchat.vn/fuselage';
+import { useResizeObserver } from '@quickchat.vn/fuselage-hooks';
 import React, { useContext } from 'react';
 
 import { context } from '../../Context';

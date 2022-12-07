@@ -1,10 +1,10 @@
-import { Box } from '@rocket.chat/fuselage';
-import colors from '@rocket.chat/fuselage-tokens/colors.json';
+import { Box } from '@quickchat.vn/fuselage';
+import colors from '@quickchat.vn/fuselage-tokens/colors.json';
 import {
   HeroLayout,
   HeroLayoutTitle,
   HeroLayoutSubtitle,
-} from '@rocket.chat/layout';
+} from '@quickchat.vn/layout';
 import type { ReactElement } from 'react';
 import { useTranslation } from 'react-i18next';
 

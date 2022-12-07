@@ -1,4 +1,4 @@
-import { css, keyframes } from '@rocket.chat/css-in-js';
+import { css, keyframes } from '@quickchat.vn/css-in-js';
 import type { ReactNode } from 'react';
 import React, { useCallback, useEffect, useState } from 'react';
 

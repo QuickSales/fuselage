@@ -1,5 +1,5 @@
 module.exports = {
-  extends: '@rocket.chat/eslint-config-alt/typescript',
+  extends: '@quickchat.vn/eslint-config-alt/typescript',
   plugins: ['react-hooks'],
   rules: {
     'react-hooks/rules-of-hooks': 'error',

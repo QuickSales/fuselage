@@ -17,7 +17,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [0.29.0](https://github.com/QuickSales/fuselage/compare/v0.28.0...v0.29.0) (2021-08-31)
 
-**Note:** Version bump only for package @rocket.chat/styled
+**Note:** Version bump only for package @quickchat.vn/styled
 
 # [0.28.0](https://github.com/QuickSales/fuselage/compare/v0.27.0...v0.28.0) (2021-07-30)
 

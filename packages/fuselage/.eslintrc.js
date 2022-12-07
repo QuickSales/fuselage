@@ -1,7 +1,7 @@
 module.exports = {
   extends: [
-    '@rocket.chat/eslint-config-alt/typescript',
-    '@rocket.chat/eslint-config-alt/react',
+    '@quickchat.vn/eslint-config-alt/typescript',
+    '@quickchat.vn/eslint-config-alt/react',
   ],
   rules: {
     '@typescript-eslint/explicit-module-boundary-types': 'off',
@@ -17,7 +17,7 @@ module.exports = {
     {
       files: ['*.mdx'],
       extends: [
-        '@rocket.chat/eslint-config-alt/react',
+        '@quickchat.vn/eslint-config-alt/react',
         'plugin:mdx/recommended',
       ],
       parserOptions: {

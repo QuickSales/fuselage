@@ -1,4 +1,4 @@
-import { css } from '@rocket.chat/css-in-js';
+import { css } from '@quickchat.vn/css-in-js';
 import { render } from '@testing-library/react';
 import React from 'react';
 

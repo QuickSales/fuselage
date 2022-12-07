@@ -1,20 +1,20 @@
 <!--header-->
 
 <p align="center">
-  <a href="https://rocket.chat" title="QuickSales.Vn">
+  <a href="https://quickchat.vn" title="QuickSales.Vn">
     <img src="https://github.com/QuickSales/QuickSales.Vn.Artwork/raw/master/Logos/2020/png/logo-horizontal-red.png" alt="QuickSales.Vn" />
   </a>
 </p>
 
-# `@rocket.chat/css-in-js`
+# `@quickchat.vn/css-in-js`
 
 > Toolset to transpile and use CSS on runtime
 
 ---
 
-[![npm@latest](https://img.shields.io/npm/v/@rocket.chat/css-in-js/latest?style=flat-square)](https://www.npmjs.com/package/@rocket.chat/css-in-js/v/latest) [![npm@next](https://img.shields.io/npm/v/@rocket.chat/css-in-js/next?style=flat-square)](https://www.npmjs.com/package/@rocket.chat/css-in-js/v/next) ![npm downloads](https://img.shields.io/npm/dw/@rocket.chat/css-in-js?style=flat-square) ![License: MIT](https://img.shields.io/npm/l/@rocket.chat/css-in-js?style=flat-square)
+[![npm@latest](https://img.shields.io/npm/v/@quickchat.vn/css-in-js/latest?style=flat-square)](https://www.npmjs.com/package/@quickchat.vn/css-in-js/v/latest) [![npm@next](https://img.shields.io/npm/v/@quickchat.vn/css-in-js/next?style=flat-square)](https://www.npmjs.com/package/@quickchat.vn/css-in-js/v/next) ![npm downloads](https://img.shields.io/npm/dw/@quickchat.vn/css-in-js?style=flat-square) ![License: MIT](https://img.shields.io/npm/l/@quickchat.vn/css-in-js?style=flat-square)
 
-![deps](https://img.shields.io/librariesio/release/npm/@rocket.chat/css-in-js?style=flat-square) ![npm bundle size](https://img.shields.io/bundlephobia/min/@rocket.chat/css-in-js?style=flat-square)
+![deps](https://img.shields.io/librariesio/release/npm/@quickchat.vn/css-in-js?style=flat-square) ![npm bundle size](https://img.shields.io/bundlephobia/min/@quickchat.vn/css-in-js?style=flat-square)
 
 <!--/header-->
 
@@ -22,14 +22,14 @@
 
 <!--install-->
 
-Add `@rocket.chat/css-in-js` as a dependency:
+Add `@quickchat.vn/css-in-js` as a dependency:
 
 ```sh
-npm i @rocket.chat/css-in-js
+npm i @quickchat.vn/css-in-js
 
 # or, if you are using yarn:
 
-yarn add @rocket.chat/css-in-js
+yarn add @quickchat.vn/css-in-js
 ```
 
 <!--/install-->

@@ -1,13 +1,13 @@
 import { DocsPage, DocsContainer } from '@storybook/addon-docs';
 import type { DecoratorFunction } from '@storybook/addons';
 import { addParameters } from '@storybook/react';
-import '@rocket.chat/icons/dist/rocketchat.css';
-import '@rocket.chat/fuselage-polyfills';
+import '@quickchat.vn/icons/dist/rocketchat.css';
+import '@quickchat.vn/fuselage-polyfills';
 import type { ElementType, ReactElement } from 'react';
 import { Suspense } from 'react';
 import { useDarkMode } from 'storybook-dark-mode';
 import ToastBarProvider from '../src/ToastBarProvider';
-import { DarkModeProvider } from '@rocket.chat/layout';
+import { DarkModeProvider } from '@quickchat.vn/layout';
 import React from 'react';
 
 addParameters({

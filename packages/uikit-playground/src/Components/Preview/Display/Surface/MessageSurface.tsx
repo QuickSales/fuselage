@@ -1,4 +1,4 @@
-import { Message, Avatar } from '@rocket.chat/fuselage';
+import { Message, Avatar } from '@quickchat.vn/fuselage';
 import React from 'react';
 
 import DraggableList from '../../../Draggable/DraggableList';

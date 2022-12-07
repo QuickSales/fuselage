@@ -1,4 +1,4 @@
-import colors from '@rocket.chat/fuselage-tokens/colors.json';
+import colors from '@quickchat.vn/fuselage-tokens/colors.json';
 import type { ReactElement } from 'react';
 
 import QuickSalesLogo from '../QuickSalesLogo';

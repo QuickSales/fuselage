@@ -1,4 +1,4 @@
-import { BackgroundLayer } from '@rocket.chat/layout';
+import { BackgroundLayer } from '@quickchat.vn/layout';
 import type { ReactElement, ReactNode } from 'react';
 import type { SubmitHandler, Validate } from 'react-hook-form';
 

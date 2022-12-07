@@ -1,4 +1,4 @@
-import styled from '@rocket.chat/styled';
+import styled from '@quickchat.vn/styled';
 import type { ReactNode, ReactElement } from 'react';
 import React from 'react';
 

@@ -1,4 +1,4 @@
-import { useToggle } from '@rocket.chat/fuselage-hooks';
+import { useToggle } from '@quickchat.vn/fuselage-hooks';
 import type { ComponentProps, Ref } from 'react';
 import React, { forwardRef } from 'react';
 

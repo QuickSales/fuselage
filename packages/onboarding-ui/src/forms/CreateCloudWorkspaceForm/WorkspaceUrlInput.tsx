@@ -1,4 +1,4 @@
-import { Box, InputBox } from '@rocket.chat/fuselage';
+import { Box, InputBox } from '@quickchat.vn/fuselage';
 import type { ComponentProps, ReactNode, Ref } from 'react';
 import React, { forwardRef } from 'react';
 

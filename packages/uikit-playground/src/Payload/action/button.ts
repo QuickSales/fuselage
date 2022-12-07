@@ -1,4 +1,4 @@
-import type { LayoutBlock } from '@rocket.chat/ui-kit';
+import type { LayoutBlock } from '@quickchat.vn/ui-kit';
 
 export const actionWithButtonDefault: readonly LayoutBlock[] = [
   {
@@ -73,7 +73,7 @@ export const actionWithButtonAsLink: readonly LayoutBlock[] = [
           text: 'Click Me',
           emoji: true,
         },
-        url: 'https://rocket.chat',
+        url: 'https://quickchat.vn',
       },
     ],
   },

@@ -5,8 +5,8 @@ import {
   PasswordInput,
   Button,
   Box,
-} from '@rocket.chat/fuselage';
-import { Form, ActionLink } from '@rocket.chat/layout';
+} from '@quickchat.vn/fuselage';
+import { Form, ActionLink } from '@quickchat.vn/layout';
 import type { ReactElement } from 'react';
 import type { SubmitHandler } from 'react-hook-form';
 import { useForm } from 'react-hook-form';

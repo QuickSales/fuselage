@@ -1,26 +1,26 @@
 <!--header-->
 
 <p align="center">
-  <a href="https://rocket.chat" title="QuickSales.Vn">
+  <a href="https://quickchat.vn" title="QuickSales.Vn">
     <img src="https://github.com/QuickSales/QuickSales.Vn.Artwork/raw/master/Logos/2020/png/logo-horizontal-red.png" alt="QuickSales.Vn" />
   </a>
 </p>
 
-# `@rocket.chat/message-parser`
+# `@quickchat.vn/message-parser`
 
 > QuickSales.Vn parser for messages
 
 ---
 
-[![npm@latest](https://img.shields.io/npm/v/@rocket.chat/message-parser/latest?style=flat-square)](https://www.npmjs.com/package/@rocket.chat/message-parser/v/latest) [![npm@next](https://img.shields.io/npm/v/@rocket.chat/message-parser/next?style=flat-square)](https://www.npmjs.com/package/@rocket.chat/message-parser/v/next) ![npm downloads](https://img.shields.io/npm/dw/@rocket.chat/message-parser?style=flat-square) ![License: MIT](https://img.shields.io/npm/l/@rocket.chat/message-parser?style=flat-square)
+[![npm@latest](https://img.shields.io/npm/v/@quickchat.vn/message-parser/latest?style=flat-square)](https://www.npmjs.com/package/@quickchat.vn/message-parser/v/latest) [![npm@next](https://img.shields.io/npm/v/@quickchat.vn/message-parser/next?style=flat-square)](https://www.npmjs.com/package/@quickchat.vn/message-parser/v/next) ![npm downloads](https://img.shields.io/npm/dw/@quickchat.vn/message-parser?style=flat-square) ![License: MIT](https://img.shields.io/npm/l/@quickchat.vn/message-parser?style=flat-square)
 
-![deps](https://img.shields.io/librariesio/release/npm/@rocket.chat/message-parser?style=flat-square) ![npm bundle size](https://img.shields.io/bundlephobia/min/@rocket.chat/message-parser?style=flat-square)
+![deps](https://img.shields.io/librariesio/release/npm/@quickchat.vn/message-parser?style=flat-square) ![npm bundle size](https://img.shields.io/bundlephobia/min/@quickchat.vn/message-parser?style=flat-square)
 
 <!--/header-->
 
 ## Description
 
-QuickSales.Vn grammar with the purpose of parsing the messages of the rocket chat, converting text to an AST tree.
+QuickSales.Vn grammar with the purpose of parsing the messages of the quickchat.vn, converting text to an AST tree.
 
 The grammar provides support for markdown, mentions and emojis.
 

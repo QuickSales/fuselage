@@ -1,11 +1,11 @@
 {
-  "name": "@rocket.chat/fuselage-ui-kit",
+  "name": "@quickchat.vn/fuselage-ui-kit",
   "version": "0.31.22",
   "description": "UiKit elements for QuickSales.Vn Apps built under Fuselage design system",
   "homepage": "https://rocketchat.github.io/QuickSales.Vn.Fuselage/",
   "author": {
     "name": "QuickSales.Vn",
-    "url": "https://rocket.chat/"
+    "url": "https://quickchat.vn/"
   },
   "license": "MIT",
   "repository": {
@@ -39,23 +39,23 @@
     "bump-next": "bump-next"
   },
   "peerDependencies": {
-    "@rocket.chat/fuselage": "*",
-    "@rocket.chat/fuselage-hooks": "*",
-    "@rocket.chat/fuselage-polyfills": "*",
-    "@rocket.chat/icons": "*",
-    "@rocket.chat/styled": "*",
+    "@quickchat.vn/fuselage": "*",
+    "@quickchat.vn/fuselage-hooks": "*",
+    "@quickchat.vn/fuselage-polyfills": "*",
+    "@quickchat.vn/icons": "*",
+    "@quickchat.vn/styled": "*",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "@rocket.chat/apps-engine": "~1.30.0",
-    "@rocket.chat/eslint-config-alt": "workspace:~",
-    "@rocket.chat/fuselage": "workspace:~",
-    "@rocket.chat/fuselage-hooks": "workspace:~",
-    "@rocket.chat/fuselage-polyfills": "workspace:~",
-    "@rocket.chat/icons": "workspace:~",
-    "@rocket.chat/prettier-config": "workspace:~",
-    "@rocket.chat/styled": "workspace:~",
+    "@quickchat.vn/apps-engine": "~1.30.0",
+    "@quickchat.vn/eslint-config-alt": "workspace:~",
+    "@quickchat.vn/fuselage": "workspace:~",
+    "@quickchat.vn/fuselage-hooks": "workspace:~",
+    "@quickchat.vn/fuselage-polyfills": "workspace:~",
+    "@quickchat.vn/icons": "workspace:~",
+    "@quickchat.vn/prettier-config": "workspace:~",
+    "@quickchat.vn/styled": "workspace:~",
     "@storybook/addon-essentials": "~6.5.13",
     "@storybook/addons": "~6.5.13",
     "@storybook/builder-webpack5": "~6.5.13",
@@ -82,7 +82,7 @@
     "write-version-module": "workspace:~"
   },
   "dependencies": {
-    "@rocket.chat/ui-kit": "workspace:~",
+    "@quickchat.vn/ui-kit": "workspace:~",
     "tslib": "^2.3.1"
   }
 }

@@ -1,10 +1,10 @@
-import breakpointTokens from '@rocket.chat/fuselage-tokens/breakpoints.json';
+import breakpointTokens from '@quickchat.vn/fuselage-tokens/breakpoints.json';
 import { DocsPage, DocsContainer } from '@storybook/addon-docs';
 import { addParameters } from '@storybook/react';
 
 import 'normalize.css/normalize.css';
-import '@rocket.chat/icons/dist/rocketchat.css';
-import '@rocket.chat/fuselage-polyfills';
+import '@quickchat.vn/icons/dist/rocketchat.css';
+import '@quickchat.vn/fuselage-polyfills';
 
 addParameters({
   backgrounds: {

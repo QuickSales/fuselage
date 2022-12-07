@@ -1,5 +1,5 @@
-import { css } from '@rocket.chat/css-in-js';
-import { Tabs } from '@rocket.chat/fuselage';
+import { css } from '@quickchat.vn/css-in-js';
+import { Tabs } from '@quickchat.vn/fuselage';
 import type { FC } from 'react';
 import React, { useContext } from 'react';
 

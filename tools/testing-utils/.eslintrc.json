@@ -1,5 +1,5 @@
 {
-  "extends": "@rocket.chat/eslint-config-alt/minimal",
+  "extends": "@quickchat.vn/eslint-config-alt/minimal",
   "parserOptions": {
     "ecmaVersion": "latest",
     "sourceType": "module"
@@ -11,7 +11,7 @@
   "overrides": [
     {
       "files": ["**/*.ts", "**/*.tsx"],
-      "extends": "@rocket.chat/eslint-config-alt/typescript"
+      "extends": "@quickchat.vn/eslint-config-alt/typescript"
     }
   ]
 }

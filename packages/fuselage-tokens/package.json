@@ -1,11 +1,11 @@
 {
-  "name": "@rocket.chat/fuselage-tokens",
+  "name": "@quickchat.vn/fuselage-tokens",
   "version": "0.31.22",
   "description": "Design tokens for Fuselage, QuickSales.Vn's design system",
   "homepage": "https://rocketchat.github.io/QuickSales.Vn.Fuselage/",
   "author": {
     "name": "QuickSales.Vn",
-    "url": "https://rocket.chat/"
+    "url": "https://quickchat.vn/"
   },
   "module": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
@@ -22,7 +22,7 @@
     "design",
     "tokens",
     "fuselage",
-    "rocket.chat"
+    "quickchat.vn"
   ],
   "files": [
     "dist/breakpoints.*",
@@ -45,8 +45,8 @@
     "bump-next": "bump-next"
   },
   "devDependencies": {
-    "@rocket.chat/eslint-config-alt": "workspace:~",
-    "@rocket.chat/prettier-config": "workspace:~",
+    "@quickchat.vn/eslint-config-alt": "workspace:~",
+    "@quickchat.vn/prettier-config": "workspace:~",
     "build-design-tokens": "workspace:~",
     "bump": "workspace:~",
     "eslint": "~8.26.0",

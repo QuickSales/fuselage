@@ -1,5 +1,5 @@
 {
-  "name": "@rocket.chat/peggy-loader",
+  "name": "@quickchat.vn/peggy-loader",
   "version": "0.31.22",
   "description": "Peggy loader for webpack",
   "keywords": [
@@ -9,7 +9,7 @@
   ],
   "author": {
     "name": "QuickSales.Vn",
-    "url": "https://rocket.chat/"
+    "url": "https://quickchat.vn/"
   },
   "homepage": "https://github.com/QuickSales/fuselage#readme",
   "license": "MIT",
@@ -45,8 +45,8 @@
     "webpack": "*"
   },
   "devDependencies": {
-    "@rocket.chat/eslint-config-alt": "workspace:~",
-    "@rocket.chat/prettier-config": "workspace:~",
+    "@quickchat.vn/eslint-config-alt": "workspace:~",
+    "@quickchat.vn/prettier-config": "workspace:~",
     "@types/node": "~15.14.9",
     "bump": "workspace:~",
     "eslint": "~8.26.0",

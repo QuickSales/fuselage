@@ -7,12 +7,12 @@ import {
   MessageGenericPreviewFooter,
   MessageGenericPreviewThumb,
   Box,
-} from '@rocket.chat/fuselage';
-import * as UiKit from '@rocket.chat/ui-kit';
+} from '@quickchat.vn/fuselage';
+import * as UiKit from '@quickchat.vn/ui-kit';
 import {
   isPreviewBlockWithThumb,
   isPreviewBlockWithPreview,
-} from '@rocket.chat/ui-kit';
+} from '@quickchat.vn/ui-kit';
 import type { ReactElement } from 'react';
 import React, { memo } from 'react';
 

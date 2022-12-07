@@ -1,4 +1,4 @@
-import type * as UiKit from '@rocket.chat/ui-kit';
+import type * as UiKit from '@quickchat.vn/ui-kit';
 import type { ComponentType, ReactElement } from 'react';
 import React from 'react';
 
@@ -15,7 +15,7 @@ export const createSurfaceRenderer = <
     return (
       <SurfaceComponent>
         {surfaceRenderer.render(blocks, {
-          engine: 'rocket.chat',
+          engine: 'quickchat.vn',
           ...conditions,
         })}
       </SurfaceComponent>

@@ -1,4 +1,4 @@
-import { useMergedRefs } from '@rocket.chat/fuselage-hooks';
+import { useMergedRefs } from '@quickchat.vn/fuselage-hooks';
 import type { ComponentProps, Ref, FormEvent } from 'react';
 import React, { forwardRef, useLayoutEffect, useRef, useCallback } from 'react';
 

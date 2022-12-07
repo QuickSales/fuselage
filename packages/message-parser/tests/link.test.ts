@@ -43,23 +43,23 @@ test.each([
       ]),
     ],
   ],
-  ['[](https://rocket.chat)', [paragraph([link('https://rocket.chat')])]],
+  ['[](https://quickchat.vn)', [paragraph([link('https://quickchat.vn')])]],
   [
-    '[ ](https://rocket.chat)',
-    [paragraph([link('https://rocket.chat', plain(' '))])],
+    '[ ](https://quickchat.vn)',
+    [paragraph([link('https://quickchat.vn', plain(' '))])],
   ],
 
   [
-    '[ test](https://rocket.chat)',
-    [paragraph([link('https://rocket.chat', plain(' test'))])],
+    '[ test](https://quickchat.vn)',
+    [paragraph([link('https://quickchat.vn', plain(' test'))])],
   ],
   [
-    '[ test ](https://rocket.chat)',
-    [paragraph([link('https://rocket.chat', plain(' test '))])],
+    '[ test ](https://quickchat.vn)',
+    [paragraph([link('https://quickchat.vn', plain(' test '))])],
   ],
   [
-    '[title](https://rocket.chat)',
-    [paragraph([link('https://rocket.chat', plain('title'))])],
+    '[title](https://quickchat.vn)',
+    [paragraph([link('https://quickchat.vn', plain('title'))])],
   ],
   [
     '[title](http://localhost)',
@@ -70,162 +70,162 @@ test.each([
     [paragraph([link('http://localhost?testing=true', plain('title'))])],
   ],
   [
-    '[**title**](https://rocket.chat)',
-    [paragraph([link('https://rocket.chat', bold([plain('title')]))])],
+    '[**title**](https://quickchat.vn)',
+    [paragraph([link('https://quickchat.vn', bold([plain('title')]))])],
   ],
   [
-    '[~~title~~](https://rocket.chat)',
-    [paragraph([link('https://rocket.chat', strike([plain('title')]))])],
+    '[~~title~~](https://quickchat.vn)',
+    [paragraph([link('https://quickchat.vn', strike([plain('title')]))])],
   ],
   [
-    '[__title__](https://rocket.chat)',
-    [paragraph([link('https://rocket.chat', italic([plain('title')]))])],
+    '[__title__](https://quickchat.vn)',
+    [paragraph([link('https://quickchat.vn', italic([plain('title')]))])],
   ],
   [
-    '[__**~~title~~**__](https://rocket.chat)',
+    '[__**~~title~~**__](https://quickchat.vn)',
     [
       paragraph([
-        link('https://rocket.chat', italic([bold([strike([plain('title')])])])),
+        link('https://quickchat.vn', italic([bold([strike([plain('title')])])])),
       ]),
     ],
   ],
   [
-    'https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351',
+    'https://desk.quickchat.vn/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351',
     [
       paragraph([
         link(
-          'https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351'
+          'https://desk.quickchat.vn/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351'
         ),
       ]),
     ],
   ],
   [
-    '<https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351|Test>',
+    '<https://desk.quickchat.vn/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351|Test>',
     [
       paragraph([
         link(
-          'https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351',
+          'https://desk.quickchat.vn/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351',
           plain('Test')
         ),
       ]),
     ],
   ],
   [
-    '[title](https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351)',
+    '[title](https://desk.quickchat.vn/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351)',
     [
       paragraph([
         link(
-          'https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351',
+          'https://desk.quickchat.vn/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351',
           plain('title')
         ),
       ]),
     ],
   ],
   [
-    '[**title**](https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351)',
+    '[**title**](https://desk.quickchat.vn/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351)',
     [
       paragraph([
         link(
-          'https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351',
+          'https://desk.quickchat.vn/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351',
           bold([plain('title')])
         ),
       ]),
     ],
   ],
   [
-    '[~~title~~](https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351)',
+    '[~~title~~](https://desk.quickchat.vn/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351)',
     [
       paragraph([
         link(
-          'https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351',
+          'https://desk.quickchat.vn/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351',
           strike([plain('title')])
         ),
       ]),
     ],
   ],
   [
-    '[__title__](https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351)',
+    '[__title__](https://desk.quickchat.vn/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351)',
     [
       paragraph([
         link(
-          'https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351',
+          'https://desk.quickchat.vn/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351',
           italic([plain('title')])
         ),
       ]),
     ],
   ],
   [
-    '[__**~~title~~**__](https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351)',
+    '[__**~~title~~**__](https://desk.quickchat.vn/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351)',
     [
       paragraph([
         link(
-          'https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351',
+          'https://desk.quickchat.vn/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351',
           italic([bold([strike([plain('title')])])])
         ),
       ]),
     ],
   ],
   [
-    '[title](https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351?query=test12-34)',
+    '[title](https://desk.quickchat.vn/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351?query=test12-34)',
     [
       paragraph([
         link(
-          'https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351?query=test12-34',
+          'https://desk.quickchat.vn/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351?query=test12-34',
           plain('title')
         ),
       ]),
     ],
   ],
   [
-    '[title](https://desk.rocket.chat/support/rocketchat/ShowHomePage.do?query=test12-34#Cases/dv/413244000073043351)',
+    '[title](https://desk.quickchat.vn/support/rocketchat/ShowHomePage.do?query=test12-34#Cases/dv/413244000073043351)',
     [
       paragraph([
         link(
-          'https://desk.rocket.chat/support/rocketchat/ShowHomePage.do?query=test12-34#Cases/dv/413244000073043351',
+          'https://desk.quickchat.vn/support/rocketchat/ShowHomePage.do?query=test12-34#Cases/dv/413244000073043351',
           plain('title')
         ),
       ]),
     ],
   ],
   [
-    '[title](https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351?query=test12-34&query2=abc123)',
+    '[title](https://desk.quickchat.vn/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351?query=test12-34&query2=abc123)',
     [
       paragraph([
         link(
-          'https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351?query=test12-34&query2=abc123',
+          'https://desk.quickchat.vn/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351?query=test12-34&query2=abc123',
           plain('title')
         ),
       ]),
     ],
   ],
   [
-    '[title](https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Cases?query=test12-34&query2=abcd!e/dv/413244000073043351)',
+    '[title](https://desk.quickchat.vn/support/rocketchat/ShowHomePage.do#Cases?query=test12-34&query2=abcd!e/dv/413244000073043351)',
     [
       paragraph([
         link(
-          'https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Cases?query=test12-34&query2=abcd!e/dv/413244000073043351',
+          'https://desk.quickchat.vn/support/rocketchat/ShowHomePage.do#Cases?query=test12-34&query2=abcd!e/dv/413244000073043351',
           plain('title')
         ),
       ]),
     ],
   ],
   [
-    '[title](https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Cases?query=test12-34&query2=abcd!e/dv/413244000073043351)',
+    '[title](https://desk.quickchat.vn/support/rocketchat/ShowHomePage.do#Cases?query=test12-34&query2=abcd!e/dv/413244000073043351)',
     [
       paragraph([
         link(
-          'https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Cases?query=test12-34&query2=abcd!e/dv/413244000073043351',
+          'https://desk.quickchat.vn/support/rocketchat/ShowHomePage.do#Cases?query=test12-34&query2=abcd!e/dv/413244000073043351',
           plain('title')
         ),
       ]),
     ],
   ],
   [
-    '[title](https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351?query=test12-34&query2=abcd!~-._%2B+)',
+    '[title](https://desk.quickchat.vn/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351?query=test12-34&query2=abcd!~-._%2B+)',
     [
       paragraph([
         link(
-          'https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351?query=test12-34&query2=abcd!~-._%2B+',
+          'https://desk.quickchat.vn/support/rocketchat/ShowHomePage.do#Cases/dv/413244000073043351?query=test12-34&query2=abcd!~-._%2B+',
           plain('title')
         ),
       ]),
@@ -233,7 +233,7 @@ test.each([
   ],
   ['google.com', [paragraph([link('//google.com', plain('google.com'))])]],
   ['www.google.com', [paragraph([link('www.google.com')])]],
-  ['rocket.chat:8080', [paragraph([link('rocket.chat:8080')])]],
+  ['quickchat.vn:8080', [paragraph([link('quickchat.vn:8080')])]],
   ['ShouldNotBeALink', [paragraph([plain('ShouldNotBeALink')])]],
   [
     'http:/ google.com',
@@ -319,10 +319,10 @@ test.each([
     ],
   ],
   [
-    '[QuickSales.Vn](https://rocket.chat) Inline Text',
+    '[QuickSales.Vn](https://quickchat.vn) Inline Text',
     [
       paragraph([
-        link('https://rocket.chat', plain('QuickSales.Vn')),
+        link('https://quickchat.vn', plain('QuickSales.Vn')),
         plain(' Inline Text'),
       ]),
     ],
@@ -340,10 +340,10 @@ test.each([
     ],
   ],
   [
-    `[QuickSales.Vn](https://rocket.chat)
+    `[QuickSales.Vn](https://quickchat.vn)
 Text after in a new line after link`,
     [
-      paragraph([link('https://rocket.chat', plain('QuickSales.Vn'))]),
+      paragraph([link('https://quickchat.vn', plain('QuickSales.Vn'))]),
       paragraph([plain('Text after in a new line after link')]),
     ],
   ],
@@ -361,25 +361,25 @@ Second line`,
     ],
   ],
   [
-    `[QuickSales.Vn](https://rocket.chat)
+    `[QuickSales.Vn](https://quickchat.vn)
 
 Text after line break`,
     [
-      paragraph([link('https://rocket.chat', plain('QuickSales.Vn'))]),
+      paragraph([link('https://quickchat.vn', plain('QuickSales.Vn'))]),
       lineBreak(),
       paragraph([plain('Text after line break')]),
     ],
   ],
   [
     `
-[List Header Link](https://rocket.chat)
+[List Header Link](https://quickchat.vn)
 - First item
 - Second item
 - Third item
 - *Fourth item*
 `.trim(),
     [
-      paragraph([link('https://rocket.chat', plain('List Header Link'))]),
+      paragraph([link('https://quickchat.vn', plain('List Header Link'))]),
       unorderedList([
         listItem([plain('First item')]),
         listItem([plain('Second item')]),
@@ -389,7 +389,7 @@ Text after line break`,
     ],
   ],
   [
-    `[List Header Link](https://rocket.chat)
+    `[List Header Link](https://quickchat.vn)
 7. First item
 2. Second item
 8. Third item
@@ -397,7 +397,7 @@ Text after line break`,
 15. *Fifteenth item*
 `.trim(),
     [
-      paragraph([link('https://rocket.chat', plain('List Header Link'))]),
+      paragraph([link('https://quickchat.vn', plain('List Header Link'))]),
       orderedList([
         listItem([plain('First item')], 7),
         listItem([plain('Second item')], 2),

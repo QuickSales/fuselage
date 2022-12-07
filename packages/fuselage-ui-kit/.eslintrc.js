@@ -1,3 +1,3 @@
 module.exports = {
-  extends: '@rocket.chat/eslint-config-alt/react',
+  extends: '@quickchat.vn/eslint-config-alt/react',
 };

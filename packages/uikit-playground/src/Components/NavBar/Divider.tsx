@@ -1,4 +1,4 @@
-import { Box } from '@rocket.chat/fuselage';
+import { Box } from '@quickchat.vn/fuselage';
 import type { FC } from 'react';
 import React from 'react';
 

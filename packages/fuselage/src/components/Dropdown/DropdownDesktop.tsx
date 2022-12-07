@@ -1,4 +1,4 @@
-import { usePosition } from '@rocket.chat/fuselage-hooks';
+import { usePosition } from '@quickchat.vn/fuselage-hooks';
 import type { ReactNode, Ref, RefObject } from 'react';
 import React, { forwardRef } from 'react';
 

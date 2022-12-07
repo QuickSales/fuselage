@@ -33,7 +33,7 @@ export const validateUsername = fetchMock(
 );
 
 export const validateEmail = fetchMock('/email/validate', (email: string) => {
-  if (email === 'admin@rocket.chat') {
+  if (email === 'admin@quickchat.vn') {
     return `Email "${email}" is already in use`;
   }
 

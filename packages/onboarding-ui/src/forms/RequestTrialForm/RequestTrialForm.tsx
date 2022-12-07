@@ -1,4 +1,4 @@
-import type { SelectOption } from '@rocket.chat/fuselage';
+import type { SelectOption } from '@quickchat.vn/fuselage';
 import {
   Button,
   Field,
@@ -9,8 +9,8 @@ import {
   EmailInput,
   Select,
   SelectFiltered,
-} from '@rocket.chat/fuselage';
-import { Form } from '@rocket.chat/layout';
+} from '@quickchat.vn/fuselage';
+import { Form } from '@quickchat.vn/layout';
 import type { ReactElement } from 'react';
 import type { SubmitHandler, Validate } from 'react-hook-form';
 import { useForm, Controller } from 'react-hook-form';
@@ -42,8 +42,8 @@ const RequestTrialForm = ({
   countryOptions,
   onSubmit,
   validateEmail,
-  termsHref = 'https://rocket.chat/terms',
-  policyHref = 'https://rocket.chat/privacy',
+  termsHref = 'https://quickchat.vn/terms',
+  policyHref = 'https://quickchat.vn/privacy',
 }: RequestTrialFormProps): ReactElement => {
   const { t } = useTranslation();
 

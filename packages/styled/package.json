@@ -1,10 +1,10 @@
 {
-  "name": "@rocket.chat/styled",
+  "name": "@quickchat.vn/styled",
   "version": "0.31.22",
   "description": "A simple styled API for React components",
   "author": {
     "name": "QuickSales.Vn",
-    "url": "https://rocket.chat/"
+    "url": "https://quickchat.vn/"
   },
   "homepage": "https://github.com/QuickSales/fuselage#readme",
   "license": "MIT",
@@ -38,8 +38,8 @@
     "bump-next": "bump-next"
   },
   "devDependencies": {
-    "@rocket.chat/eslint-config-alt": "workspace:~",
-    "@rocket.chat/prettier-config": "workspace:~",
+    "@quickchat.vn/eslint-config-alt": "workspace:~",
+    "@quickchat.vn/prettier-config": "workspace:~",
     "@types/jest": "~27.4.1",
     "bump": "workspace:~",
     "eslint": "~8.26.0",
@@ -54,7 +54,7 @@
     "typescript": "~4.3.5"
   },
   "dependencies": {
-    "@rocket.chat/css-in-js": "workspace:~",
+    "@quickchat.vn/css-in-js": "workspace:~",
     "tslib": "^2.3.1"
   }
 }

@@ -1,20 +1,20 @@
 <!--header-->
 
 <p align="center">
-  <a href="https://rocket.chat" title="QuickSales.Vn">
+  <a href="https://quickchat.vn" title="QuickSales.Vn">
     <img src="https://github.com/QuickSales/QuickSales.Vn.Artwork/raw/master/Logos/2020/png/logo-horizontal-red.png" alt="QuickSales.Vn" />
   </a>
 </p>
 
-# `@rocket.chat/memo`
+# `@quickchat.vn/memo`
 
 > Memoization utilities
 
 ---
 
-[![npm@latest](https://img.shields.io/npm/v/@rocket.chat/memo/latest?style=flat-square)](https://www.npmjs.com/package/@rocket.chat/memo/v/latest) [![npm@next](https://img.shields.io/npm/v/@rocket.chat/memo/next?style=flat-square)](https://www.npmjs.com/package/@rocket.chat/memo/v/next) ![npm downloads](https://img.shields.io/npm/dw/@rocket.chat/memo?style=flat-square) ![License: MIT](https://img.shields.io/npm/l/@rocket.chat/memo?style=flat-square)
+[![npm@latest](https://img.shields.io/npm/v/@quickchat.vn/memo/latest?style=flat-square)](https://www.npmjs.com/package/@quickchat.vn/memo/v/latest) [![npm@next](https://img.shields.io/npm/v/@quickchat.vn/memo/next?style=flat-square)](https://www.npmjs.com/package/@quickchat.vn/memo/v/next) ![npm downloads](https://img.shields.io/npm/dw/@quickchat.vn/memo?style=flat-square) ![License: MIT](https://img.shields.io/npm/l/@quickchat.vn/memo?style=flat-square)
 
-![deps](https://img.shields.io/librariesio/release/npm/@rocket.chat/memo?style=flat-square) ![npm bundle size](https://img.shields.io/bundlephobia/min/@rocket.chat/memo?style=flat-square)
+![deps](https://img.shields.io/librariesio/release/npm/@quickchat.vn/memo?style=flat-square) ![npm bundle size](https://img.shields.io/bundlephobia/min/@quickchat.vn/memo?style=flat-square)
 
 <!--/header-->
 
@@ -22,14 +22,14 @@
 
 <!--install-->
 
-Add `@rocket.chat/memo` as a dependency:
+Add `@quickchat.vn/memo` as a dependency:
 
 ```sh
-npm i @rocket.chat/memo
+npm i @quickchat.vn/memo
 
 # or, if you are using yarn:
 
-yarn add @rocket.chat/memo
+yarn add @quickchat.vn/memo
 ```
 
 <!--/install-->

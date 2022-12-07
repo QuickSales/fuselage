@@ -1,10 +1,10 @@
 {
-  "name": "@rocket.chat/prettier-config",
+  "name": "@quickchat.vn/prettier-config",
   "description": "Prettier configuration for QuickSales.Vn repositories",
   "version": "0.31.22",
   "author": {
     "name": "QuickSales.Vn",
-    "url": "https://rocket.chat/"
+    "url": "https://quickchat.vn/"
   },
   "license": "MIT",
   "homepage": "https://github.com/QuickSales/fuselage#readme",
@@ -25,7 +25,7 @@
     "access": "public"
   },
   "eslintConfig": {
-    "extends": "@rocket.chat/eslint-config-alt/minimal"
+    "extends": "@quickchat.vn/eslint-config-alt/minimal"
   },
   "prettier": "./fuselage",
   "scripts": {

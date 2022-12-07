@@ -1,4 +1,4 @@
-import { useBorderBoxSize } from '@rocket.chat/fuselage-hooks';
+import { useBorderBoxSize } from '@quickchat.vn/fuselage-hooks';
 import type { ReactNode, AllHTMLAttributes } from 'react';
 import React, { useRef, useCallback, useMemo } from 'react';
 

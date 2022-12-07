@@ -17,7 +17,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [0.29.0](https://github.com/QuickSales/fuselage/compare/v0.28.0...v0.29.0) (2021-08-31)
 
-**Note:** Version bump only for package @rocket.chat/peggy-loader
+**Note:** Version bump only for package @quickchat.vn/peggy-loader
 
 # [0.28.0](https://github.com/QuickSales/fuselage/compare/v0.27.0...v0.28.0) (2021-07-30)
 
@@ -28,7 +28,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [0.27.0](https://github.com/QuickSales/fuselage/compare/v0.26.0...v0.27.0) (2021-06-28)
 
-**Note:** Version bump only for package @rocket.chat/peggy-loader
+**Note:** Version bump only for package @quickchat.vn/peggy-loader
 
 # [0.26.0](https://github.com/QuickSales/fuselage/compare/v0.25.0...v0.26.0) (2021-05-28)
 

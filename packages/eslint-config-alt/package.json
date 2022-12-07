@@ -1,10 +1,10 @@
 {
-  "name": "@rocket.chat/eslint-config-alt",
+  "name": "@quickchat.vn/eslint-config-alt",
   "description": "ESLint configuration for QuickSales.Vn repositories",
   "version": "0.31.22",
   "author": {
     "name": "QuickSales.Vn",
-    "url": "https://rocket.chat/"
+    "url": "https://quickchat.vn/"
   },
   "license": "MIT",
   "homepage": "https://github.com/QuickSales/fuselage#readme",

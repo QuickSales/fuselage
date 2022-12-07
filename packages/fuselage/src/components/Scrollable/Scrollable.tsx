@@ -1,5 +1,5 @@
-import { css } from '@rocket.chat/css-in-js';
-import { useMutableCallback } from '@rocket.chat/fuselage-hooks';
+import { css } from '@quickchat.vn/css-in-js';
+import { useMutableCallback } from '@quickchat.vn/fuselage-hooks';
 import type { PropsWithChildren, MouseEvent, MutableRefObject } from 'react';
 import React, { useRef, useCallback } from 'react';
 

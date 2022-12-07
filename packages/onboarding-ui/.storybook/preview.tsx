@@ -1,9 +1,9 @@
-import { DarkModeProvider } from '@rocket.chat/layout';
+import { DarkModeProvider } from '@quickchat.vn/layout';
 import { DocsPage, DocsContainer } from '@storybook/addon-docs';
 import type { DecoratorFunction } from '@storybook/addons';
 import { addParameters } from '@storybook/react';
-import '@rocket.chat/icons/dist/rocketchat.css';
-import '@rocket.chat/fuselage-polyfills';
+import '@quickchat.vn/icons/dist/rocketchat.css';
+import '@quickchat.vn/fuselage-polyfills';
 import i18next from 'i18next';
 import type { ElementType, ReactElement } from 'react';
 import { Suspense } from 'react';

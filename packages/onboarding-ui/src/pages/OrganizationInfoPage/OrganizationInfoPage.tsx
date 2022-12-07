@@ -1,5 +1,5 @@
-import type { SelectOption } from '@rocket.chat/fuselage';
-import { BackgroundLayer } from '@rocket.chat/layout';
+import type { SelectOption } from '@quickchat.vn/fuselage';
+import { BackgroundLayer } from '@quickchat.vn/layout';
 import type { ReactElement, ReactNode } from 'react';
 import type { SubmitHandler } from 'react-hook-form';
 import { useTranslation } from 'react-i18next';

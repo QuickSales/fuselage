@@ -25,33 +25,33 @@ test.each([
     [paragraph([link('https://pt.wikipedia.org/with_underscore')])],
   ],
   [
-    'https://www.npmjs.com/package/@rocket.chat/message-parser',
+    'https://www.npmjs.com/package/@quickchat.vn/message-parser',
     [
       paragraph([
-        link('https://www.npmjs.com/package/@rocket.chat/message-parser'),
+        link('https://www.npmjs.com/package/@quickchat.vn/message-parser'),
       ]),
     ],
   ],
-  ['http:/rocket.chat/teste', [paragraph([plain('http:/rocket.chat/teste')])]],
-  ['https:/rocket.chat/', [paragraph([plain('https:/rocket.chat/')])]],
+  ['http:/quickchat.vn/teste', [paragraph([plain('http:/quickchat.vn/teste')])]],
+  ['https:/quickchat.vn/', [paragraph([plain('https:/quickchat.vn/')])]],
   ['https://test', [paragraph([plain('https://test')])]],
   [
-    'httpsss://rocket.chat/test',
-    [paragraph([link('httpsss://rocket.chat/test')])],
+    'httpsss://quickchat.vn/test',
+    [paragraph([link('httpsss://quickchat.vn/test')])],
   ],
   [
-    'https://rocket.chat:3000/test',
-    [paragraph([link('https://rocket.chat:3000/test')])],
+    'https://quickchat.vn:3000/test',
+    [paragraph([link('https://quickchat.vn:3000/test')])],
   ],
   [
-    'https://rocket.chat/test?search',
-    [paragraph([link('https://rocket.chat/test?search')])],
+    'https://quickchat.vn/test?search',
+    [paragraph([link('https://quickchat.vn/test?search')])],
   ],
   [
-    'https://rocket.chat/test?search=test',
-    [paragraph([link('https://rocket.chat/test?search=test')])],
+    'https://quickchat.vn/test?search=test',
+    [paragraph([link('https://quickchat.vn/test?search=test')])],
   ],
-  ['https://rocket.chat', [paragraph([link('https://rocket.chat')])]],
+  ['https://quickchat.vn', [paragraph([link('https://quickchat.vn')])]],
   ['https://localhost', [paragraph([link('https://localhost')])]],
   ['https://localhost:3000', [paragraph([link('https://localhost:3000')])]],
   [
@@ -74,120 +74,120 @@ test.each([
   ],
   ['http://📙.la/❤️', [paragraph([link('http://📙.la/❤️')])]],
   [
-    'https://developer.rocket.chat/reference/api/rest-api#production-security-concerns look at this',
+    'https://developer.quickchat.vn/reference/api/rest-api#production-security-concerns look at this',
     [
       paragraph([
         link(
-          'https://developer.rocket.chat/reference/api/rest-api#production-security-concerns'
+          'https://developer.quickchat.vn/reference/api/rest-api#production-security-concerns'
         ),
         plain(' look at this'),
       ]),
     ],
   ],
   [
-    'https://developer.rocket.chat/reference/api/rest-api look at this',
+    'https://developer.quickchat.vn/reference/api/rest-api look at this',
     [
       paragraph([
-        link('https://developer.rocket.chat/reference/api/rest-api'),
+        link('https://developer.quickchat.vn/reference/api/rest-api'),
         plain(' look at this'),
       ]),
     ],
   ],
 
   [
-    'https://developer.rocket.chat/reference/api/rest-api#fragment?query=query look at this',
+    'https://developer.quickchat.vn/reference/api/rest-api#fragment?query=query look at this',
     [
       paragraph([
         link(
-          'https://developer.rocket.chat/reference/api/rest-api#fragment?query=query'
+          'https://developer.quickchat.vn/reference/api/rest-api#fragment?query=query'
         ),
         plain(' look at this'),
       ]),
     ],
   ],
   [
-    'https://developer.rocket.chat look at this',
+    'https://developer.quickchat.vn look at this',
     [
       paragraph([
-        link('https://developer.rocket.chat'),
+        link('https://developer.quickchat.vn'),
         plain(' look at this'),
       ]),
     ],
   ],
   [
-    'https://developer.rocket.chat?query=query look at this',
+    'https://developer.quickchat.vn?query=query look at this',
     [
       paragraph([
-        link('https://developer.rocket.chat?query=query'),
+        link('https://developer.quickchat.vn?query=query'),
         plain(' look at this'),
       ]),
     ],
   ],
   [
-    'https://developer.rocket.chat?query=query\nline break',
+    'https://developer.quickchat.vn?query=query\nline break',
     [
-      paragraph([link('https://developer.rocket.chat?query=query')]),
+      paragraph([link('https://developer.quickchat.vn?query=query')]),
       paragraph([plain('line break')]),
     ],
   ],
   [
-    'https://developer.rocket.chat?query=query\n\nline break',
+    'https://developer.quickchat.vn?query=query\n\nline break',
     [
-      paragraph([link('https://developer.rocket.chat?query=query')]),
+      paragraph([link('https://developer.quickchat.vn?query=query')]),
       lineBreak(),
       paragraph([plain('line break')]),
     ],
   ],
   [
-    'https://developer.rocket.chat?query=query_with_underscore look at this',
+    'https://developer.quickchat.vn?query=query_with_underscore look at this',
     [
       paragraph([
-        link('https://developer.rocket.chat?query=query_with_underscore'),
+        link('https://developer.quickchat.vn?query=query_with_underscore'),
         plain(' look at this'),
       ]),
     ],
   ],
   [
-    'https://developer.rocket.chat/path_with_underscore look at this',
+    'https://developer.quickchat.vn/path_with_underscore look at this',
     [
       paragraph([
-        link('https://developer.rocket.chat/path_with_underscore'),
+        link('https://developer.quickchat.vn/path_with_underscore'),
         plain(' look at this'),
       ]),
     ],
   ],
   [
-    'https://developer.rocket.chat#fragment_with_underscore look at this',
+    'https://developer.quickchat.vn#fragment_with_underscore look at this',
     [
       paragraph([
-        link('https://developer.rocket.chat#fragment_with_underscore'),
+        link('https://developer.quickchat.vn#fragment_with_underscore'),
         plain(' look at this'),
       ]),
     ],
   ],
   [
-    'https://developer.rocket.chat followed by text',
+    'https://developer.quickchat.vn followed by text',
     [
       paragraph([
-        link('https://developer.rocket.chat'),
+        link('https://developer.quickchat.vn'),
         plain(' followed by text'),
       ]),
     ],
   ],
   [
-    'two urls https://developer.rocket.chat , https://rocket.chat',
+    'two urls https://developer.quickchat.vn , https://quickchat.vn',
     [
       paragraph([
         plain('two urls '),
-        link('https://developer.rocket.chat'),
+        link('https://developer.quickchat.vn'),
         plain(' , '),
-        link('https://rocket.chat'),
+        link('https://quickchat.vn'),
       ]),
     ],
   ],
   [
-    'https://1developer.rocket.chat',
-    [paragraph([link('https://1developer.rocket.chat')])],
+    'https://1developer.quickchat.vn',
+    [paragraph([link('https://1developer.quickchat.vn')])],
   ],
 ])('parses %p', (input, output) => {
   expect(parse(input)).toMatchObject(output);
@@ -195,47 +195,47 @@ test.each([
 
 describe('link helper function', () => {
   it('should preserve the original protocol if the protocol is http or https', () => {
-    expect(link('https://rocket.chat/test')).toMatchObject({
+    expect(link('https://quickchat.vn/test')).toMatchObject({
       type: 'LINK',
       value: {
-        src: plain('https://rocket.chat/test'),
-        label: plain('https://rocket.chat/test'),
+        src: plain('https://quickchat.vn/test'),
+        label: plain('https://quickchat.vn/test'),
       },
     });
-    expect(link('http://rocket.chat/test')).toMatchObject({
+    expect(link('http://quickchat.vn/test')).toMatchObject({
       type: 'LINK',
       value: {
-        src: plain('http://rocket.chat/test'),
-        label: plain('http://rocket.chat/test'),
+        src: plain('http://quickchat.vn/test'),
+        label: plain('http://quickchat.vn/test'),
       },
     });
   });
 
   it('should preserve the original protocol even if for custom protocols', () => {
-    expect(link('custom://rocket.chat/test')).toMatchObject({
+    expect(link('custom://quickchat.vn/test')).toMatchObject({
       type: 'LINK',
       value: {
-        src: plain('custom://rocket.chat/test'),
-        label: plain('custom://rocket.chat/test'),
+        src: plain('custom://quickchat.vn/test'),
+        label: plain('custom://quickchat.vn/test'),
       },
     });
   });
 
   it('should return // as the protocol if // is the protocol specified', () => {
-    expect(link('//rocket.chat/test')).toMatchObject({
+    expect(link('//quickchat.vn/test')).toMatchObject({
       type: 'LINK',
       value: {
-        src: plain('//rocket.chat/test'),
-        label: plain('//rocket.chat/test'),
+        src: plain('//quickchat.vn/test'),
+        label: plain('//quickchat.vn/test'),
       },
     });
   });
   it("should return an url concatenated '//' if the url has no protocol", () => {
-    expect(link('rocket.chat/test')).toMatchObject({
+    expect(link('quickchat.vn/test')).toMatchObject({
       type: 'LINK',
       value: {
-        src: plain('//rocket.chat/test'),
-        label: plain('rocket.chat/test'),
+        src: plain('//quickchat.vn/test'),
+        label: plain('quickchat.vn/test'),
       },
     });
   });

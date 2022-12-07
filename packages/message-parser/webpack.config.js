@@ -23,7 +23,7 @@ const config = (outputDeclarations = false) => ({
       },
       {
         test: /\.pegjs$/,
-        use: ['babel-loader', '@rocket.chat/peggy-loader'],
+        use: ['babel-loader', '@quickchat.vn/peggy-loader'],
       },
     ],
   },

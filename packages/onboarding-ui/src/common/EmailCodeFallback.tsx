@@ -1,5 +1,5 @@
-import { Box } from '@rocket.chat/fuselage';
-import { ActionLink } from '@rocket.chat/layout';
+import { Box } from '@quickchat.vn/fuselage';
+import { ActionLink } from '@quickchat.vn/layout';
 import type { ReactElement } from 'react';
 import { Trans } from 'react-i18next';
 

@@ -1,5 +1,5 @@
 {
-  "name": "@rocket.chat/fuselage-toastbar",
+  "name": "@quickchat.vn/fuselage-toastbar",
   "version": "0.31.22",
   "description": "Fuselage ToastBar component",
   "keywords": [
@@ -11,7 +11,7 @@
   ],
   "author": {
     "name": "QuickSales.Vn",
-    "url": "https://rocket.chat/"
+    "url": "https://quickchat.vn/"
   },
   "homepage": "https://github.com/QuickSales/fuselage#readme",
   "license": "MIT",
@@ -47,12 +47,12 @@
     "bump-next": "bump-next"
   },
   "devDependencies": {
-    "@rocket.chat/eslint-config-alt": "workspace:~",
-    "@rocket.chat/fuselage": "workspace:~",
-    "@rocket.chat/fuselage-hooks": "workspace:~",
-    "@rocket.chat/layout": "workspace:~",
-    "@rocket.chat/prettier-config": "workspace:~",
-    "@rocket.chat/styled": "workspace:~",
+    "@quickchat.vn/eslint-config-alt": "workspace:~",
+    "@quickchat.vn/fuselage": "workspace:~",
+    "@quickchat.vn/fuselage-hooks": "workspace:~",
+    "@quickchat.vn/layout": "workspace:~",
+    "@quickchat.vn/prettier-config": "workspace:~",
+    "@quickchat.vn/styled": "workspace:~",
     "@storybook/addon-essentials": "~6.5.13",
     "@storybook/addons": "~6.5.13",
     "@storybook/react": "~6.5.13",
@@ -75,20 +75,20 @@
     "typescript": "~4.3.5"
   },
   "peerDependencies": {
-    "@rocket.chat/fuselage": "*",
-    "@rocket.chat/fuselage-hooks": "*",
-    "@rocket.chat/fuselage-polyfills": "*",
-    "@rocket.chat/styled": "*",
+    "@quickchat.vn/fuselage": "*",
+    "@quickchat.vn/fuselage-hooks": "*",
+    "@quickchat.vn/fuselage-polyfills": "*",
+    "@quickchat.vn/styled": "*",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
   "eslintConfig": {
-    "extends": "@rocket.chat/eslint-config-alt/typescript",
+    "extends": "@quickchat.vn/eslint-config-alt/typescript",
     "env": {
       "jest": true
     }
   },
-  "prettier": "@rocket.chat/prettier-config/fuselage",
+  "prettier": "@quickchat.vn/prettier-config/fuselage",
   "jest": {
     "preset": "ts-jest",
     "errorOnDeprecated": true,

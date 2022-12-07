@@ -2,12 +2,12 @@
 to: packages/<%=package%>/package.json
 ---
 {
-  "name": "@rocket.chat/<%=package%>",
+  "name": "@quickchat.vn/<%=package%>",
   "version": "<%=version%>",
   "description": "<%=description%>",
   "author": {
     "name": "QuickSales.Vn",
-    "url": "https://rocket.chat/"
+    "url": "https://quickchat.vn/"
   },
   "homepage": "https://github.com/QuickSales/fuselage#readme",
   "license": "MIT",
@@ -40,8 +40,8 @@ to: packages/<%=package%>/package.json
     "docs": "typedoc"
   },
   "devDependencies": {
-    "@rocket.chat/eslint-config-alt": "workspace:~",
-    "@rocket.chat/prettier-config": "workspace:~",
+    "@quickchat.vn/eslint-config-alt": "workspace:~",
+    "@quickchat.vn/prettier-config": "workspace:~",
     "@types/jest": "~27.4.0",
     "eslint": "~8.8.0",
     "jest": "~27.5.1",
@@ -54,12 +54,12 @@ to: packages/<%=package%>/package.json
     "typescript": "~4.3.5"
   },
   "eslintConfig": {
-    "extends": "@rocket.chat/eslint-config-alt/typescript",
+    "extends": "@quickchat.vn/eslint-config-alt/typescript",
     "env": {
       "jest": true
     }
   },
-  "prettier": "@rocket.chat/prettier-config/fuselage",
+  "prettier": "@quickchat.vn/prettier-config/fuselage",
   "jest": {
     "preset": "ts-jest",
     "errorOnDeprecated": true,

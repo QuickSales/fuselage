@@ -1,5 +1,5 @@
-import { InputBox } from '@rocket.chat/fuselage';
-import type * as UiKit from '@rocket.chat/ui-kit';
+import { InputBox } from '@quickchat.vn/fuselage';
+import type * as UiKit from '@quickchat.vn/ui-kit';
 import type { ReactElement } from 'react';
 import React from 'react';
 

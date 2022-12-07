@@ -1,4 +1,4 @@
-import styled from '@rocket.chat/styled';
+import styled from '@quickchat.vn/styled';
 
 const filterElementProps = ({
   imageUrl: _imageUrl,

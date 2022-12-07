@@ -1,4 +1,4 @@
-import { Box, Scrollable } from '@rocket.chat/fuselage';
+import { Box, Scrollable } from '@quickchat.vn/fuselage';
 import type { FC } from 'react';
 
 import Surface from './Surface/Surface';

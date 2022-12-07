@@ -1,11 +1,11 @@
 {
-  "name": "@rocket.chat/ui-kit",
+  "name": "@quickchat.vn/ui-kit",
   "version": "0.31.22",
   "description": "Interactive UI elements for QuickSales.Vn Apps",
   "homepage": "https://rocketchat.github.io/QuickSales.Vn.Fuselage/",
   "author": {
     "name": "QuickSales.Vn",
-    "url": "https://rocket.chat/"
+    "url": "https://quickchat.vn/"
   },
   "license": "MIT",
   "repository": {
@@ -41,8 +41,8 @@
     "@babel/eslint-parser": "~7.19.1",
     "@babel/plugin-transform-runtime": "~7.19.6",
     "@babel/preset-env": "~7.19.4",
-    "@rocket.chat/eslint-config-alt": "workspace:~",
-    "@rocket.chat/prettier-config": "workspace:~",
+    "@quickchat.vn/eslint-config-alt": "workspace:~",
+    "@quickchat.vn/prettier-config": "workspace:~",
     "@types/jest": "~27.4.1",
     "babel-loader": "~8.2.5",
     "bump": "workspace:~",

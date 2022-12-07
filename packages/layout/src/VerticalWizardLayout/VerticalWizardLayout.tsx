@@ -1,4 +1,4 @@
-import { Box, Tile } from '@rocket.chat/fuselage';
+import { Box, Tile } from '@quickchat.vn/fuselage';
 import type { ReactElement, ReactNode } from 'react';
 
 import BackgroundLayer from '../BackgroundLayer';

@@ -1,5 +1,5 @@
-import { useUniqueId } from '@rocket.chat/fuselage-hooks';
-import colors from '@rocket.chat/fuselage-tokens/colors.json';
+import { useUniqueId } from '@quickchat.vn/fuselage-hooks';
+import colors from '@quickchat.vn/fuselage-tokens/colors.json';
 import type { ReactElement, SVGAttributes } from 'react';
 
 type QuickSalesLogoProps = {

@@ -1,4 +1,4 @@
-import { Box } from '@rocket.chat/fuselage';
+import { Box } from '@quickchat.vn/fuselage';
 import type { FC } from 'react';
 import React, { useContext, useState, useEffect } from 'react';
 import type { DropResult } from 'react-beautiful-dnd';

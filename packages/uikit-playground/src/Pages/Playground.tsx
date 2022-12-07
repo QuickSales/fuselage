@@ -1,5 +1,5 @@
-import { Box } from '@rocket.chat/fuselage';
-import { useMediaQueries } from '@rocket.chat/fuselage-hooks';
+import { Box } from '@quickchat.vn/fuselage';
+import { useMediaQueries } from '@quickchat.vn/fuselage-hooks';
 import type { FC } from 'react';
 import { useEffect, useContext } from 'react';
 

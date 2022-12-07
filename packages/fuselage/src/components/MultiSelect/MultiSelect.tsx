@@ -3,7 +3,7 @@ import {
   useMutableCallback,
   useResizeObserver,
   useOutsideClick,
-} from '@rocket.chat/fuselage-hooks';
+} from '@quickchat.vn/fuselage-hooks';
 import type {
   ComponentProps,
   SyntheticEvent,

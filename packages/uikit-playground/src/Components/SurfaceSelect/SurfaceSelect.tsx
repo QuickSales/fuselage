@@ -1,4 +1,4 @@
-import { Select } from '@rocket.chat/fuselage';
+import { Select } from '@quickchat.vn/fuselage';
 import type { FC } from 'react';
 import React, { useContext } from 'react';
 

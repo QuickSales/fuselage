@@ -101,7 +101,7 @@ export const Sizes: ComponentStory<typeof ButtonGroup> = () => (
 );
 
 export const AsLink: ComponentStory<typeof Button> = () => (
-  <Button is='a' href='https://rocket.chat' external>
+  <Button is='a' href='https://quickchat.vn' external>
     Button
   </Button>
 );

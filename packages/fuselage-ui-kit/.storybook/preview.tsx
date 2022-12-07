@@ -1,7 +1,7 @@
 import { DocsPage, DocsContainer } from '@storybook/addon-docs';
 import { addParameters } from '@storybook/react';
-import '@rocket.chat/icons/dist/rocketchat.css';
-import '@rocket.chat/fuselage-polyfills';
+import '@quickchat.vn/icons/dist/rocketchat.css';
+import '@quickchat.vn/fuselage-polyfills';
 import 'normalize.css/normalize.css';
 
 addParameters({

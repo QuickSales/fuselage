@@ -1,4 +1,4 @@
-import type { LayoutBlock } from '@rocket.chat/ui-kit';
+import type { LayoutBlock } from '@quickchat.vn/ui-kit';
 
 export const contextWithPlainText: readonly LayoutBlock[] = [
   {

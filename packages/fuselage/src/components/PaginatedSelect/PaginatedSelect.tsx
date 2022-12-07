@@ -2,7 +2,7 @@
 import {
   useMutableCallback,
   useResizeObserver,
-} from '@rocket.chat/fuselage-hooks';
+} from '@quickchat.vn/fuselage-hooks';
 import type { SyntheticEvent, ElementType } from 'react';
 import React, { useState, useRef, useMemo, useEffect } from 'react';
 

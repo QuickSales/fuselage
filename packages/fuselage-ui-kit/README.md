@@ -1,20 +1,20 @@
 <!--header-->
 
 <p align="center">
-  <a href="https://rocket.chat" title="QuickSales.Vn">
+  <a href="https://quickchat.vn" title="QuickSales.Vn">
     <img src="https://github.com/QuickSales/QuickSales.Vn.Artwork/raw/master/Logos/2020/png/logo-horizontal-red.png" alt="QuickSales.Vn" />
   </a>
 </p>
 
-# `@rocket.chat/fuselage-ui-kit`
+# `@quickchat.vn/fuselage-ui-kit`
 
 > UiKit elements for QuickSales.Vn Apps built under Fuselage design system
 
 ---
 
-[![npm@latest](https://img.shields.io/npm/v/@rocket.chat/fuselage-ui-kit/latest?style=flat-square)](https://www.npmjs.com/package/@rocket.chat/fuselage-ui-kit/v/latest) [![npm@next](https://img.shields.io/npm/v/@rocket.chat/fuselage-ui-kit/next?style=flat-square)](https://www.npmjs.com/package/@rocket.chat/fuselage-ui-kit/v/next) ![react version](https://img.shields.io/npm/dependency-version/@rocket.chat/fuselage-ui-kit/peer/react?style=flat-square) [![Storybook](https://cdn.jsdelivr.net/gh/storybookjs/brand@master/badge/badge-storybook.svg)](https://rocketchat.github.io/fuselage/fuselage-ui-kit) ![npm downloads](https://img.shields.io/npm/dw/@rocket.chat/fuselage-ui-kit?style=flat-square) ![License: MIT](https://img.shields.io/npm/l/@rocket.chat/fuselage-ui-kit?style=flat-square)
+[![npm@latest](https://img.shields.io/npm/v/@quickchat.vn/fuselage-ui-kit/latest?style=flat-square)](https://www.npmjs.com/package/@quickchat.vn/fuselage-ui-kit/v/latest) [![npm@next](https://img.shields.io/npm/v/@quickchat.vn/fuselage-ui-kit/next?style=flat-square)](https://www.npmjs.com/package/@quickchat.vn/fuselage-ui-kit/v/next) ![react version](https://img.shields.io/npm/dependency-version/@quickchat.vn/fuselage-ui-kit/peer/react?style=flat-square) [![Storybook](https://cdn.jsdelivr.net/gh/storybookjs/brand@master/badge/badge-storybook.svg)](https://rocketchat.github.io/fuselage/fuselage-ui-kit) ![npm downloads](https://img.shields.io/npm/dw/@quickchat.vn/fuselage-ui-kit?style=flat-square) ![License: MIT](https://img.shields.io/npm/l/@quickchat.vn/fuselage-ui-kit?style=flat-square)
 
-![deps](https://img.shields.io/librariesio/release/npm/@rocket.chat/fuselage-ui-kit?style=flat-square) ![npm bundle size](https://img.shields.io/bundlephobia/min/@rocket.chat/fuselage-ui-kit?style=flat-square)
+![deps](https://img.shields.io/librariesio/release/npm/@quickchat.vn/fuselage-ui-kit?style=flat-square) ![npm bundle size](https://img.shields.io/bundlephobia/min/@quickchat.vn/fuselage-ui-kit?style=flat-square)
 
 <!--/header-->
 
@@ -25,21 +25,21 @@
 Firstly, install the peer dependencies (prerequisites):
 
 ```sh
-npm i @rocket.chat/fuselage @rocket.chat/fuselage-hooks @rocket.chat/fuselage-polyfills @rocket.chat/icons @rocket.chat/styled react react-dom
+npm i @quickchat.vn/fuselage @quickchat.vn/fuselage-hooks @quickchat.vn/fuselage-polyfills @quickchat.vn/icons @quickchat.vn/styled react react-dom
 
 # or, if you are using yarn:
 
-yarn add @rocket.chat/fuselage @rocket.chat/fuselage-hooks @rocket.chat/fuselage-polyfills @rocket.chat/icons @rocket.chat/styled react react-dom
+yarn add @quickchat.vn/fuselage @quickchat.vn/fuselage-hooks @quickchat.vn/fuselage-polyfills @quickchat.vn/icons @quickchat.vn/styled react react-dom
 ```
 
-Add `@rocket.chat/fuselage-ui-kit` as a dependency:
+Add `@quickchat.vn/fuselage-ui-kit` as a dependency:
 
 ```sh
-npm i @rocket.chat/fuselage-ui-kit
+npm i @quickchat.vn/fuselage-ui-kit
 
 # or, if you are using yarn:
 
-yarn add @rocket.chat/fuselage-ui-kit
+yarn add @quickchat.vn/fuselage-ui-kit
 ```
 
 <!--/install-->

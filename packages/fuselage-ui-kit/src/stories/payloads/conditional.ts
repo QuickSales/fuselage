@@ -1,10 +1,10 @@
-import type * as UiKit from '@rocket.chat/ui-kit';
+import type * as UiKit from '@quickchat.vn/ui-kit';
 
 export const conditional: readonly UiKit.LayoutBlock[] = [
   {
     type: 'conditional',
     when: {
-      engine: ['rocket.chat'],
+      engine: ['quickchat.vn'],
     },
     render: [
       {

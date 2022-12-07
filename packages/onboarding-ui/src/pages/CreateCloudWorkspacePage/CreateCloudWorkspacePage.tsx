@@ -1,5 +1,5 @@
-import { Box } from '@rocket.chat/fuselage';
-import { BackgroundLayer } from '@rocket.chat/layout';
+import { Box } from '@quickchat.vn/fuselage';
+import { BackgroundLayer } from '@quickchat.vn/layout';
 import type { ComponentProps, ReactElement } from 'react';
 import { useTranslation, Trans } from 'react-i18next';
 
@@ -33,7 +33,7 @@ const CreateCloudWorkspacePage = (
               is='a'
               color='primary-400'
               textDecorationLine='none'
-              href='https://cloud.rocket.chat/login'
+              href='https://cloud.quickchat.vn/login'
               target='_blank'
               rel='noopener noreferrer'
             >

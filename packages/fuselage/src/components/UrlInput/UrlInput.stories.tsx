@@ -23,7 +23,7 @@ export const Disabled = () => <UrlInput disabled />;
 
 export const WithPlaceholder = () => <UrlInput placeholder='Placeholder' />;
 
-export const WithValue = () => <UrlInput defaultValue='https://rocket.chat' />;
+export const WithValue = () => <UrlInput defaultValue='https://quickchat.vn' />;
 
 export const States = () => (
   <PropsVariation
@@ -32,10 +32,10 @@ export const States = () => (
     xAxis={{
       'default': {},
       'with placeholder': { placeholder: 'Placeholder' },
-      'with value': { value: 'https://rocket.chat' },
+      'with value': { value: 'https://quickchat.vn' },
       'with icon': {
         addon: <Icon name='discover' size='x20' />,
-        value: 'https://rocket.chat',
+        value: 'https://quickchat.vn',
       },
     }}
     yAxis={{

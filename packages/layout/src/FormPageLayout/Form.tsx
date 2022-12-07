@@ -1,5 +1,5 @@
-import { Tile } from '@rocket.chat/fuselage';
-import colors from '@rocket.chat/fuselage-tokens/colors.json';
+import { Tile } from '@quickchat.vn/fuselage';
+import colors from '@quickchat.vn/fuselage-tokens/colors.json';
 import type { ReactElement, FormHTMLAttributes, ReactNode } from 'react';
 import { forwardRef } from 'react';
 

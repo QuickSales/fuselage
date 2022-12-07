@@ -1,4 +1,4 @@
-import type * as UiKit from '@rocket.chat/ui-kit';
+import type * as UiKit from '@quickchat.vn/ui-kit';
 
 export const inputWithMultilinePlainTextInput: readonly UiKit.LayoutBlock[] = [
   {

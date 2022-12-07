@@ -8,9 +8,9 @@ import {
   TextInput,
   Box,
   CheckBox,
-} from '@rocket.chat/fuselage';
-import { useUniqueId } from '@rocket.chat/fuselage-hooks';
-import { Form } from '@rocket.chat/layout';
+} from '@quickchat.vn/fuselage';
+import { useUniqueId } from '@quickchat.vn/fuselage-hooks';
+import { Form } from '@quickchat.vn/layout';
 import type { ReactElement } from 'react';
 import { useEffect } from 'react';
 import type { SubmitHandler, Validate } from 'react-hook-form';

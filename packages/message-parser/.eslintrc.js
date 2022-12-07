@@ -1,12 +1,12 @@
 module.exports = {
-  extends: '@rocket.chat/eslint-config-alt/minimal',
+  extends: '@quickchat.vn/eslint-config-alt/minimal',
   env: {
     jest: true,
   },
   overrides: [
     {
       files: ['**/*.ts', '**/*.tsx'],
-      extends: '@rocket.chat/eslint-config-alt/typescript',
+      extends: '@quickchat.vn/eslint-config-alt/typescript',
     },
   ],
 };

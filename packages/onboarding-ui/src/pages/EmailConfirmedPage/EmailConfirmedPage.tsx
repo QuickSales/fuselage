@@ -2,7 +2,7 @@ import {
   HeroLayout,
   HeroLayoutSubtitle,
   HeroLayoutTitle,
-} from '@rocket.chat/layout';
+} from '@quickchat.vn/layout';
 import type { ReactElement } from 'react';
 import { useTranslation } from 'react-i18next';
 

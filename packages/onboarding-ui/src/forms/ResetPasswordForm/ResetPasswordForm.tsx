@@ -4,8 +4,8 @@ import {
   EmailInput,
   ButtonGroup,
   Button,
-} from '@rocket.chat/fuselage';
-import { Form } from '@rocket.chat/layout';
+} from '@quickchat.vn/fuselage';
+import { Form } from '@quickchat.vn/layout';
 import type { ReactElement } from 'react';
 import type { SubmitHandler, Validate } from 'react-hook-form';
 import { useForm } from 'react-hook-form';

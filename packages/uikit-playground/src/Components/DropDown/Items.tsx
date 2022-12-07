@@ -1,5 +1,5 @@
-import { css } from '@rocket.chat/css-in-js';
-import { Box, Label, Chevron } from '@rocket.chat/fuselage';
+import { css } from '@quickchat.vn/css-in-js';
+import { Box, Label, Chevron } from '@quickchat.vn/fuselage';
 import React, { useState, useContext } from 'react';
 
 import { context, docAction } from '../../Context';

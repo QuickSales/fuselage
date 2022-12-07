@@ -1,10 +1,10 @@
-import { Box } from '@rocket.chat/fuselage';
+import { Box } from '@quickchat.vn/fuselage';
 import {
   UiKitModal as uiKitModal,
   UiKitBanner as uiKitBanner,
   UiKitMessage as uiKitMessage,
-} from '@rocket.chat/fuselage-ui-kit';
-import type { LayoutBlock } from '@rocket.chat/ui-kit';
+} from '@quickchat.vn/fuselage-ui-kit';
+import type { LayoutBlock } from '@quickchat.vn/ui-kit';
 import React from 'react';
 
 import DeleteElementBtn from './DeleteElementBtn';

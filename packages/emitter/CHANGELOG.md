@@ -17,7 +17,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [0.29.0](https://github.com/QuickSales/fuselage/compare/v0.28.0...v0.29.0) (2021-08-31)
 
-**Note:** Version bump only for package @rocket.chat/emitter
+**Note:** Version bump only for package @quickchat.vn/emitter
 
 # [0.28.0](https://github.com/QuickSales/fuselage/compare/v0.27.0...v0.28.0) (2021-07-30)
 
@@ -28,11 +28,11 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [0.27.0](https://github.com/QuickSales/fuselage/compare/v0.26.0...v0.27.0) (2021-06-28)
 
-**Note:** Version bump only for package @rocket.chat/emitter
+**Note:** Version bump only for package @quickchat.vn/emitter
 
 # [0.26.0](https://github.com/QuickSales/fuselage/compare/v0.25.0...v0.26.0) (2021-05-28)
 
-**Note:** Version bump only for package @rocket.chat/emitter
+**Note:** Version bump only for package @quickchat.vn/emitter
 
 # [0.25.0](https://github.com/QuickSales/fuselage/compare/v0.24.0...v0.25.0) (2021-05-19)
 
@@ -66,23 +66,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [0.20.1](https://github.com/QuickSales/fuselage/compare/v0.20.0...v0.20.1) (2020-12-22)
 
-**Note:** Version bump only for package @rocket.chat/emitter
+**Note:** Version bump only for package @quickchat.vn/emitter
 
 # [0.20.0](https://github.com/QuickSales/fuselage/compare/v0.19.0...v0.20.0) (2020-12-21)
 
-**Note:** Version bump only for package @rocket.chat/emitter
+**Note:** Version bump only for package @quickchat.vn/emitter
 
 # [0.19.0](https://github.com/QuickSales/fuselage/compare/v0.18.0...v0.19.0) (2020-11-28)
 
-**Note:** Version bump only for package @rocket.chat/emitter
+**Note:** Version bump only for package @quickchat.vn/emitter
 
 # [0.18.0](https://github.com/QuickSales/fuselage/compare/v0.17.3...v0.18.0) (2020-11-16)
 
-**Note:** Version bump only for package @rocket.chat/emitter
+**Note:** Version bump only for package @quickchat.vn/emitter
 
 ## [0.17.2](https://github.com/QuickSales/fuselage/compare/v0.17.1...v0.17.2) (2020-10-28)
 
-**Note:** Version bump only for package @rocket.chat/emitter
+**Note:** Version bump only for package @quickchat.vn/emitter
 
 ## [0.17.1](https://github.com/QuickSales/fuselage/compare/v0.17.0...v0.17.1) (2020-10-26)
 

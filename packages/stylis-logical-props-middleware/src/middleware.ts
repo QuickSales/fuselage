@@ -1,4 +1,4 @@
-import { cssSupports } from '@rocket.chat/css-supports';
+import { cssSupports } from '@quickchat.vn/css-supports';
 import type { Element, Middleware } from 'stylis';
 import { node, RULESET, serialize } from 'stylis';
 

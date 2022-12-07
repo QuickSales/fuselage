@@ -21,10 +21,10 @@ export default {
       ['en', 'English'],
       ['pt', 'Português'],
     ],
-    domain: 'rocket.chat',
+    domain: 'quickchat.vn',
     validateUrl: async (url) => (url === 'rocket' ? 'invalid url' : true),
     validateEmail: async (email) =>
-      email === 'rocket@rocket.chat' ? 'invalid email' : true,
+      email === 'rocket@quickchat.vn' ? 'invalid email' : true,
   },
 } as Meta<Args>;
 

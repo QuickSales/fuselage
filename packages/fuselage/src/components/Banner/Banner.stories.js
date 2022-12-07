@@ -15,7 +15,7 @@ export const _Banner = () => (
     icon={<Icon name='info' size={24} />}
     title='Sed ut perspiciatis unde'
     onClose={action('close')}
-    link='https://rocket.chat/'
+    link='https://quickchat.vn/'
   >
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor

@@ -4,7 +4,7 @@ import {
   css,
   escapeName,
   transpile,
-} from '@rocket.chat/css-in-js';
+} from '@quickchat.vn/css-in-js';
 import type {
   DetailedHTMLProps,
   ForwardRefExoticComponent,

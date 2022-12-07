@@ -2,7 +2,7 @@ import {
   HeroLayout,
   HeroLayoutSubtitle,
   HeroLayoutTitle,
-} from '@rocket.chat/layout';
+} from '@quickchat.vn/layout';
 import type { ReactElement, ReactNode } from 'react';
 
 type InformationPageProps = {

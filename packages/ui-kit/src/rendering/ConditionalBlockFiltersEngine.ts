@@ -1,5 +1,5 @@
 /** @deprecated */
 export enum ConditionalBlockFiltersEngine {
-  ROCKETCHAT = 'rocket.chat',
+  ROCKETCHAT = 'quickchat.vn',
   LIVECHAT = 'livechat',
 }

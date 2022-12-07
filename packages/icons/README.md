@@ -1,20 +1,20 @@
 <!--header-->
 
 <p align="center">
-  <a href="https://rocket.chat" title="QuickSales.Vn">
+  <a href="https://quickchat.vn" title="QuickSales.Vn">
     <img src="https://github.com/QuickSales/QuickSales.Vn.Artwork/raw/master/Logos/2020/png/logo-horizontal-red.png" alt="QuickSales.Vn" />
   </a>
 </p>
 
-# `@rocket.chat/icons`
+# `@quickchat.vn/icons`
 
 > QuickSales.Vn's Icons
 
 ---
 
-[![npm@latest](https://img.shields.io/npm/v/@rocket.chat/icons/latest?style=flat-square)](https://www.npmjs.com/package/@rocket.chat/icons/v/latest) [![npm@next](https://img.shields.io/npm/v/@rocket.chat/icons/next?style=flat-square)](https://www.npmjs.com/package/@rocket.chat/icons/v/next) ![npm downloads](https://img.shields.io/npm/dw/@rocket.chat/icons?style=flat-square) ![License: MIT](https://img.shields.io/npm/l/@rocket.chat/icons?style=flat-square)
+[![npm@latest](https://img.shields.io/npm/v/@quickchat.vn/icons/latest?style=flat-square)](https://www.npmjs.com/package/@quickchat.vn/icons/v/latest) [![npm@next](https://img.shields.io/npm/v/@quickchat.vn/icons/next?style=flat-square)](https://www.npmjs.com/package/@quickchat.vn/icons/v/next) ![npm downloads](https://img.shields.io/npm/dw/@quickchat.vn/icons?style=flat-square) ![License: MIT](https://img.shields.io/npm/l/@quickchat.vn/icons?style=flat-square)
 
-![deps](https://img.shields.io/librariesio/release/npm/@rocket.chat/icons?style=flat-square) ![npm bundle size](https://img.shields.io/bundlephobia/min/@rocket.chat/icons?style=flat-square)
+![deps](https://img.shields.io/librariesio/release/npm/@quickchat.vn/icons?style=flat-square) ![npm bundle size](https://img.shields.io/bundlephobia/min/@quickchat.vn/icons?style=flat-square)
 
 <!--/header-->
 
@@ -22,14 +22,14 @@
 
 <!--install-->
 
-Add `@rocket.chat/icons` as a dependency:
+Add `@quickchat.vn/icons` as a dependency:
 
 ```sh
-npm i @rocket.chat/icons
+npm i @quickchat.vn/icons
 
 # or, if you are using yarn:
 
-yarn add @rocket.chat/icons
+yarn add @quickchat.vn/icons
 ```
 
 <!--/install-->
@@ -110,7 +110,7 @@ yarn lint-and-fix
 To use the fuselage icons, you need to import the css first:
 
 ```css
-@import url('@rocket.chat/icons/dist/rocketchat.css');
+@import url('@quickchat.vn/icons/dist/rocketchat.css');
 ```
 
 Usage Example:

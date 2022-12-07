@@ -1,4 +1,4 @@
-import type { cssFn } from '@rocket.chat/css-in-js';
+import type { cssFn } from '@quickchat.vn/css-in-js';
 import React, { createElement, forwardRef, memo } from 'react';
 import type {
   AllHTMLAttributes,

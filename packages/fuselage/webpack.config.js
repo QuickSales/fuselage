@@ -98,8 +98,8 @@ module.exports = (env, { mode = 'production' }) => ({
       },
     },
     'react-dom',
-    '@rocket.chat/icons',
-    '@rocket.chat/fuselage-hooks',
+    '@quickchat.vn/icons',
+    '@quickchat.vn/fuselage-hooks',
   ],
   plugins: [
     new CopyPlugin({

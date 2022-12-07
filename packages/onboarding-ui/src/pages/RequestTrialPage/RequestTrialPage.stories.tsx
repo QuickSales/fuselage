@@ -15,9 +15,9 @@ export default {
   },
   args: {
     validateEmail: (email) =>
-      email === 'rocket@rocket.chat' ? 'invalid email' : true,
+      email === 'rocket@quickchat.vn' ? 'invalid email' : true,
     onManageWorkspaces: () =>
-      window.open('https://cloud.rocket.chat/login', '_blank'),
+      window.open('https://cloud.quickchat.vn/login', '_blank'),
     organizationSizeOptions: [
       ['0', '1-10 people'],
       ['1', '11-50 people'],

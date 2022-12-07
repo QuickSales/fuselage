@@ -1,4 +1,4 @@
-import { Banner, Icon } from '@rocket.chat/fuselage';
+import { Banner, Icon } from '@quickchat.vn/fuselage';
 import React from 'react';
 
 import DraggableList from '../../../Draggable/DraggableList';

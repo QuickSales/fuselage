@@ -1,20 +1,20 @@
 <!--header-->
 
 <p align="center">
-  <a href="https://rocket.chat" title="QuickSales.Vn">
+  <a href="https://quickchat.vn" title="QuickSales.Vn">
     <img src="https://github.com/QuickSales/QuickSales.Vn.Artwork/raw/master/Logos/2020/png/logo-horizontal-red.png" alt="QuickSales.Vn" />
   </a>
 </p>
 
-# `@rocket.chat/fuselage`
+# `@quickchat.vn/fuselage`
 
 > QuickSales.Vn's React Components Library
 
 ---
 
-[![npm@latest](https://img.shields.io/npm/v/@rocket.chat/fuselage/latest?style=flat-square)](https://www.npmjs.com/package/@rocket.chat/fuselage/v/latest) [![npm@next](https://img.shields.io/npm/v/@rocket.chat/fuselage/next?style=flat-square)](https://www.npmjs.com/package/@rocket.chat/fuselage/v/next) ![react version](https://img.shields.io/npm/dependency-version/@rocket.chat/fuselage/peer/react?style=flat-square) [![Storybook](https://cdn.jsdelivr.net/gh/storybookjs/brand@master/badge/badge-storybook.svg)](https://rocketchat.github.io/fuselage/fuselage) ![npm downloads](https://img.shields.io/npm/dw/@rocket.chat/fuselage?style=flat-square) ![License: MIT](https://img.shields.io/npm/l/@rocket.chat/fuselage?style=flat-square)
+[![npm@latest](https://img.shields.io/npm/v/@quickchat.vn/fuselage/latest?style=flat-square)](https://www.npmjs.com/package/@quickchat.vn/fuselage/v/latest) [![npm@next](https://img.shields.io/npm/v/@quickchat.vn/fuselage/next?style=flat-square)](https://www.npmjs.com/package/@quickchat.vn/fuselage/v/next) ![react version](https://img.shields.io/npm/dependency-version/@quickchat.vn/fuselage/peer/react?style=flat-square) [![Storybook](https://cdn.jsdelivr.net/gh/storybookjs/brand@master/badge/badge-storybook.svg)](https://rocketchat.github.io/fuselage/fuselage) ![npm downloads](https://img.shields.io/npm/dw/@quickchat.vn/fuselage?style=flat-square) ![License: MIT](https://img.shields.io/npm/l/@quickchat.vn/fuselage?style=flat-square)
 
-![deps](https://img.shields.io/librariesio/release/npm/@rocket.chat/fuselage?style=flat-square) ![npm bundle size](https://img.shields.io/bundlephobia/min/@rocket.chat/fuselage?style=flat-square)
+![deps](https://img.shields.io/librariesio/release/npm/@quickchat.vn/fuselage?style=flat-square) ![npm bundle size](https://img.shields.io/bundlephobia/min/@quickchat.vn/fuselage?style=flat-square)
 
 <!--/header-->
 
@@ -25,21 +25,21 @@
 Firstly, install the peer dependencies (prerequisites):
 
 ```sh
-npm i @rocket.chat/fuselage-hooks @rocket.chat/fuselage-polyfills @rocket.chat/icons react react-dom react-virtuoso
+npm i @quickchat.vn/fuselage-hooks @quickchat.vn/fuselage-polyfills @quickchat.vn/icons react react-dom react-virtuoso
 
 # or, if you are using yarn:
 
-yarn add @rocket.chat/fuselage-hooks @rocket.chat/fuselage-polyfills @rocket.chat/icons react react-dom react-virtuoso
+yarn add @quickchat.vn/fuselage-hooks @quickchat.vn/fuselage-polyfills @quickchat.vn/icons react react-dom react-virtuoso
 ```
 
-Add `@rocket.chat/fuselage` as a dependency:
+Add `@quickchat.vn/fuselage` as a dependency:
 
 ```sh
-npm i @rocket.chat/fuselage
+npm i @quickchat.vn/fuselage
 
 # or, if you are using yarn:
 
-yarn add @rocket.chat/fuselage
+yarn add @quickchat.vn/fuselage
 ```
 
 <!--/install-->
@@ -123,7 +123,7 @@ Usage Example:
 import dynamic from 'next/dynamic';
 
 export const TextInput = dynamic(
-  () => import('@rocket.chat/fuselage').then((module) => module.TextInput),
+  () => import('@quickchat.vn/fuselage').then((module) => module.TextInput),
   { ssr: false }
 );
 ```

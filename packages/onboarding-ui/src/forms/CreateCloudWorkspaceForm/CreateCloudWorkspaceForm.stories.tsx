@@ -62,10 +62,10 @@ export default {
       ['en', 'English'],
       ['pt', 'Português'],
     ],
-    domain: 'rocket.chat',
+    domain: 'quickchat.vn',
     validateUrl: isValidDomainName,
     validateEmail: async (email) =>
-      email === 'rocket@rocket.chat' ? 'invalid email' : true,
+      email === 'rocket@quickchat.vn' ? 'invalid email' : true,
   },
 } as Meta<Args>;
 
@@ -74,6 +74,6 @@ export const _CreateCloudWorkspaceForm: Story<Args> = (args) => (
 );
 
 export const _WorkspaceUrlInput: Story<Args> = () => (
-  <WorkspaceUrlInput domain='rocket.chat' />
+  <WorkspaceUrlInput domain='quickchat.vn' />
 );
 _CreateCloudWorkspaceForm.storyName = 'CreateCloudWorkspaceForm';

@@ -1,4 +1,4 @@
-import { Emitter } from '@rocket.chat/emitter';
+import { Emitter } from '@quickchat.vn/emitter';
 import type { Dispatch, SetStateAction } from 'react';
 import { useState, useEffect, useCallback } from 'react';
 

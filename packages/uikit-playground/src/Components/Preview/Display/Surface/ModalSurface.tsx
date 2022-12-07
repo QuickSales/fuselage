@@ -8,7 +8,7 @@ import {
   ModalFooter,
   ButtonGroup,
   Button,
-} from '@rocket.chat/fuselage';
+} from '@quickchat.vn/fuselage';
 import React from 'react';
 
 import DraggableList from '../../../Draggable/DraggableList';

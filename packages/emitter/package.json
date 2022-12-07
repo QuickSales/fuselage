@@ -1,11 +1,11 @@
 {
-  "name": "@rocket.chat/emitter",
+  "name": "@quickchat.vn/emitter",
   "version": "0.31.22",
   "description": "Event Emitter by QuickSales.Vn",
   "homepage": "https://rocketchat.github.io/QuickSales.Vn.Fuselage/",
   "author": {
     "name": "QuickSales.Vn",
-    "url": "https://rocket.chat/"
+    "url": "https://quickchat.vn/"
   },
   "license": "MIT",
   "repository": {
@@ -19,7 +19,7 @@
     "react",
     "hooks",
     "fuselage",
-    "rocket.chat"
+    "quickchat.vn"
   ],
   "source": "src/index.ts",
   "main": "dist/index.js",
@@ -42,8 +42,8 @@
     "bump-next": "bump-next"
   },
   "devDependencies": {
-    "@rocket.chat/eslint-config-alt": "workspace:~",
-    "@rocket.chat/prettier-config": "workspace:~",
+    "@quickchat.vn/eslint-config-alt": "workspace:~",
+    "@quickchat.vn/prettier-config": "workspace:~",
     "@rollup/plugin-commonjs": "~21.0.3",
     "@rollup/plugin-json": "~4.1.0",
     "@rollup/plugin-node-resolve": "~13.1.3",

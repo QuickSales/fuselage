@@ -77,7 +77,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [0.26.0](https://github.com/QuickSales/fuselage/compare/v0.25.0...v0.26.0) (2021-05-28)
 
-**Note:** Version bump only for package @rocket.chat/string-helpers
+**Note:** Version bump only for package @quickchat.vn/string-helpers
 
 # [0.25.0](https://github.com/QuickSales/fuselage/compare/v0.24.0...v0.25.0) (2021-05-19)
 

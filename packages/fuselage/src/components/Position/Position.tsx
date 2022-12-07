@@ -1,5 +1,5 @@
-import type { Placements } from '@rocket.chat/fuselage-hooks';
-import { usePosition } from '@rocket.chat/fuselage-hooks';
+import type { Placements } from '@quickchat.vn/fuselage-hooks';
+import { usePosition } from '@quickchat.vn/fuselage-hooks';
 import type {
   RefObject,
   ComponentProps,

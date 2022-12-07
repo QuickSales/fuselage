@@ -1,7 +1,7 @@
 import {
   useMutableCallback,
   useDebouncedState,
-} from '@rocket.chat/fuselage-hooks';
+} from '@quickchat.vn/fuselage-hooks';
 import type { ComponentProps, ElementType, Ref, SyntheticEvent } from 'react';
 import React, { forwardRef, memo } from 'react';
 import { Virtuoso } from 'react-virtuoso';

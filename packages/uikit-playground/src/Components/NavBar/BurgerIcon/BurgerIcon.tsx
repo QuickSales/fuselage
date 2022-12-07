@@ -1,4 +1,4 @@
-import { usePrefersReducedMotion } from '@rocket.chat/fuselage-hooks';
+import { usePrefersReducedMotion } from '@quickchat.vn/fuselage-hooks';
 import type { ReactElement, ReactNode } from 'react';
 import React, { useContext } from 'react';
 
