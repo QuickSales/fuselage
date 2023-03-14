@@ -6849,6 +6849,817 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@quickchat.vn/apps-engine@npm:~1.30.0":
+  version: 1.30.0
+  resolution: "@quickchat.vn/apps-engine@npm:1.30.0"
+  dependencies:
+    adm-zip: ^0.4.9
+    cryptiles: ^4.1.3
+    lodash.clonedeep: ^4.5.0
+    semver: ^5.5.0
+    stack-trace: 0.0.10
+    uuid: ^3.2.1
+  checksum: 097c9f5e2916587705f07530b809bb7933fea6ea7991cb8c039da1b9203d27a5978d99a6a3c504dbbfc7a3eef9a0eef01fbbaf5c32e84747b86b6576f395e278
+  languageName: node
+  linkType: hard
+
+"@quickchat.vn/css-in-js@^0.31.12, @quickchat.vn/css-in-js@workspace:packages/css-in-js, @quickchat.vn/css-in-js@workspace:~":
+  version: 0.0.0-use.local
+  resolution: "@quickchat.vn/css-in-js@workspace:packages/css-in-js"
+  dependencies:
+    "@emotion/hash": ^0.9.0
+    "@quickchat.vn/css-supports": "workspace:~"
+    "@quickchat.vn/eslint-config-alt": "workspace:~"
+    "@quickchat.vn/memo": "workspace:~"
+    "@quickchat.vn/prettier-config": "workspace:~"
+    "@quickchat.vn/stylis-logical-props-middleware": "workspace:~"
+    "@rollup/plugin-commonjs": ~21.0.3
+    "@rollup/plugin-json": ~4.1.0
+    "@rollup/plugin-node-resolve": ~13.1.3
+    "@rollup/plugin-typescript": ~8.3.4
+    "@types/jest": ~27.4.1
+    "@types/stylis": ^4.0.2
+    bump: "workspace:~"
+    eslint: ~8.26.0
+    jest: ~27.5.1
+    lint-all: "workspace:~"
+    lint-staged: ~12.3.8
+    prettier: ~2.7.1
+    rollup: ~2.67.3
+    rollup-plugin-terser: ~7.0.2
+    stylis: ~4.1.3
+    ts-jest: ~27.1.5
+    typedoc: ~0.22.18
+    typescript: ~4.3.5
+  languageName: unknown
+  linkType: soft
+
+"@quickchat.vn/css-supports@workspace:packages/css-supports, @quickchat.vn/css-supports@workspace:~":
+  version: 0.0.0-use.local
+  resolution: "@quickchat.vn/css-supports@workspace:packages/css-supports"
+  dependencies:
+    "@quickchat.vn/eslint-config-alt": "workspace:~"
+    "@quickchat.vn/memo": "workspace:~"
+    "@quickchat.vn/prettier-config": "workspace:~"
+    bump: "workspace:~"
+    eslint: ~8.26.0
+    lint-all: "workspace:~"
+    lint-staged: ~12.3.8
+    prettier: ~2.7.1
+    rimraf: ~3.0.2
+    typedoc: ~0.22.18
+    typescript: ~4.3.5
+  languageName: unknown
+  linkType: soft
+
+"@quickchat.vn/emitter@workspace:packages/emitter":
+  version: 0.0.0-use.local
+  resolution: "@quickchat.vn/emitter@workspace:packages/emitter"
+  dependencies:
+    "@quickchat.vn/eslint-config-alt": "workspace:~"
+    "@quickchat.vn/prettier-config": "workspace:~"
+    "@rollup/plugin-commonjs": ~21.0.3
+    "@rollup/plugin-json": ~4.1.0
+    "@rollup/plugin-node-resolve": ~13.1.3
+    "@rollup/plugin-typescript": ~8.3.4
+    "@types/jest": ~27.4.1
+    bump: "workspace:~"
+    eslint: ~8.26.0
+    jest: ~27.5.1
+    lint-all: "workspace:~"
+    lint-staged: ~12.3.8
+    npm-run-all: ^4.1.5
+    prettier: ~2.7.1
+    rollup: ~2.67.3
+    rollup-plugin-terser: ~7.0.2
+    ts-jest: ~27.1.5
+    tslib: ^2.3.1
+    typedoc: ~0.22.18
+    typescript: ~4.3.5
+  languageName: unknown
+  linkType: soft
+
+"@quickchat.vn/eslint-config-alt@workspace:packages/eslint-config-alt, @quickchat.vn/eslint-config-alt@workspace:~":
+  version: 0.0.0-use.local
+  resolution: "@quickchat.vn/eslint-config-alt@workspace:packages/eslint-config-alt"
+  dependencies:
+    "@babel/eslint-parser": ~7.19.1
+    "@typescript-eslint/eslint-plugin": ~5.11.0
+    "@typescript-eslint/parser": ~5.11.0
+    bump: "workspace:~"
+    eslint: ~8.26.0
+    eslint-config-prettier: ~8.5.0
+    eslint-import-resolver-typescript: ~3.5.2
+    eslint-plugin-import: ~2.26.0
+    eslint-plugin-prettier: ~4.2.1
+    eslint-plugin-react: ~7.31.10
+    eslint-plugin-react-hooks: ~4.6.0
+    lint-all: "workspace:~"
+    lint-staged: ~12.3.8
+    prettier: ~2.7.1
+  peerDependencies:
+    "@babel/eslint-parser": ^7.13.14
+    eslint: ^7.29.0
+    prettier: ~2.7.1
+  languageName: unknown
+  linkType: soft
+
+"@quickchat.vn/fuselage-hooks@workspace:packages/fuselage-hooks, @quickchat.vn/fuselage-hooks@workspace:~":
+  version: 0.0.0-use.local
+  resolution: "@quickchat.vn/fuselage-hooks@workspace:packages/fuselage-hooks"
+  dependencies:
+    "@quickchat.vn/eslint-config-alt": "workspace:~"
+    "@quickchat.vn/fuselage-tokens": "workspace:~"
+    "@quickchat.vn/prettier-config": "workspace:~"
+    "@rollup/plugin-commonjs": ~21.0.3
+    "@rollup/plugin-json": ~4.1.0
+    "@rollup/plugin-node-resolve": ~13.1.3
+    "@rollup/plugin-typescript": ~8.3.4
+    "@testing-library/react-hooks": ~7.0.2
+    "@testing-library/user-event": ^13.5.0
+    "@types/jest": ~27.4.1
+    "@types/react": ~17.0.51
+    "@types/react-dom": ^17.0.17
+    "@types/resize-observer-browser": ~0.1.7
+    "@types/use-sync-external-store": ~0.0.3
+    bump: "workspace:~"
+    eslint: ~8.26.0
+    jest: ~27.5.1
+    lint-all: "workspace:~"
+    lint-staged: ~12.3.8
+    npm-run-all: ^4.1.5
+    prettier: ~2.7.1
+    react: ^17.0.2
+    rollup: ~2.67.3
+    rollup-plugin-terser: ~7.0.2
+    testing-utils: "workspace:~"
+    ts-jest: ~27.1.5
+    typedoc: ~0.22.18
+    typescript: ~4.3.5
+    use-sync-external-store: ~1.2.0
+  peerDependencies:
+    "@quickchat.vn/fuselage-tokens": "*"
+    react: ^17.0.2
+  languageName: unknown
+  linkType: soft
+
+"@quickchat.vn/fuselage-polyfills@workspace:packages/fuselage-polyfills, @quickchat.vn/fuselage-polyfills@workspace:~":
+  version: 0.0.0-use.local
+  resolution: "@quickchat.vn/fuselage-polyfills@workspace:packages/fuselage-polyfills"
+  dependencies:
+    "@juggle/resize-observer": ^3.4.0
+    "@quickchat.vn/eslint-config-alt": "workspace:~"
+    "@quickchat.vn/prettier-config": "workspace:~"
+    bump: "workspace:~"
+    clipboard-polyfill: ^3.0.3
+    element-closest-polyfill: ^1.0.5
+    eslint: ~8.26.0
+    focus-visible: ^5.2.0
+    focus-within-polyfill: ^5.2.1
+    lint-all: "workspace:~"
+    lint-staged: ~12.3.8
+    new-event-polyfill: ^1.0.1
+    prettier: ~2.7.1
+  languageName: unknown
+  linkType: soft
+
+"@quickchat.vn/fuselage-root@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@quickchat.vn/fuselage-root@workspace:."
+  dependencies:
+    bump: "workspace:~"
+    husky: ~7.0.4
+    hygen: ~6.1.5
+    lerna: ~4.0.0
+    lint-staged: ~12.3.8
+    turbo: ~1.1.10
+    update-readme: "workspace:~"
+    webpack: ~5.76.0
+  languageName: unknown
+  linkType: soft
+
+"@quickchat.vn/fuselage-toastbar@workspace:packages/fuselage-toastbar":
+  version: 0.0.0-use.local
+  resolution: "@quickchat.vn/fuselage-toastbar@workspace:packages/fuselage-toastbar"
+  dependencies:
+    "@quickchat.vn/eslint-config-alt": "workspace:~"
+    "@quickchat.vn/fuselage": "workspace:~"
+    "@quickchat.vn/fuselage-hooks": "workspace:~"
+    "@quickchat.vn/layout": "workspace:~"
+    "@quickchat.vn/prettier-config": "workspace:~"
+    "@quickchat.vn/styled": "workspace:~"
+    "@storybook/addon-essentials": ~6.5.13
+    "@storybook/addons": ~6.5.13
+    "@storybook/react": ~6.5.13
+    "@storybook/source-loader": ~6.5.13
+    "@storybook/theming": ~6.5.13
+    "@types/jest": ~27.4.1
+    "@types/react": ~17.0.51
+    "@types/react-dom": ^17.0.17
+    bump: "workspace:~"
+    eslint: ~8.26.0
+    jest: ~27.5.1
+    lint-all: "workspace:~"
+    lint-staged: ~12.3.8
+    npm-run-all: ^4.1.5
+    prettier: ~2.7.1
+    rimraf: ~3.0.2
+    storybook-dark-mode: ~1.1.2
+    ts-jest: ~27.1.5
+    typedoc: ~0.22.18
+    typescript: ~4.3.5
+  peerDependencies:
+    "@quickchat.vn/fuselage": "*"
+    "@quickchat.vn/fuselage-hooks": "*"
+    "@quickchat.vn/fuselage-polyfills": "*"
+    "@quickchat.vn/styled": "*"
+    react: ^17.0.2
+    react-dom: ^17.0.2
+  languageName: unknown
+  linkType: soft
+
+"@quickchat.vn/fuselage-tokens@workspace:packages/fuselage-tokens, @quickchat.vn/fuselage-tokens@workspace:~":
+  version: 0.0.0-use.local
+  resolution: "@quickchat.vn/fuselage-tokens@workspace:packages/fuselage-tokens"
+  dependencies:
+    "@quickchat.vn/eslint-config-alt": "workspace:~"
+    "@quickchat.vn/prettier-config": "workspace:~"
+    build-design-tokens: "workspace:~"
+    bump: "workspace:~"
+    eslint: ~8.26.0
+    eslint-config-prettier: ~8.5.0
+    eslint-plugin-import: ~2.26.0
+    eslint-plugin-prettier: ~4.2.1
+    lint-all: "workspace:~"
+    lint-staged: ~12.3.8
+    npm-run-all: ^4.1.5
+    postcss-scss: ~4.0.5
+    prettier: ~2.7.1
+    rimraf: ^3.0.2
+    style-dictionary: ~3.7.1
+    stylelint: ~14.14.0
+    stylelint-order: ~5.0.0
+    stylelint-prettier: ~2.0.0
+    stylelint-scss: ~4.3.0
+    typescript: ~4.3.5
+  languageName: unknown
+  linkType: soft
+
+"@quickchat.vn/fuselage-ui-kit@workspace:packages/fuselage-ui-kit, @quickchat.vn/fuselage-ui-kit@workspace:~":
+  version: 0.0.0-use.local
+  resolution: "@quickchat.vn/fuselage-ui-kit@workspace:packages/fuselage-ui-kit"
+  dependencies:
+    "@quickchat.vn/apps-engine": ~1.30.0
+    "@quickchat.vn/eslint-config-alt": "workspace:~"
+    "@quickchat.vn/fuselage": "workspace:~"
+    "@quickchat.vn/fuselage-hooks": "workspace:~"
+    "@quickchat.vn/fuselage-polyfills": "workspace:~"
+    "@quickchat.vn/icons": "workspace:~"
+    "@quickchat.vn/prettier-config": "workspace:~"
+    "@quickchat.vn/styled": "workspace:~"
+    "@quickchat.vn/ui-kit": "workspace:~"
+    "@storybook/addon-essentials": ~6.5.13
+    "@storybook/addons": ~6.5.13
+    "@storybook/builder-webpack5": ~6.5.13
+    "@storybook/manager-webpack5": ~6.5.13
+    "@storybook/react": ~6.5.13
+    "@storybook/source-loader": ~6.5.13
+    "@storybook/theming": ~6.5.13
+    "@types/react": ~17.0.51
+    "@types/react-dom": ^17.0.17
+    babel-loader: ~8.2.5
+    bump: "workspace:~"
+    cross-env: ^7.0.3
+    eslint: ~8.26.0
+    lint-all: "workspace:~"
+    lint-staged: ~12.3.8
+    normalize.css: ^8.0.1
+    npm-run-all: ^4.1.5
+    prettier: ~2.7.1
+    react: ^17.0.2
+    react-dom: ^17.0.2
+    rimraf: ^3.0.2
+    tslib: ^2.3.1
+    typescript: ~4.3.5
+    webpack: ~5.76.0
+    write-version-module: "workspace:~"
+  peerDependencies:
+    "@quickchat.vn/fuselage": "*"
+    "@quickchat.vn/fuselage-hooks": "*"
+    "@quickchat.vn/fuselage-polyfills": "*"
+    "@quickchat.vn/icons": "*"
+    "@quickchat.vn/styled": "*"
+    react: ^17.0.2
+    react-dom: ^17.0.2
+  languageName: unknown
+  linkType: soft
+
+"@quickchat.vn/fuselage@workspace:packages/fuselage, @quickchat.vn/fuselage@workspace:~":
+  version: 0.0.0-use.local
+  resolution: "@quickchat.vn/fuselage@workspace:packages/fuselage"
+  dependencies:
+    "@babel/core": ~7.19.6
+    "@babel/eslint-parser": ~7.19.1
+    "@babel/plugin-transform-runtime": ~7.19.6
+    "@babel/preset-env": ~7.19.4
+    "@babel/preset-react": ~7.18.6
+    "@quickchat.vn/css-in-js": "workspace:~"
+    "@quickchat.vn/css-supports": "workspace:~"
+    "@quickchat.vn/eslint-config-alt": "workspace:~"
+    "@quickchat.vn/fuselage-hooks": "workspace:~"
+    "@quickchat.vn/fuselage-polyfills": "workspace:~"
+    "@quickchat.vn/fuselage-tokens": "workspace:~"
+    "@quickchat.vn/icons": "workspace:~"
+    "@quickchat.vn/memo": "workspace:~"
+    "@quickchat.vn/prettier-config": "workspace:~"
+    "@quickchat.vn/styled": "workspace:~"
+    "@storybook/addon-essentials": ~6.5.13
+    "@storybook/addon-interactions": ~6.5.13
+    "@storybook/addon-links": ~6.5.13
+    "@storybook/addons": ~6.5.13
+    "@storybook/builder-webpack5": ~6.5.13
+    "@storybook/client-api": ~6.5.13
+    "@storybook/jest": ~0.0.10
+    "@storybook/manager-webpack5": ~6.5.13
+    "@storybook/react": ~6.5.13
+    "@storybook/source-loader": ~6.5.13
+    "@storybook/testing-library": ~0.0.13
+    "@storybook/testing-react": ~1.3.0
+    "@storybook/theming": ~6.5.13
+    "@testing-library/jest-dom": ~5.16.5
+    "@testing-library/react": ^12.1.5
+    "@types/invariant": ^2.2.35
+    "@types/jest": ~27.4.1
+    autoprefixer: ~10.4.12
+    babel-loader: ~8.2.5
+    bump: "workspace:~"
+    caniuse-lite: ~1.0.30001425
+    copy-webpack-plugin: ~10.2.4
+    cross-env: ^7.0.3
+    css-loader: ~6.6.0
+    cssnano: ~5.0.17
+    es-check: ~7.0.1
+    eslint: ~8.26.0
+    eslint-plugin-mdx: ~1.17.1
+    invariant: ^2.2.4
+    jest: ~27.5.1
+    lint-all: "workspace:~"
+    lint-staged: ~12.3.8
+    normalize.css: ^8.0.1
+    npm-run-all: ^4.1.5
+    path-browserify: ^1.0.1
+    postcss: ~8.4.18
+    postcss-custom-properties: ~12.1.10
+    postcss-dir-pseudo-class: ~6.0.5
+    postcss-loader: ~6.2.1
+    postcss-logical: ~5.0.4
+    postcss-scss: ~4.0.5
+    postcss-svg: ~3.0.0
+    prettier: ~2.7.1
+    react: ^17.0.2
+    react-aria: ~3.19.0
+    react-dom: ^17.0.2
+    react-keyed-flatten-children: ^1.3.0
+    react-stately: ~3.17.0
+    react-virtuoso: ~3.1.1
+    rimraf: ^3.0.2
+    sass: ~1.49.11
+    sass-loader: ~12.4.0
+    style-loader: ~3.3.1
+    stylelint: ~14.14.0
+    stylelint-order: ~5.0.0
+    stylelint-prettier: ~2.0.0
+    stylelint-scss: ~4.3.0
+    testing-utils: "workspace:~"
+    ts-jest: ~27.1.5
+    ts-loader: ~9.2.9
+    typescript: ~4.3.5
+    webpack: ~5.76.0
+    webpack-bundle-analyzer: ~4.7.0
+    webpack-cli: ~4.10.0
+  peerDependencies:
+    "@quickchat.vn/fuselage-hooks": "*"
+    "@quickchat.vn/fuselage-polyfills": "*"
+    "@quickchat.vn/icons": "*"
+    react: ^17.0.2
+    react-dom: ^17.0.2
+    react-virtuoso: 1.2.4
+  languageName: unknown
+  linkType: soft
+
+"@quickchat.vn/icons@workspace:packages/icons, @quickchat.vn/icons@workspace:~":
+  version: 0.0.0-use.local
+  resolution: "@quickchat.vn/icons@workspace:packages/icons"
+  dependencies:
+    "@prettier/plugin-xml": ~2.2.0
+    "@quickchat.vn/eslint-config-alt": "workspace:~"
+    "@quickchat.vn/prettier-config": "workspace:~"
+    build-icons: "workspace:~"
+    bump: "workspace:~"
+    eslint: ~8.26.0
+    lint-all: "workspace:~"
+    lint-staged: ~12.3.8
+    npm-run-all: ^4.1.5
+    prettier: ~2.7.1
+    rimraf: ^3.0.2
+    stylelint: ~14.14.0
+    stylelint-order: ~5.0.0
+    stylelint-prettier: ~2.0.0
+    stylelint-scss: ~4.3.0
+  languageName: unknown
+  linkType: soft
+
+"@quickchat.vn/layout@workspace:packages/layout, @quickchat.vn/layout@workspace:~":
+  version: 0.0.0-use.local
+  resolution: "@quickchat.vn/layout@workspace:packages/layout"
+  dependencies:
+    "@quickchat.vn/eslint-config-alt": "workspace:~"
+    "@quickchat.vn/fuselage": "workspace:~"
+    "@quickchat.vn/prettier-config": "workspace:~"
+    "@storybook/addon-essentials": ~6.5.13
+    "@storybook/addons": ~6.5.13
+    "@storybook/react": ~6.5.13
+    "@storybook/source-loader": ~6.5.13
+    "@storybook/theming": ~6.5.13
+    "@types/jest": ~27.4.1
+    bump: "workspace:~"
+    eslint: ~8.26.0
+    jest: ~27.5.1
+    lint-all: "workspace:~"
+    lint-staged: ~12.3.8
+    npm-run-all: ^4.1.5
+    prettier: ~2.7.1
+    rimraf: ~3.0.2
+    storybook-dark-mode: ^1.1.2
+    ts-jest: ~27.1.5
+    typedoc: ~0.22.18
+    typescript: ~4.3.5
+  peerDependencies:
+    "@quickchat.vn/fuselage": "*"
+    react: 17.0.2
+    react-dom: 17.0.2
+    react-i18next: ~11.15.4
+  languageName: unknown
+  linkType: soft
+
+"@quickchat.vn/logo@workspace:packages/logo, @quickchat.vn/logo@workspace:~":
+  version: 0.0.0-use.local
+  resolution: "@quickchat.vn/logo@workspace:packages/logo"
+  dependencies:
+    "@quickchat.vn/eslint-config-alt": "workspace:~"
+    "@quickchat.vn/fuselage-hooks": "workspace:~"
+    "@quickchat.vn/fuselage-tokens": "workspace:~"
+    "@quickchat.vn/prettier-config": "workspace:~"
+    "@quickchat.vn/styled": "workspace:~"
+    "@types/jest": ~27.4.1
+    "@types/react": ~17.0.51
+    "@types/react-dom": ^17.0.17
+    build-logo: "workspace:~"
+    bump: "workspace:~"
+    eslint: ~8.26.0
+    jest: ~27.5.1
+    lint-all: "workspace:~"
+    lint-staged: ~12.3.8
+    npm-run-all: ^4.1.5
+    prettier: ~2.7.1
+    react: ^17.0.2
+    react-dom: ^17.0.2
+    rimraf: ^3.0.2
+    ts-jest: ~27.1.5
+    tslib: ^2.3.1
+    typedoc: ~0.22.18
+    typescript: ~4.3.5
+  peerDependencies:
+    react: 17.0.2
+    react-dom: 17.0.2
+  languageName: unknown
+  linkType: soft
+
+"@quickchat.vn/memo@workspace:packages/memo, @quickchat.vn/memo@workspace:~":
+  version: 0.0.0-use.local
+  resolution: "@quickchat.vn/memo@workspace:packages/memo"
+  dependencies:
+    "@quickchat.vn/eslint-config-alt": "workspace:~"
+    "@quickchat.vn/prettier-config": "workspace:~"
+    "@types/jest": ~27.4.1
+    bump: "workspace:~"
+    eslint: ~8.26.0
+    jest: ~27.5.1
+    lint-all: "workspace:~"
+    lint-staged: ~12.3.8
+    prettier: ~2.7.1
+    rimraf: ~3.0.2
+    ts-jest: ~27.1.5
+    typedoc: ~0.22.18
+    typescript: ~4.3.5
+  languageName: unknown
+  linkType: soft
+
+"@quickchat.vn/message-parser@workspace:packages/message-parser":
+  version: 0.0.0-use.local
+  resolution: "@quickchat.vn/message-parser@workspace:packages/message-parser"
+  dependencies:
+    "@babel/core": ~7.19.6
+    "@babel/eslint-parser": ~7.19.1
+    "@babel/preset-env": ~7.19.4
+    "@quickchat.vn/eslint-config-alt": "workspace:~"
+    "@quickchat.vn/peggy-loader": "workspace:~"
+    "@quickchat.vn/prettier-config": "workspace:~"
+    "@types/jest": ~27.4.1
+    "@types/node": ~15.14.9
+    "@typescript-eslint/parser": ~5.11.0
+    babel-loader: ~8.2.5
+    bump: "workspace:~"
+    eslint: ~8.26.0
+    jest: ~27.5.1
+    lint-all: "workspace:~"
+    lint-staged: ~12.3.8
+    npm-run-all: ^4.1.5
+    peggy: ^2.0.1
+    prettier: ~2.7.1
+    prettier-plugin-pegjs: ~0.5.2
+    rimraf: ^3.0.2
+    ts-jest: ~27.1.5
+    ts-loader: ~9.2.9
+    typedoc: ~0.22.18
+    typescript: ~4.3.5
+    webpack: ~5.76.0
+    webpack-cli: ~4.10.0
+  languageName: unknown
+  linkType: soft
+
+"@quickchat.vn/mp3-encoder@workspace:packages/mp3-encoder":
+  version: 0.0.0-use.local
+  resolution: "@quickchat.vn/mp3-encoder@workspace:packages/mp3-encoder"
+  dependencies:
+    "@babel/core": ~7.19.6
+    "@babel/plugin-transform-runtime": ~7.19.6
+    "@babel/preset-env": ~7.19.4
+    "@babel/preset-typescript": ^7.18.6
+    "@quickchat.vn/eslint-config-alt": "workspace:~"
+    "@quickchat.vn/prettier-config": "workspace:~"
+    "@rollup/plugin-commonjs": ~21.0.3
+    "@rollup/plugin-node-resolve": ~13.1.3
+    "@rollup/plugin-typescript": ~8.3.4
+    "@types/jest": ~27.4.1
+    bump: "workspace:~"
+    eslint: ~8.26.0
+    jest: ~27.5.1
+    lamejs: "git+https://github.com/zhuker/lamejs.git#commit=582bbba6a12f981b984d8fb9e1874499fed85675"
+    lint-all: "workspace:~"
+    lint-staged: ~12.3.8
+    prettier: ~2.7.1
+    rollup: ~2.67.3
+    ts-jest: ~27.1.5
+    typedoc: ~0.22.18
+    typescript: ~4.3.5
+  languageName: unknown
+  linkType: soft
+
+"@quickchat.vn/onboarding-ui@workspace:packages/onboarding-ui":
+  version: 0.0.0-use.local
+  resolution: "@quickchat.vn/onboarding-ui@workspace:packages/onboarding-ui"
+  dependencies:
+    "@quickchat.vn/eslint-config-alt": "workspace:~"
+    "@quickchat.vn/fuselage": "workspace:~"
+    "@quickchat.vn/fuselage-hooks": "workspace:~"
+    "@quickchat.vn/fuselage-polyfills": "workspace:~"
+    "@quickchat.vn/fuselage-tokens": "workspace:~"
+    "@quickchat.vn/icons": "workspace:~"
+    "@quickchat.vn/layout": "workspace:~"
+    "@quickchat.vn/logo": "workspace:~"
+    "@quickchat.vn/prettier-config": "workspace:~"
+    "@quickchat.vn/styled": "workspace:~"
+    "@storybook/addon-essentials": ~6.5.13
+    "@storybook/addons": ~6.5.13
+    "@storybook/react": ~6.5.13
+    "@storybook/source-loader": ~6.5.13
+    "@storybook/theming": ~6.5.13
+    "@types/jest": ~27.4.1
+    "@types/react": ~17.0.51
+    "@types/react-dom": ^17.0.17
+    bump: "workspace:~"
+    countries-list: ^2.6.1
+    eslint: ~8.26.0
+    i18next: ~21.6.16
+    jest: ~27.5.1
+    lint-all: "workspace:~"
+    lint-staged: ~12.3.8
+    npm-run-all: ^4.1.5
+    prettier: ~2.7.1
+    react: ^17.0.2
+    react-dom: ^17.0.2
+    react-hook-form: ~7.27.1
+    react-i18next: ~11.15.7
+    rimraf: ^3.0.2
+    storybook-dark-mode: ^1.1.2
+    ts-jest: ~27.1.5
+    tslib: ~2.3.1
+    typedoc: ~0.22.18
+    typescript: ~4.3.5
+  peerDependencies:
+    "@quickchat.vn/fuselage": "*"
+    "@quickchat.vn/fuselage-hooks": "*"
+    "@quickchat.vn/fuselage-polyfills": "*"
+    "@quickchat.vn/icons": "*"
+    "@quickchat.vn/layout": "*"
+    "@quickchat.vn/logo": "*"
+    "@quickchat.vn/styled": "*"
+    react: 17.0.2
+    react-dom: 17.0.2
+    react-i18next: ~11.15.4
+  languageName: unknown
+  linkType: soft
+
+"@quickchat.vn/peggy-loader@workspace:packages/peggy-loader, @quickchat.vn/peggy-loader@workspace:~":
+  version: 0.0.0-use.local
+  resolution: "@quickchat.vn/peggy-loader@workspace:packages/peggy-loader"
+  dependencies:
+    "@quickchat.vn/eslint-config-alt": "workspace:~"
+    "@quickchat.vn/prettier-config": "workspace:~"
+    "@types/node": ~15.14.9
+    bump: "workspace:~"
+    eslint: ~8.26.0
+    lint-all: "workspace:~"
+    lint-staged: ~12.3.8
+    npm-run-all: ^4.1.5
+    peggy: ^2.0.1
+    prettier: ~2.7.1
+    rimraf: ^3.0.2
+    ts-jest: ~27.1.5
+    tslib: ^2.3.1
+    typescript: ~4.3.5
+    webpack: ~5.76.0
+  peerDependencies:
+    peggy: "*"
+    webpack: "*"
+  languageName: unknown
+  linkType: soft
+
+"@quickchat.vn/prettier-config@workspace:packages/prettier-config, @quickchat.vn/prettier-config@workspace:~":
+  version: 0.0.0-use.local
+  resolution: "@quickchat.vn/prettier-config@workspace:packages/prettier-config"
+  dependencies:
+    bump: "workspace:~"
+    eslint: ~8.26.0
+    eslint-config-prettier: ~8.5.0
+    eslint-plugin-import: ~2.26.0
+    eslint-plugin-prettier: ~4.2.1
+    lint-all: "workspace:~"
+    lint-staged: ~12.3.8
+    prettier: ~2.7.1
+  peerDependencies:
+    prettier: ~2.7.1
+  languageName: unknown
+  linkType: soft
+
+"@quickchat.vn/string-helpers@workspace:packages/string-helpers":
+  version: 0.0.0-use.local
+  resolution: "@quickchat.vn/string-helpers@workspace:packages/string-helpers"
+  dependencies:
+    "@quickchat.vn/eslint-config-alt": "workspace:~"
+    "@quickchat.vn/prettier-config": "workspace:~"
+    "@types/jest": ~27.4.1
+    bump: "workspace:~"
+    eslint: ~8.26.0
+    jest: ~27.5.1
+    lint-all: "workspace:~"
+    lint-staged: ~12.3.8
+    npm-run-all: ^4.1.5
+    prettier: ~2.7.1
+    rimraf: ^3.0.2
+    ts-jest: ~27.1.5
+    tslib: ^2.3.1
+    typedoc: ~0.22.18
+    typescript: ~4.3.5
+  languageName: unknown
+  linkType: soft
+
+"@quickchat.vn/styled@workspace:packages/styled, @quickchat.vn/styled@workspace:~":
+  version: 0.0.0-use.local
+  resolution: "@quickchat.vn/styled@workspace:packages/styled"
+  dependencies:
+    "@quickchat.vn/css-in-js": "workspace:~"
+    "@quickchat.vn/eslint-config-alt": "workspace:~"
+    "@quickchat.vn/prettier-config": "workspace:~"
+    "@types/jest": ~27.4.1
+    bump: "workspace:~"
+    eslint: ~8.26.0
+    jest: ~27.5.1
+    lint-all: "workspace:~"
+    lint-staged: ~12.3.8
+    npm-run-all: ^4.1.5
+    prettier: ~2.7.1
+    rimraf: ^3.0.2
+    ts-jest: ~27.1.5
+    tslib: ^2.3.1
+    typedoc: ~0.22.18
+    typescript: ~4.3.5
+  languageName: unknown
+  linkType: soft
+
+"@quickchat.vn/stylis-logical-props-middleware@workspace:packages/stylis-logical-props-middleware, @quickchat.vn/stylis-logical-props-middleware@workspace:~":
+  version: 0.0.0-use.local
+  resolution: "@quickchat.vn/stylis-logical-props-middleware@workspace:packages/stylis-logical-props-middleware"
+  dependencies:
+    "@quickchat.vn/css-supports": "workspace:~"
+    "@quickchat.vn/eslint-config-alt": "workspace:~"
+    "@quickchat.vn/prettier-config": "workspace:~"
+    "@types/jest": ~27.4.1
+    bump: "workspace:~"
+    eslint: ~8.26.0
+    jest: ~27.5.1
+    lint-all: "workspace:~"
+    lint-staged: ~12.3.8
+    npm-run-all: ^4.1.5
+    prettier: ~2.7.1
+    rimraf: ^3.0.2
+    stylis: 4.1.3
+    ts-jest: ~27.1.5
+    tslib: ^2.3.1
+    typedoc: ~0.22.18
+    typescript: ~4.3.5
+  peerDependencies:
+    stylis: 4.0.10
+  languageName: unknown
+  linkType: soft
+
+"@quickchat.vn/ui-kit@workspace:packages/ui-kit, @quickchat.vn/ui-kit@workspace:~":
+  version: 0.0.0-use.local
+  resolution: "@quickchat.vn/ui-kit@workspace:packages/ui-kit"
+  dependencies:
+    "@babel/core": ~7.19.6
+    "@babel/eslint-parser": ~7.19.1
+    "@babel/plugin-transform-runtime": ~7.19.6
+    "@babel/preset-env": ~7.19.4
+    "@quickchat.vn/eslint-config-alt": "workspace:~"
+    "@quickchat.vn/prettier-config": "workspace:~"
+    "@types/jest": ~27.4.1
+    babel-loader: ~8.2.5
+    bump: "workspace:~"
+    eslint: ~8.26.0
+    jest: ~27.5.1
+    lint-all: "workspace:~"
+    lint-staged: ~12.3.8
+    npm-run-all: ^4.1.5
+    prettier: ~2.7.1
+    rimraf: ^3.0.2
+    ts-jest: ~27.1.5
+    ts-loader: ~9.2.9
+    typedoc: ~0.22.18
+    typescript: ~4.3.5
+    webpack: ~5.76.0
+    webpack-cli: ~4.10.0
+  languageName: unknown
+  linkType: soft
+
+"@quickchat.vn/uikit-playground@workspace:packages/uikit-playground":
+  version: 0.0.0-use.local
+  resolution: "@quickchat.vn/uikit-playground@workspace:packages/uikit-playground"
+  dependencies:
+    "@babel/eslint-parser": ^7.19.1
+    "@codemirror/lang-javascript": ^6.1.1
+    "@codemirror/lang-json": ^6.0.1
+    "@codemirror/tooltip": ^0.19.16
+    "@lezer/highlight": ^1.1.2
+    "@quickchat.vn/css-in-js": ^0.31.12
+    "@quickchat.vn/eslint-config-alt": "workspace:~"
+    "@quickchat.vn/fuselage": "workspace:~"
+    "@quickchat.vn/fuselage-hooks": "workspace:~"
+    "@quickchat.vn/fuselage-polyfills": "workspace:~"
+    "@quickchat.vn/fuselage-tokens": "workspace:~"
+    "@quickchat.vn/fuselage-ui-kit": "workspace:~"
+    "@quickchat.vn/icons": "workspace:~"
+    "@quickchat.vn/logo": "workspace:~"
+    "@quickchat.vn/styled": "workspace:~"
+    "@types/jest": ^27.5.2
+    "@types/node": ^16.11.36
+    "@types/react": ^17.0.51
+    "@types/react-beautiful-dnd": ^13.1.2
+    "@types/react-dom": ^17.0.17
+    codemirror: ^6.0.1
+    eslint: ~8.26.0
+    eslint-plugin-import: ^2.26.0
+    eslint4b-prebuilt: ^6.7.2
+    gh-pages: ^4.0.0
+    json5: ^2.2.1
+    lint-all: "workspace:~"
+    lint-staged: ~12.3.8
+    prettier: ~2.7.1
+    react: ^17.0.2
+    react-beautiful-dnd: ^13.1.1
+    react-dom: ^17.0.2
+    react-router-dom: ^6.3.0
+    react-scripts: 5.0.1
+    react-split-pane: ^0.1.92
+    react-virtuoso: 3.1.1
+    typescript: ^4.7.2
+    use-subscription: ^1.7.0
+    web-vitals: ^2.1.4
+    webpack: ^5.74.0
+  languageName: unknown
+  linkType: soft
+
 "@react-aria/breadcrumbs@npm:^3.3.1":
   version: 3.3.1
   resolution: "@react-aria/breadcrumbs@npm:3.3.1"
@@ -8228,817 +9039,6 @@ __metadata:
   checksum: 5079ee2e561c2b9a7cc6e9dd22d48a26b0d61d79114aff730b7fc8348e199ec1db9e2ef96725f1682ebd5e93bbb223b920aa507f0f9997d8bc3df76f315077a6
   languageName: node
   linkType: hard
-
-"@quickchat.vn/apps-engine@npm:~1.30.0":
-  version: 1.30.0
-  resolution: "@quickchat.vn/apps-engine@npm:1.30.0"
-  dependencies:
-    adm-zip: ^0.4.9
-    cryptiles: ^4.1.3
-    lodash.clonedeep: ^4.5.0
-    semver: ^5.5.0
-    stack-trace: 0.0.10
-    uuid: ^3.2.1
-  checksum: 097c9f5e2916587705f07530b809bb7933fea6ea7991cb8c039da1b9203d27a5978d99a6a3c504dbbfc7a3eef9a0eef01fbbaf5c32e84747b86b6576f395e278
-  languageName: node
-  linkType: hard
-
-"@quickchat.vn/css-in-js@^0.31.12, @quickchat.vn/css-in-js@workspace:packages/css-in-js, @quickchat.vn/css-in-js@workspace:~":
-  version: 0.0.0-use.local
-  resolution: "@quickchat.vn/css-in-js@workspace:packages/css-in-js"
-  dependencies:
-    "@emotion/hash": ^0.9.0
-    "@quickchat.vn/css-supports": "workspace:~"
-    "@quickchat.vn/eslint-config-alt": "workspace:~"
-    "@quickchat.vn/memo": "workspace:~"
-    "@quickchat.vn/prettier-config": "workspace:~"
-    "@quickchat.vn/stylis-logical-props-middleware": "workspace:~"
-    "@rollup/plugin-commonjs": ~21.0.3
-    "@rollup/plugin-json": ~4.1.0
-    "@rollup/plugin-node-resolve": ~13.1.3
-    "@rollup/plugin-typescript": ~8.3.4
-    "@types/jest": ~27.4.1
-    "@types/stylis": ^4.0.2
-    bump: "workspace:~"
-    eslint: ~8.26.0
-    jest: ~27.5.1
-    lint-all: "workspace:~"
-    lint-staged: ~12.3.8
-    prettier: ~2.7.1
-    rollup: ~2.67.3
-    rollup-plugin-terser: ~7.0.2
-    stylis: ~4.1.3
-    ts-jest: ~27.1.5
-    typedoc: ~0.22.18
-    typescript: ~4.3.5
-  languageName: unknown
-  linkType: soft
-
-"@quickchat.vn/css-supports@workspace:packages/css-supports, @quickchat.vn/css-supports@workspace:~":
-  version: 0.0.0-use.local
-  resolution: "@quickchat.vn/css-supports@workspace:packages/css-supports"
-  dependencies:
-    "@quickchat.vn/eslint-config-alt": "workspace:~"
-    "@quickchat.vn/memo": "workspace:~"
-    "@quickchat.vn/prettier-config": "workspace:~"
-    bump: "workspace:~"
-    eslint: ~8.26.0
-    lint-all: "workspace:~"
-    lint-staged: ~12.3.8
-    prettier: ~2.7.1
-    rimraf: ~3.0.2
-    typedoc: ~0.22.18
-    typescript: ~4.3.5
-  languageName: unknown
-  linkType: soft
-
-"@quickchat.vn/emitter@workspace:packages/emitter":
-  version: 0.0.0-use.local
-  resolution: "@quickchat.vn/emitter@workspace:packages/emitter"
-  dependencies:
-    "@quickchat.vn/eslint-config-alt": "workspace:~"
-    "@quickchat.vn/prettier-config": "workspace:~"
-    "@rollup/plugin-commonjs": ~21.0.3
-    "@rollup/plugin-json": ~4.1.0
-    "@rollup/plugin-node-resolve": ~13.1.3
-    "@rollup/plugin-typescript": ~8.3.4
-    "@types/jest": ~27.4.1
-    bump: "workspace:~"
-    eslint: ~8.26.0
-    jest: ~27.5.1
-    lint-all: "workspace:~"
-    lint-staged: ~12.3.8
-    npm-run-all: ^4.1.5
-    prettier: ~2.7.1
-    rollup: ~2.67.3
-    rollup-plugin-terser: ~7.0.2
-    ts-jest: ~27.1.5
-    tslib: ^2.3.1
-    typedoc: ~0.22.18
-    typescript: ~4.3.5
-  languageName: unknown
-  linkType: soft
-
-"@quickchat.vn/eslint-config-alt@workspace:packages/eslint-config-alt, @quickchat.vn/eslint-config-alt@workspace:~":
-  version: 0.0.0-use.local
-  resolution: "@quickchat.vn/eslint-config-alt@workspace:packages/eslint-config-alt"
-  dependencies:
-    "@babel/eslint-parser": ~7.19.1
-    "@typescript-eslint/eslint-plugin": ~5.11.0
-    "@typescript-eslint/parser": ~5.11.0
-    bump: "workspace:~"
-    eslint: ~8.26.0
-    eslint-config-prettier: ~8.5.0
-    eslint-import-resolver-typescript: ~3.5.2
-    eslint-plugin-import: ~2.26.0
-    eslint-plugin-prettier: ~4.2.1
-    eslint-plugin-react: ~7.31.10
-    eslint-plugin-react-hooks: ~4.6.0
-    lint-all: "workspace:~"
-    lint-staged: ~12.3.8
-    prettier: ~2.7.1
-  peerDependencies:
-    "@babel/eslint-parser": ^7.13.14
-    eslint: ^7.29.0
-    prettier: ~2.7.1
-  languageName: unknown
-  linkType: soft
-
-"@quickchat.vn/fuselage-hooks@workspace:packages/fuselage-hooks, @quickchat.vn/fuselage-hooks@workspace:~":
-  version: 0.0.0-use.local
-  resolution: "@quickchat.vn/fuselage-hooks@workspace:packages/fuselage-hooks"
-  dependencies:
-    "@quickchat.vn/eslint-config-alt": "workspace:~"
-    "@quickchat.vn/fuselage-tokens": "workspace:~"
-    "@quickchat.vn/prettier-config": "workspace:~"
-    "@rollup/plugin-commonjs": ~21.0.3
-    "@rollup/plugin-json": ~4.1.0
-    "@rollup/plugin-node-resolve": ~13.1.3
-    "@rollup/plugin-typescript": ~8.3.4
-    "@testing-library/react-hooks": ~7.0.2
-    "@testing-library/user-event": ^13.5.0
-    "@types/jest": ~27.4.1
-    "@types/react": ~17.0.51
-    "@types/react-dom": ^17.0.17
-    "@types/resize-observer-browser": ~0.1.7
-    "@types/use-sync-external-store": ~0.0.3
-    bump: "workspace:~"
-    eslint: ~8.26.0
-    jest: ~27.5.1
-    lint-all: "workspace:~"
-    lint-staged: ~12.3.8
-    npm-run-all: ^4.1.5
-    prettier: ~2.7.1
-    react: ^17.0.2
-    rollup: ~2.67.3
-    rollup-plugin-terser: ~7.0.2
-    testing-utils: "workspace:~"
-    ts-jest: ~27.1.5
-    typedoc: ~0.22.18
-    typescript: ~4.3.5
-    use-sync-external-store: ~1.2.0
-  peerDependencies:
-    "@quickchat.vn/fuselage-tokens": "*"
-    react: ^17.0.2
-  languageName: unknown
-  linkType: soft
-
-"@quickchat.vn/fuselage-polyfills@workspace:packages/fuselage-polyfills, @quickchat.vn/fuselage-polyfills@workspace:~":
-  version: 0.0.0-use.local
-  resolution: "@quickchat.vn/fuselage-polyfills@workspace:packages/fuselage-polyfills"
-  dependencies:
-    "@juggle/resize-observer": ^3.4.0
-    "@quickchat.vn/eslint-config-alt": "workspace:~"
-    "@quickchat.vn/prettier-config": "workspace:~"
-    bump: "workspace:~"
-    clipboard-polyfill: ^3.0.3
-    element-closest-polyfill: ^1.0.5
-    eslint: ~8.26.0
-    focus-visible: ^5.2.0
-    focus-within-polyfill: ^5.2.1
-    lint-all: "workspace:~"
-    lint-staged: ~12.3.8
-    new-event-polyfill: ^1.0.1
-    prettier: ~2.7.1
-  languageName: unknown
-  linkType: soft
-
-"@quickchat.vn/fuselage-root@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "@quickchat.vn/fuselage-root@workspace:."
-  dependencies:
-    bump: "workspace:~"
-    husky: ~7.0.4
-    hygen: ~6.1.5
-    lerna: ~4.0.0
-    lint-staged: ~12.3.8
-    turbo: ~1.1.10
-    update-readme: "workspace:~"
-    webpack: ~5.74.0
-  languageName: unknown
-  linkType: soft
-
-"@quickchat.vn/fuselage-toastbar@workspace:packages/fuselage-toastbar":
-  version: 0.0.0-use.local
-  resolution: "@quickchat.vn/fuselage-toastbar@workspace:packages/fuselage-toastbar"
-  dependencies:
-    "@quickchat.vn/eslint-config-alt": "workspace:~"
-    "@quickchat.vn/fuselage": "workspace:~"
-    "@quickchat.vn/fuselage-hooks": "workspace:~"
-    "@quickchat.vn/layout": "workspace:~"
-    "@quickchat.vn/prettier-config": "workspace:~"
-    "@quickchat.vn/styled": "workspace:~"
-    "@storybook/addon-essentials": ~6.5.13
-    "@storybook/addons": ~6.5.13
-    "@storybook/react": ~6.5.13
-    "@storybook/source-loader": ~6.5.13
-    "@storybook/theming": ~6.5.13
-    "@types/jest": ~27.4.1
-    "@types/react": ~17.0.51
-    "@types/react-dom": ^17.0.17
-    bump: "workspace:~"
-    eslint: ~8.26.0
-    jest: ~27.5.1
-    lint-all: "workspace:~"
-    lint-staged: ~12.3.8
-    npm-run-all: ^4.1.5
-    prettier: ~2.7.1
-    rimraf: ~3.0.2
-    storybook-dark-mode: ~1.1.2
-    ts-jest: ~27.1.5
-    typedoc: ~0.22.18
-    typescript: ~4.3.5
-  peerDependencies:
-    "@quickchat.vn/fuselage": "*"
-    "@quickchat.vn/fuselage-hooks": "*"
-    "@quickchat.vn/fuselage-polyfills": "*"
-    "@quickchat.vn/styled": "*"
-    react: ^17.0.2
-    react-dom: ^17.0.2
-  languageName: unknown
-  linkType: soft
-
-"@quickchat.vn/fuselage-tokens@workspace:packages/fuselage-tokens, @quickchat.vn/fuselage-tokens@workspace:~":
-  version: 0.0.0-use.local
-  resolution: "@quickchat.vn/fuselage-tokens@workspace:packages/fuselage-tokens"
-  dependencies:
-    "@quickchat.vn/eslint-config-alt": "workspace:~"
-    "@quickchat.vn/prettier-config": "workspace:~"
-    build-design-tokens: "workspace:~"
-    bump: "workspace:~"
-    eslint: ~8.26.0
-    eslint-config-prettier: ~8.5.0
-    eslint-plugin-import: ~2.26.0
-    eslint-plugin-prettier: ~4.2.1
-    lint-all: "workspace:~"
-    lint-staged: ~12.3.8
-    npm-run-all: ^4.1.5
-    postcss-scss: ~4.0.5
-    prettier: ~2.7.1
-    rimraf: ^3.0.2
-    style-dictionary: ~3.7.1
-    stylelint: ~14.14.0
-    stylelint-order: ~5.0.0
-    stylelint-prettier: ~2.0.0
-    stylelint-scss: ~4.3.0
-    typescript: ~4.3.5
-  languageName: unknown
-  linkType: soft
-
-"@quickchat.vn/fuselage-ui-kit@workspace:packages/fuselage-ui-kit, @quickchat.vn/fuselage-ui-kit@workspace:~":
-  version: 0.0.0-use.local
-  resolution: "@quickchat.vn/fuselage-ui-kit@workspace:packages/fuselage-ui-kit"
-  dependencies:
-    "@quickchat.vn/apps-engine": ~1.30.0
-    "@quickchat.vn/eslint-config-alt": "workspace:~"
-    "@quickchat.vn/fuselage": "workspace:~"
-    "@quickchat.vn/fuselage-hooks": "workspace:~"
-    "@quickchat.vn/fuselage-polyfills": "workspace:~"
-    "@quickchat.vn/icons": "workspace:~"
-    "@quickchat.vn/prettier-config": "workspace:~"
-    "@quickchat.vn/styled": "workspace:~"
-    "@quickchat.vn/ui-kit": "workspace:~"
-    "@storybook/addon-essentials": ~6.5.13
-    "@storybook/addons": ~6.5.13
-    "@storybook/builder-webpack5": ~6.5.13
-    "@storybook/manager-webpack5": ~6.5.13
-    "@storybook/react": ~6.5.13
-    "@storybook/source-loader": ~6.5.13
-    "@storybook/theming": ~6.5.13
-    "@types/react": ~17.0.51
-    "@types/react-dom": ^17.0.17
-    babel-loader: ~8.2.5
-    bump: "workspace:~"
-    cross-env: ^7.0.3
-    eslint: ~8.26.0
-    lint-all: "workspace:~"
-    lint-staged: ~12.3.8
-    normalize.css: ^8.0.1
-    npm-run-all: ^4.1.5
-    prettier: ~2.7.1
-    react: ^17.0.2
-    react-dom: ^17.0.2
-    rimraf: ^3.0.2
-    tslib: ^2.3.1
-    typescript: ~4.3.5
-    webpack: ~5.74.0
-    write-version-module: "workspace:~"
-  peerDependencies:
-    "@quickchat.vn/fuselage": "*"
-    "@quickchat.vn/fuselage-hooks": "*"
-    "@quickchat.vn/fuselage-polyfills": "*"
-    "@quickchat.vn/icons": "*"
-    "@quickchat.vn/styled": "*"
-    react: ^17.0.2
-    react-dom: ^17.0.2
-  languageName: unknown
-  linkType: soft
-
-"@quickchat.vn/fuselage@workspace:packages/fuselage, @quickchat.vn/fuselage@workspace:~":
-  version: 0.0.0-use.local
-  resolution: "@quickchat.vn/fuselage@workspace:packages/fuselage"
-  dependencies:
-    "@babel/core": ~7.19.6
-    "@babel/eslint-parser": ~7.19.1
-    "@babel/plugin-transform-runtime": ~7.19.6
-    "@babel/preset-env": ~7.19.4
-    "@babel/preset-react": ~7.18.6
-    "@quickchat.vn/css-in-js": "workspace:~"
-    "@quickchat.vn/css-supports": "workspace:~"
-    "@quickchat.vn/eslint-config-alt": "workspace:~"
-    "@quickchat.vn/fuselage-hooks": "workspace:~"
-    "@quickchat.vn/fuselage-polyfills": "workspace:~"
-    "@quickchat.vn/fuselage-tokens": "workspace:~"
-    "@quickchat.vn/icons": "workspace:~"
-    "@quickchat.vn/memo": "workspace:~"
-    "@quickchat.vn/prettier-config": "workspace:~"
-    "@quickchat.vn/styled": "workspace:~"
-    "@storybook/addon-essentials": ~6.5.13
-    "@storybook/addon-interactions": ~6.5.13
-    "@storybook/addon-links": ~6.5.13
-    "@storybook/addons": ~6.5.13
-    "@storybook/builder-webpack5": ~6.5.13
-    "@storybook/client-api": ~6.5.13
-    "@storybook/jest": ~0.0.10
-    "@storybook/manager-webpack5": ~6.5.13
-    "@storybook/react": ~6.5.13
-    "@storybook/source-loader": ~6.5.13
-    "@storybook/testing-library": ~0.0.13
-    "@storybook/testing-react": ~1.3.0
-    "@storybook/theming": ~6.5.13
-    "@testing-library/jest-dom": ~5.16.5
-    "@testing-library/react": ^12.1.5
-    "@types/invariant": ^2.2.35
-    "@types/jest": ~27.4.1
-    autoprefixer: ~10.4.12
-    babel-loader: ~8.2.5
-    bump: "workspace:~"
-    caniuse-lite: ~1.0.30001425
-    copy-webpack-plugin: ~10.2.4
-    cross-env: ^7.0.3
-    css-loader: ~6.6.0
-    cssnano: ~5.0.17
-    es-check: ~7.0.1
-    eslint: ~8.26.0
-    eslint-plugin-mdx: ~1.17.1
-    invariant: ^2.2.4
-    jest: ~27.5.1
-    lint-all: "workspace:~"
-    lint-staged: ~12.3.8
-    normalize.css: ^8.0.1
-    npm-run-all: ^4.1.5
-    path-browserify: ^1.0.1
-    postcss: ~8.4.18
-    postcss-custom-properties: ~12.1.10
-    postcss-dir-pseudo-class: ~6.0.5
-    postcss-loader: ~6.2.1
-    postcss-logical: ~5.0.4
-    postcss-scss: ~4.0.5
-    postcss-svg: ~3.0.0
-    prettier: ~2.7.1
-    react: ^17.0.2
-    react-aria: ~3.19.0
-    react-dom: ^17.0.2
-    react-keyed-flatten-children: ^1.3.0
-    react-stately: ~3.17.0
-    react-virtuoso: ~3.1.1
-    rimraf: ^3.0.2
-    sass: ~1.49.11
-    sass-loader: ~12.4.0
-    style-loader: ~3.3.1
-    stylelint: ~14.14.0
-    stylelint-order: ~5.0.0
-    stylelint-prettier: ~2.0.0
-    stylelint-scss: ~4.3.0
-    testing-utils: "workspace:~"
-    ts-jest: ~27.1.5
-    ts-loader: ~9.2.9
-    typescript: ~4.3.5
-    webpack: ~5.74.0
-    webpack-bundle-analyzer: ~4.7.0
-    webpack-cli: ~4.10.0
-  peerDependencies:
-    "@quickchat.vn/fuselage-hooks": "*"
-    "@quickchat.vn/fuselage-polyfills": "*"
-    "@quickchat.vn/icons": "*"
-    react: ^17.0.2
-    react-dom: ^17.0.2
-    react-virtuoso: 1.2.4
-  languageName: unknown
-  linkType: soft
-
-"@quickchat.vn/icons@workspace:packages/icons, @quickchat.vn/icons@workspace:~":
-  version: 0.0.0-use.local
-  resolution: "@quickchat.vn/icons@workspace:packages/icons"
-  dependencies:
-    "@prettier/plugin-xml": ~2.2.0
-    "@quickchat.vn/eslint-config-alt": "workspace:~"
-    "@quickchat.vn/prettier-config": "workspace:~"
-    build-icons: "workspace:~"
-    bump: "workspace:~"
-    eslint: ~8.26.0
-    lint-all: "workspace:~"
-    lint-staged: ~12.3.8
-    npm-run-all: ^4.1.5
-    prettier: ~2.7.1
-    rimraf: ^3.0.2
-    stylelint: ~14.14.0
-    stylelint-order: ~5.0.0
-    stylelint-prettier: ~2.0.0
-    stylelint-scss: ~4.3.0
-  languageName: unknown
-  linkType: soft
-
-"@quickchat.vn/layout@workspace:packages/layout, @quickchat.vn/layout@workspace:~":
-  version: 0.0.0-use.local
-  resolution: "@quickchat.vn/layout@workspace:packages/layout"
-  dependencies:
-    "@quickchat.vn/eslint-config-alt": "workspace:~"
-    "@quickchat.vn/fuselage": "workspace:~"
-    "@quickchat.vn/prettier-config": "workspace:~"
-    "@storybook/addon-essentials": ~6.5.13
-    "@storybook/addons": ~6.5.13
-    "@storybook/react": ~6.5.13
-    "@storybook/source-loader": ~6.5.13
-    "@storybook/theming": ~6.5.13
-    "@types/jest": ~27.4.1
-    bump: "workspace:~"
-    eslint: ~8.26.0
-    jest: ~27.5.1
-    lint-all: "workspace:~"
-    lint-staged: ~12.3.8
-    npm-run-all: ^4.1.5
-    prettier: ~2.7.1
-    rimraf: ~3.0.2
-    storybook-dark-mode: ^1.1.2
-    ts-jest: ~27.1.5
-    typedoc: ~0.22.18
-    typescript: ~4.3.5
-  peerDependencies:
-    "@quickchat.vn/fuselage": "*"
-    react: 17.0.2
-    react-dom: 17.0.2
-    react-i18next: ~11.15.4
-  languageName: unknown
-  linkType: soft
-
-"@quickchat.vn/logo@workspace:packages/logo, @quickchat.vn/logo@workspace:~":
-  version: 0.0.0-use.local
-  resolution: "@quickchat.vn/logo@workspace:packages/logo"
-  dependencies:
-    "@quickchat.vn/eslint-config-alt": "workspace:~"
-    "@quickchat.vn/fuselage-hooks": "workspace:~"
-    "@quickchat.vn/fuselage-tokens": "workspace:~"
-    "@quickchat.vn/prettier-config": "workspace:~"
-    "@quickchat.vn/styled": "workspace:~"
-    "@types/jest": ~27.4.1
-    "@types/react": ~17.0.51
-    "@types/react-dom": ^17.0.17
-    build-logo: "workspace:~"
-    bump: "workspace:~"
-    eslint: ~8.26.0
-    jest: ~27.5.1
-    lint-all: "workspace:~"
-    lint-staged: ~12.3.8
-    npm-run-all: ^4.1.5
-    prettier: ~2.7.1
-    react: ^17.0.2
-    react-dom: ^17.0.2
-    rimraf: ^3.0.2
-    ts-jest: ~27.1.5
-    tslib: ^2.3.1
-    typedoc: ~0.22.18
-    typescript: ~4.3.5
-  peerDependencies:
-    react: 17.0.2
-    react-dom: 17.0.2
-  languageName: unknown
-  linkType: soft
-
-"@quickchat.vn/memo@workspace:packages/memo, @quickchat.vn/memo@workspace:~":
-  version: 0.0.0-use.local
-  resolution: "@quickchat.vn/memo@workspace:packages/memo"
-  dependencies:
-    "@quickchat.vn/eslint-config-alt": "workspace:~"
-    "@quickchat.vn/prettier-config": "workspace:~"
-    "@types/jest": ~27.4.1
-    bump: "workspace:~"
-    eslint: ~8.26.0
-    jest: ~27.5.1
-    lint-all: "workspace:~"
-    lint-staged: ~12.3.8
-    prettier: ~2.7.1
-    rimraf: ~3.0.2
-    ts-jest: ~27.1.5
-    typedoc: ~0.22.18
-    typescript: ~4.3.5
-  languageName: unknown
-  linkType: soft
-
-"@quickchat.vn/message-parser@workspace:packages/message-parser":
-  version: 0.0.0-use.local
-  resolution: "@quickchat.vn/message-parser@workspace:packages/message-parser"
-  dependencies:
-    "@babel/core": ~7.19.6
-    "@babel/eslint-parser": ~7.19.1
-    "@babel/preset-env": ~7.19.4
-    "@quickchat.vn/eslint-config-alt": "workspace:~"
-    "@quickchat.vn/peggy-loader": "workspace:~"
-    "@quickchat.vn/prettier-config": "workspace:~"
-    "@types/jest": ~27.4.1
-    "@types/node": ~15.14.9
-    "@typescript-eslint/parser": ~5.11.0
-    babel-loader: ~8.2.5
-    bump: "workspace:~"
-    eslint: ~8.26.0
-    jest: ~27.5.1
-    lint-all: "workspace:~"
-    lint-staged: ~12.3.8
-    npm-run-all: ^4.1.5
-    peggy: ^2.0.1
-    prettier: ~2.7.1
-    prettier-plugin-pegjs: ~0.5.2
-    rimraf: ^3.0.2
-    ts-jest: ~27.1.5
-    ts-loader: ~9.2.9
-    typedoc: ~0.22.18
-    typescript: ~4.3.5
-    webpack: ~5.74.0
-    webpack-cli: ~4.10.0
-  languageName: unknown
-  linkType: soft
-
-"@quickchat.vn/mp3-encoder@workspace:packages/mp3-encoder":
-  version: 0.0.0-use.local
-  resolution: "@quickchat.vn/mp3-encoder@workspace:packages/mp3-encoder"
-  dependencies:
-    "@babel/core": ~7.19.6
-    "@babel/plugin-transform-runtime": ~7.19.6
-    "@babel/preset-env": ~7.19.4
-    "@babel/preset-typescript": ^7.18.6
-    "@quickchat.vn/eslint-config-alt": "workspace:~"
-    "@quickchat.vn/prettier-config": "workspace:~"
-    "@rollup/plugin-commonjs": ~21.0.3
-    "@rollup/plugin-node-resolve": ~13.1.3
-    "@rollup/plugin-typescript": ~8.3.4
-    "@types/jest": ~27.4.1
-    bump: "workspace:~"
-    eslint: ~8.26.0
-    jest: ~27.5.1
-    lamejs: "git+https://github.com/zhuker/lamejs.git#commit=582bbba6a12f981b984d8fb9e1874499fed85675"
-    lint-all: "workspace:~"
-    lint-staged: ~12.3.8
-    prettier: ~2.7.1
-    rollup: ~2.67.3
-    ts-jest: ~27.1.5
-    typedoc: ~0.22.18
-    typescript: ~4.3.5
-  languageName: unknown
-  linkType: soft
-
-"@quickchat.vn/onboarding-ui@workspace:packages/onboarding-ui":
-  version: 0.0.0-use.local
-  resolution: "@quickchat.vn/onboarding-ui@workspace:packages/onboarding-ui"
-  dependencies:
-    "@quickchat.vn/eslint-config-alt": "workspace:~"
-    "@quickchat.vn/fuselage": "workspace:~"
-    "@quickchat.vn/fuselage-hooks": "workspace:~"
-    "@quickchat.vn/fuselage-polyfills": "workspace:~"
-    "@quickchat.vn/fuselage-tokens": "workspace:~"
-    "@quickchat.vn/icons": "workspace:~"
-    "@quickchat.vn/layout": "workspace:~"
-    "@quickchat.vn/logo": "workspace:~"
-    "@quickchat.vn/prettier-config": "workspace:~"
-    "@quickchat.vn/styled": "workspace:~"
-    "@storybook/addon-essentials": ~6.5.13
-    "@storybook/addons": ~6.5.13
-    "@storybook/react": ~6.5.13
-    "@storybook/source-loader": ~6.5.13
-    "@storybook/theming": ~6.5.13
-    "@types/jest": ~27.4.1
-    "@types/react": ~17.0.51
-    "@types/react-dom": ^17.0.17
-    bump: "workspace:~"
-    countries-list: ^2.6.1
-    eslint: ~8.26.0
-    i18next: ~21.6.16
-    jest: ~27.5.1
-    lint-all: "workspace:~"
-    lint-staged: ~12.3.8
-    npm-run-all: ^4.1.5
-    prettier: ~2.7.1
-    react: ^17.0.2
-    react-dom: ^17.0.2
-    react-hook-form: ~7.27.1
-    react-i18next: ~11.15.7
-    rimraf: ^3.0.2
-    storybook-dark-mode: ^1.1.2
-    ts-jest: ~27.1.5
-    tslib: ~2.3.1
-    typedoc: ~0.22.18
-    typescript: ~4.3.5
-  peerDependencies:
-    "@quickchat.vn/fuselage": "*"
-    "@quickchat.vn/fuselage-hooks": "*"
-    "@quickchat.vn/fuselage-polyfills": "*"
-    "@quickchat.vn/icons": "*"
-    "@quickchat.vn/layout": "*"
-    "@quickchat.vn/logo": "*"
-    "@quickchat.vn/styled": "*"
-    react: 17.0.2
-    react-dom: 17.0.2
-    react-i18next: ~11.15.4
-  languageName: unknown
-  linkType: soft
-
-"@quickchat.vn/peggy-loader@workspace:packages/peggy-loader, @quickchat.vn/peggy-loader@workspace:~":
-  version: 0.0.0-use.local
-  resolution: "@quickchat.vn/peggy-loader@workspace:packages/peggy-loader"
-  dependencies:
-    "@quickchat.vn/eslint-config-alt": "workspace:~"
-    "@quickchat.vn/prettier-config": "workspace:~"
-    "@types/node": ~15.14.9
-    bump: "workspace:~"
-    eslint: ~8.26.0
-    lint-all: "workspace:~"
-    lint-staged: ~12.3.8
-    npm-run-all: ^4.1.5
-    peggy: ^2.0.1
-    prettier: ~2.7.1
-    rimraf: ^3.0.2
-    ts-jest: ~27.1.5
-    tslib: ^2.3.1
-    typescript: ~4.3.5
-    webpack: ~5.74.0
-  peerDependencies:
-    peggy: "*"
-    webpack: "*"
-  languageName: unknown
-  linkType: soft
-
-"@quickchat.vn/prettier-config@workspace:packages/prettier-config, @quickchat.vn/prettier-config@workspace:~":
-  version: 0.0.0-use.local
-  resolution: "@quickchat.vn/prettier-config@workspace:packages/prettier-config"
-  dependencies:
-    bump: "workspace:~"
-    eslint: ~8.26.0
-    eslint-config-prettier: ~8.5.0
-    eslint-plugin-import: ~2.26.0
-    eslint-plugin-prettier: ~4.2.1
-    lint-all: "workspace:~"
-    lint-staged: ~12.3.8
-    prettier: ~2.7.1
-  peerDependencies:
-    prettier: ~2.7.1
-  languageName: unknown
-  linkType: soft
-
-"@quickchat.vn/string-helpers@workspace:packages/string-helpers":
-  version: 0.0.0-use.local
-  resolution: "@quickchat.vn/string-helpers@workspace:packages/string-helpers"
-  dependencies:
-    "@quickchat.vn/eslint-config-alt": "workspace:~"
-    "@quickchat.vn/prettier-config": "workspace:~"
-    "@types/jest": ~27.4.1
-    bump: "workspace:~"
-    eslint: ~8.26.0
-    jest: ~27.5.1
-    lint-all: "workspace:~"
-    lint-staged: ~12.3.8
-    npm-run-all: ^4.1.5
-    prettier: ~2.7.1
-    rimraf: ^3.0.2
-    ts-jest: ~27.1.5
-    tslib: ^2.3.1
-    typedoc: ~0.22.18
-    typescript: ~4.3.5
-  languageName: unknown
-  linkType: soft
-
-"@quickchat.vn/styled@workspace:packages/styled, @quickchat.vn/styled@workspace:~":
-  version: 0.0.0-use.local
-  resolution: "@quickchat.vn/styled@workspace:packages/styled"
-  dependencies:
-    "@quickchat.vn/css-in-js": "workspace:~"
-    "@quickchat.vn/eslint-config-alt": "workspace:~"
-    "@quickchat.vn/prettier-config": "workspace:~"
-    "@types/jest": ~27.4.1
-    bump: "workspace:~"
-    eslint: ~8.26.0
-    jest: ~27.5.1
-    lint-all: "workspace:~"
-    lint-staged: ~12.3.8
-    npm-run-all: ^4.1.5
-    prettier: ~2.7.1
-    rimraf: ^3.0.2
-    ts-jest: ~27.1.5
-    tslib: ^2.3.1
-    typedoc: ~0.22.18
-    typescript: ~4.3.5
-  languageName: unknown
-  linkType: soft
-
-"@quickchat.vn/stylis-logical-props-middleware@workspace:packages/stylis-logical-props-middleware, @quickchat.vn/stylis-logical-props-middleware@workspace:~":
-  version: 0.0.0-use.local
-  resolution: "@quickchat.vn/stylis-logical-props-middleware@workspace:packages/stylis-logical-props-middleware"
-  dependencies:
-    "@quickchat.vn/css-supports": "workspace:~"
-    "@quickchat.vn/eslint-config-alt": "workspace:~"
-    "@quickchat.vn/prettier-config": "workspace:~"
-    "@types/jest": ~27.4.1
-    bump: "workspace:~"
-    eslint: ~8.26.0
-    jest: ~27.5.1
-    lint-all: "workspace:~"
-    lint-staged: ~12.3.8
-    npm-run-all: ^4.1.5
-    prettier: ~2.7.1
-    rimraf: ^3.0.2
-    stylis: 4.1.3
-    ts-jest: ~27.1.5
-    tslib: ^2.3.1
-    typedoc: ~0.22.18
-    typescript: ~4.3.5
-  peerDependencies:
-    stylis: 4.0.10
-  languageName: unknown
-  linkType: soft
-
-"@quickchat.vn/ui-kit@workspace:packages/ui-kit, @quickchat.vn/ui-kit@workspace:~":
-  version: 0.0.0-use.local
-  resolution: "@quickchat.vn/ui-kit@workspace:packages/ui-kit"
-  dependencies:
-    "@babel/core": ~7.19.6
-    "@babel/eslint-parser": ~7.19.1
-    "@babel/plugin-transform-runtime": ~7.19.6
-    "@babel/preset-env": ~7.19.4
-    "@quickchat.vn/eslint-config-alt": "workspace:~"
-    "@quickchat.vn/prettier-config": "workspace:~"
-    "@types/jest": ~27.4.1
-    babel-loader: ~8.2.5
-    bump: "workspace:~"
-    eslint: ~8.26.0
-    jest: ~27.5.1
-    lint-all: "workspace:~"
-    lint-staged: ~12.3.8
-    npm-run-all: ^4.1.5
-    prettier: ~2.7.1
-    rimraf: ^3.0.2
-    ts-jest: ~27.1.5
-    ts-loader: ~9.2.9
-    typedoc: ~0.22.18
-    typescript: ~4.3.5
-    webpack: ~5.74.0
-    webpack-cli: ~4.10.0
-  languageName: unknown
-  linkType: soft
-
-"@quickchat.vn/uikit-playground@workspace:packages/uikit-playground":
-  version: 0.0.0-use.local
-  resolution: "@quickchat.vn/uikit-playground@workspace:packages/uikit-playground"
-  dependencies:
-    "@babel/eslint-parser": ^7.19.1
-    "@codemirror/lang-javascript": ^6.1.1
-    "@codemirror/lang-json": ^6.0.1
-    "@codemirror/tooltip": ^0.19.16
-    "@lezer/highlight": ^1.1.2
-    "@quickchat.vn/css-in-js": ^0.31.12
-    "@quickchat.vn/eslint-config-alt": "workspace:~"
-    "@quickchat.vn/fuselage": "workspace:~"
-    "@quickchat.vn/fuselage-hooks": "workspace:~"
-    "@quickchat.vn/fuselage-polyfills": "workspace:~"
-    "@quickchat.vn/fuselage-tokens": "workspace:~"
-    "@quickchat.vn/fuselage-ui-kit": "workspace:~"
-    "@quickchat.vn/icons": "workspace:~"
-    "@quickchat.vn/logo": "workspace:~"
-    "@quickchat.vn/styled": "workspace:~"
-    "@types/jest": ^27.5.2
-    "@types/node": ^16.11.36
-    "@types/react": ^17.0.51
-    "@types/react-beautiful-dnd": ^13.1.2
-    "@types/react-dom": ^17.0.17
-    codemirror: ^6.0.1
-    eslint: ~8.26.0
-    eslint-plugin-import: ^2.26.0
-    eslint4b-prebuilt: ^6.7.2
-    gh-pages: ^4.0.0
-    json5: ^2.2.1
-    lint-all: "workspace:~"
-    lint-staged: ~12.3.8
-    prettier: ~2.7.1
-    react: ^17.0.2
-    react-beautiful-dnd: ^13.1.1
-    react-dom: ^17.0.2
-    react-router-dom: ^6.3.0
-    react-scripts: 5.0.1
-    react-split-pane: ^0.1.92
-    react-virtuoso: 3.1.1
-    typescript: ^4.7.2
-    use-subscription: ^1.7.0
-    web-vitals: ^2.1.4
-    webpack: ^5.74.0
-  languageName: unknown
-  linkType: soft
 
 "@rollup/plugin-babel@npm:^5.2.0":
   version: 5.3.1
@@ -35316,7 +35316,7 @@ resolve@^2.0.0-next.3:
   languageName: node
   linkType: hard
 
-"webpack@npm:>=4.43.0 <6.0.0, webpack@npm:^5.64.4, webpack@npm:^5.74.0, webpack@npm:~5.74.0":
+"webpack@npm:>=4.43.0 <6.0.0, webpack@npm:^5.64.4, webpack@npm:^5.74.0":
   version: 5.74.0
   resolution: "webpack@npm:5.74.0"
   dependencies:
@@ -35386,6 +35386,43 @@ resolve@^2.0.0-next.3:
   bin:
     webpack: bin/webpack.js
   checksum: d3830852b98c51c823acf2e630f4d2080e96f584eec1d227dc6f59fe9f452197a0bf36fc2b3adf36ecdd9533df116e1f61e466f8a1c6e0d1a4d1f6efd414f054
+  languageName: node
+  linkType: hard
+
+"webpack@npm:~5.76.0":
+  version: 5.76.1
+  resolution: "webpack@npm:5.76.1"
+  dependencies:
+    "@types/eslint-scope": ^3.7.3
+    "@types/estree": ^0.0.51
+    "@webassemblyjs/ast": 1.11.1
+    "@webassemblyjs/wasm-edit": 1.11.1
+    "@webassemblyjs/wasm-parser": 1.11.1
+    acorn: ^8.7.1
+    acorn-import-assertions: ^1.7.6
+    browserslist: ^4.14.5
+    chrome-trace-event: ^1.0.2
+    enhanced-resolve: ^5.10.0
+    es-module-lexer: ^0.9.0
+    eslint-scope: 5.1.1
+    events: ^3.2.0
+    glob-to-regexp: ^0.4.1
+    graceful-fs: ^4.2.9
+    json-parse-even-better-errors: ^2.3.1
+    loader-runner: ^4.2.0
+    mime-types: ^2.1.27
+    neo-async: ^2.6.2
+    schema-utils: ^3.1.0
+    tapable: ^2.1.1
+    terser-webpack-plugin: ^5.1.3
+    watchpack: ^2.4.0
+    webpack-sources: ^3.2.3
+  peerDependenciesMeta:
+    webpack-cli:
+      optional: true
+  bin:
+    webpack: bin/webpack.js
+  checksum: b01fe0bc2dbca0e10d290ddb0bf81e807a031de48028176e2b21afd696b4d3f25ab9accdad888ef4a1f7c7f4d41f13d5bf2395b7653fdf3e5e3dafa54e56dab2
   languageName: node
   linkType: hard
 
